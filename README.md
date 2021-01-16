@@ -5,6 +5,15 @@
 
 ### List of Projects
 * [Classification of Arrhythmia using ECG Data](#1-Classification-of-Arrhythmia-using-ECG-Data)
+* [Diabetes Prediction](#2-Diabetes-prediction)
+* [Getting Admission in College Prediction](#3-Getting-Admission-in-College-Prediction)
+* [Heart Disease Prediction](#4-Heart-Disease-Prediction)
+* [Iris Flower Classification](#5-Iris-Flower-Classification)
+* [Loan Repayment Prediction](#6-Loan-Repayment-Prediction)
+* [Predict Employee Turnover](#7-Predict-Employee-Turnover)
+* [Wine Quality Prediction](#8-Wine-Quality-Prediction)
+
+
 ### 1. [Classification of Arrhythmia using ECG Data](https://github.com/shsarv/Machine-Learning-Projects/tree/main/Classification%20of%20Arrhythmia)
 | [Notebook File](https://github.com/shsarv/Machine-Learning-Projects/blob/main/Classification%20of%20Arrhythmia/final%20with%20pca.ipynb) | [Complete Project](https://github.com/shsarv/Project-Arrhythmia)| [Dataset](https://github.com/shsarv/Machine-Learning-Projects/blob/main/Classification%20of%20Arrhythmia/Data/arrhythmia.csv) |
 |----|----|----|
