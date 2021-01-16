@@ -10,7 +10,7 @@
 * [License](#License)
 * [Work By](#Work%20By)
 
-## List of Projects
+### List of Projects
 ### 1. [Classification of Arrhythmia using ECG Data](https://github.com/shsarv/Machine-Learning-Projects/tree/main/Classification%20of%20Arrhythmia)
 
 | [Notebook File](https://github.com/shsarv/Machine-Learning-Projects/blob/main/Classification%20of%20Arrhythmia/final%20with%20pca.ipynb) | [Complete Project](https://github.com/shsarv/Project-Arrhythmia)| [Dataset](https://github.com/shsarv/Machine-Learning-Projects/blob/main/Classification%20of%20Arrhythmia/Data/arrhythmia.csv) |
