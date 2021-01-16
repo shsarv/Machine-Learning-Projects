@@ -7,6 +7,8 @@ This Contain All the Machine Learning Projects I have done while Learning Data S
 
 ### 1. [Classification of Arrhythmia using ECG Data](https://github.com/shsarv/Machine-Learning-Projects/tree/main/Classification%20of%20Arrhythmia)
 
+#### &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[Notebook File](https://github.com/shsarv/Machine-Learning-Projects/blob/main/Classification%20of%20Arrhythmia/final%20with%20pca.ipynb)   &ensp;&ensp;&ensp;&ensp;&ensp;&ensp; &ensp;&ensp;   [Complete Project](https://github.com/shsarv/Project-Arrhythmia)
+
 - Our goal was to predict if a person is suffering from cardiac arrhythmia or not, and if yes, classify it in to one of 12 available groups.
 
 - The Dataset used in this project is available at the UCI machine learning Repository. It can be found [Here](https://archive.ics.uci.edu/ml/datasets/Arrhythmia).
