@@ -16,7 +16,7 @@ This Contain All the Machine Learning Projects I have done while Learning Data S
 - The best Model was Kernelized SVM over PCA Data.
 - **Accuracy achieved = 80.21%**
 
-## ..
+##   
 
 ### 2. [Diabetes-prediction](https://github.com/shsarv/Machine-Learning-Projects/tree/main/Diabetes%20Prediction)
 
