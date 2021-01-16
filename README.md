@@ -3,7 +3,14 @@
 ##    
 **This Contain All the Machine Learning Projects that I have done while Learning Data Science.**
 
-## List of Projects:- 
+## Table of Content :-
+
+* [List of Projects](#List%20of%20Projects:-)
+* [Other Projects](#Other%20Projects:-)
+* [License](#License)
+* [Work By](#Work%20By)
+
+## List of Projects:-
 ### 1. [Classification of Arrhythmia using ECG Data](https://github.com/shsarv/Machine-Learning-Projects/tree/main/Classification%20of%20Arrhythmia)
 
 | [Notebook File](https://github.com/shsarv/Machine-Learning-Projects/blob/main/Classification%20of%20Arrhythmia/final%20with%20pca.ipynb) | [Complete Project](https://github.com/shsarv/Project-Arrhythmia)| [Dataset](https://github.com/shsarv/Machine-Learning-Projects/blob/main/Classification%20of%20Arrhythmia/Data/arrhythmia.csv) |
@@ -85,3 +92,5 @@
 - The model best worked on this dataset is Random Forest Classifier with n_estimators=100.
 - **Accuracy achieved = 90.31%**
 ##   
+
+## Other Projects:-
