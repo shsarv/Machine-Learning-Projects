@@ -5,6 +5,16 @@
 
 ### Table of Content:-
 
+* [List of ML Projects](#list-of-projects--)
+
+* [Other Projects](#other-projects--)
+
+* [Bug / Feature Request](#bug-or-feature-request)
+
+* [License](#License)
+
+* [Work By](#Work-By)
+
 
 ### List of Projects :-
 * [Classification of Arrhythmia using ECG Data](#1-Classification-of-Arrhythmia-using-ECG-Data)
@@ -97,4 +107,15 @@
 - **Accuracy achieved = 90.31%**
 ##   
 
-## Other Projects
+## Other Projects:-
+
+
+### Bug or Feature Request
+
+
+### License
+
+
+### Work By
+
+
