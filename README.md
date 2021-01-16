@@ -1,10 +1,10 @@
 <div Align="center"> <h1> Machine Learning Projects </h1> <img alt="GIF" src="01%20Start/resources/a.png"/></div>
 
-----------
+##    
 **This Contain All the Machine Learning Projects that I have done while Learning Data Science.**
 
 ## List of Projects:- 
-### 1. [Classification of Arrhythmia using ECG Data]((https://github.com/shsarv/Machine-Learning-Projects/tree/main/Classification%20of%20Arrhythmia))
+### 1. [Classification of Arrhythmia using ECG Data](https://github.com/shsarv/Machine-Learning-Projects/tree/main/Classification%20of%20Arrhythmia)
 
 | [Notebook File](https://github.com/shsarv/Machine-Learning-Projects/blob/main/Classification%20of%20Arrhythmia/final%20with%20pca.ipynb) | [Complete Project](https://github.com/shsarv/Project-Arrhythmia)| [Dataset](https://github.com/shsarv/Machine-Learning-Projects/blob/main/Classification%20of%20Arrhythmia/Data/arrhythmia.csv) |
 |----|----|----|
@@ -77,4 +77,11 @@
 - **Accuracy achieved = 97%**
 ##   
 
-### 8. []
+### 8. [Wine Quality Prediction](https://github.com/shsarv/Machine-Learning-Projects/tree/main/Wine%20Quality%20prediction)
+| [Notebook File](https://github.com/shsarv/Machine-Learning-Projects/blob/main/Wine%20Quality%20prediction/Wine.ipynb)| [Dataset](https://github.com/shsarv/Machine-Learning-Projects/blob/main/Wine%20Quality%20prediction/winequality.csv)|
+|----|----|
+- The Objective of the project is to predict the quality of the Wine based on different features present in the dataset.
+- The data set that has used in this project is taken from the Kaggle.
+- The model best worked on this dataset is Random Forest Classifier with n_estimators=100.
+- **Accuracy achieved = 90.31%**
+##   
