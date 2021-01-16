@@ -4,7 +4,7 @@
 **This Contain All the Machine Learning Projects that I have done while Learning Data Science.**
 
 ### List of Projects
-* [Classification of Arrhythmia using ECG Data](1%20.%20Classification%20of%20Arrhythmia%20using%20ECG%20Data)
+* [Classification of Arrhythmia using ECG Data](#1%20.%20Classification%20of%20Arrhythmia%20using%20ECG%20Data)
 ### 1. [Classification of Arrhythmia using ECG Data](https://github.com/shsarv/Machine-Learning-Projects/tree/main/Classification%20of%20Arrhythmia)
 | [Notebook File](https://github.com/shsarv/Machine-Learning-Projects/blob/main/Classification%20of%20Arrhythmia/final%20with%20pca.ipynb) | [Complete Project](https://github.com/shsarv/Project-Arrhythmia)| [Dataset](https://github.com/shsarv/Machine-Learning-Projects/blob/main/Classification%20of%20Arrhythmia/Data/arrhythmia.csv) |
 |----|----|----|
