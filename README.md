@@ -1,7 +1,7 @@
 # Machine Learning Projects
 **This Contain All the Machine Learning Projects that I have done while Learning Data Science.**
 
-<img alt="GIF" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200724221635/5-Machine-Learning-Project-Ideas-for-Beginners.png"/>
+<img alt="GIF" src="01%20Start/resources/a.png"/>
 
 ----------
 
