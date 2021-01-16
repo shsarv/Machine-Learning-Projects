@@ -1,9 +1,6 @@
-<img alt="GIF" src="01%20Start/resources/a.png"/>
+<div Align="center"> <h1> Machine Learning Projects </h1> <img alt="GIF" src="01%20Start/resources/a.png"/></div>
 
 ----------
-
-<div Align="center"> <h1> Machine Learning Projects </h1></div>
-
 **This Contain All the Machine Learning Projects that I have done while Learning Data Science.**
 
 ## List of Projects:- 
