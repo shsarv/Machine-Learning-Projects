@@ -1,9 +1,9 @@
 # Machine Learning Projects
-**This Contain All the Machine Learning Projects that I have done while Learning Data Science.**
 
 <img alt="GIF" src="01%20Start/resources/a.png"/>
 
 ----------
+**This Contain All the Machine Learning Projects that I have done while Learning Data Science.**
 
 ## List of Projects:- 
 ### 1. [Classification of Arrhythmia using ECG Data]((https://github.com/shsarv/Machine-Learning-Projects/tree/main/Classification%20of%20Arrhythmia))
