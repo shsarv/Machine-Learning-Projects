@@ -2,10 +2,11 @@
 This Contain All the Machine Learning Projects I have done while Learning Data Science.
 
 <img alt="GIF" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200724221635/5-Machine-Learning-Project-Ideas-for-Beginners.png"/>
-<hr>
+
+----------
 
 ## List of Projects:- 
-## 1. [Classification of Arrhythmia using ECG Data](https://github.com/shsarv/Machine-Learning-Projects/tree/main/Classification%20of%20Arrhythmia)
+## 1. Classification of Arrhythmia using ECG Data
 
 | [Notebook File](https://github.com/shsarv/Machine-Learning-Projects/blob/main/Classification%20of%20Arrhythmia/final%20with%20pca.ipynb) | [Complete Project](https://github.com/shsarv/Project-Arrhythmia)| [Dataset](https://github.com/shsarv/Machine-Learning-Projects/blob/main/Classification%20of%20Arrhythmia/Data/arrhythmia.csv) |
 |----|----|----|
