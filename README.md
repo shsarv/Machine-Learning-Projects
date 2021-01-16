@@ -6,7 +6,7 @@ This Contain All the Machine Learning Projects I have done while Learning Data S
 ----------
 
 ## List of Projects:- 
-## 1. Classification of Arrhythmia using ECG Data
+### 1. [Classification of Arrhythmia using ECG Data]((https://github.com/shsarv/Machine-Learning-Projects/tree/main/Classification%20of%20Arrhythmia))
 
 | [Notebook File](https://github.com/shsarv/Machine-Learning-Projects/blob/main/Classification%20of%20Arrhythmia/final%20with%20pca.ipynb) | [Complete Project](https://github.com/shsarv/Project-Arrhythmia)| [Dataset](https://github.com/shsarv/Machine-Learning-Projects/blob/main/Classification%20of%20Arrhythmia/Data/arrhythmia.csv) |
 |----|----|----|
@@ -17,7 +17,7 @@ This Contain All the Machine Learning Projects I have done while Learning Data S
 - **Accuracy achieved = 80.21%**
 
 
-## 2. [Diabetes-prediction](https://github.com/shsarv/Machine-Learning-Projects/tree/main/Diabetes%20Prediction)
+### 2. [Diabetes-prediction](https://github.com/shsarv/Machine-Learning-Projects/tree/main/Diabetes%20Prediction)
 
 | [Notebook File](https://github.com/shsarv/Machine-Learning-Projects/blob/main/Diabetes%20Prediction/Diabetes%20Classification.ipynb) | [Complete Deployed Project](https://github.com/shsarv/Diabetes-prediction) | [Dataset](https://github.com/shsarv/Machine-Learning-Projects/tree/main/Diabetes%20Prediction/dataset) | [Working Link](https://sarvdiabetes-predictions.herokuapp.com/)
 |----|----|----|----|
