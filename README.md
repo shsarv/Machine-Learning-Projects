@@ -3,7 +3,10 @@
 ##    
 **This Contain All the Machine Learning Projects that I have done while Learning Data Science.**
 
-### List of Projects
+### Table of Content:-
+
+
+### List of Projects :-
 * [Classification of Arrhythmia using ECG Data](#1-Classification-of-Arrhythmia-using-ECG-Data)
 * [Diabetes Prediction](#2-Diabetes-prediction)
 * [Getting Admission in College Prediction](#3-Getting-Admission-in-College-Prediction)
