@@ -21,7 +21,7 @@
 
 ### 1. [Classification of Arrhythmia using ECG Data](https://github.com/shsarv/Machine-Learning-Projects/tree/main/Classification%20of%20Arrhythmia)
 | [Notebook File](https://github.com/shsarv/Machine-Learning-Projects/blob/main/Classification%20of%20Arrhythmia/final%20with%20pca.ipynb) | [Complete Project](https://github.com/shsarv/Project-Arrhythmia)| [Dataset](https://github.com/shsarv/Machine-Learning-Projects/blob/main/Classification%20of%20Arrhythmia/Data/arrhythmia.csv) |
-|----|----|----|
+|---|---|---|
 
 - The goal of this project is to predict if a person is suffering from cardiac arrhythmia or not and if yes, classify it into one of 12 available groups.
 - The Dataset used in this project is available at the UCI machine learning Repository. It can be found [Here](https://archive.ics.uci.edu/ml/datasets/Arrhythmia).
@@ -30,7 +30,7 @@
 ##   
 
 ### 2. [Diabetes-prediction](https://github.com/shsarv/Machine-Learning-Projects/tree/main/Diabetes%20Prediction)
-| [Notebook File](https://github.com/shsarv/Machine-Learning-Projects/blob/main/Diabetes%20Prediction/Diabetes%20Classification.ipynb) | [Complete Deployed Project](https://github.com/shsarv/Diabetes-prediction) | [Dataset](https://github.com/shsarv/Machine-Learning-Projects/tree/main/Diabetes%20Prediction/dataset) | [Working Link](https://sarvdiabetes-predictions.herokuapp.com/)
+| [Notebook File](https://github.com/shsarv/Machine-Learning-Projects/blob/main/Diabetes%20Prediction/Diabetes%20Classification.ipynb) | [Complete Deployed Project](https://github.com/shsarv/Diabetes-prediction) | [Dataset](https://github.com/shsarv/Machine-Learning-Projects/tree/main/Diabetes%20Prediction/dataset) | [Working Link](https://sarvdiabetes-predictions.herokuapp.com/) |
 |----|----|----|----|
 - The objective of the project is to diagnostically predict whether or not a patient has diabetes, based on certain diagnostic measurements included in the dataset.
 - The data set that has used in this project has taken from the Kaggle. "This dataset is originally from the National Institute of Diabetes and Digestive and Kidney Diseases.  
