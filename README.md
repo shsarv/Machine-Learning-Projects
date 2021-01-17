@@ -2,7 +2,9 @@
   
 **This Contain All the Machine Learning Projects that I have done while understanding Machine Learning Concepts.**
 
-**The detailed Description of each project along with the meta projects listed in this repository can be found at github page :- _[https://shsarv.github.io/Machine-Learning-Projects/](https://shsarv.github.io/Machine-Learning-Projects/)_ ⭐⭐⭐**
+**The detailed Description of each project along with the meta projects listed in this repository can be found at github page :-**
+
+**_[https://shsarv.github.io/Machine-Learning-Projects/](https://shsarv.github.io/Machine-Learning-Projects/)_ ⭐⭐⭐**
 
 ### List of Projects :-
 * Classification of Arrhythmia using ECG Data
