@@ -22,5 +22,10 @@
     MIT License Copyright (c) 2020 Sarvesh Kumar Sharma
 
 ### Work By
-    
-  [![](https://sourcerer.io/fame/shsarv/shsarv/machine-learning-Projects/images/0)](https://sourcerer.io/fame/shsarv/shsarv/machine-learning-Projects/links/0)[![](https://sourcerer.io/fame/shsarv/shsarv/machine-learning-Projects/images/1)](https://sourcerer.io/fame/shsarv/shsarv/machine-learning-Projects/links/1)[![](https://sourcerer.io/fame/shsarv/shsarv/machine-learning-Projects/images/2)](https://sourcerer.io/fame/shsarv/shsarv/machine-learning-Projects/links/2)[![](https://sourcerer.io/fame/shsarv/shsarv/machine-learning-Projects/images/3)](https://sourcerer.io/fame/shsarv/shsarv/machine-learning-Projects/links/3)[![](https://sourcerer.io/fame/shsarv/shsarv/machine-learning-Projects/images/4)](https://sourcerer.io/fame/shsarv/shsarv/machine-learning-Projects/links/4)[![](https://sourcerer.io/fame/shsarv/shsarv/machine-learning-Projects/images/5)](https://sourcerer.io/fame/shsarv/shsarv/machine-learning-Projects/links/5)[![](https://sourcerer.io/fame/shsarv/shsarv/machine-learning-Projects/images/6)](https://sourcerer.io/fame/shsarv/shsarv/machine-learning-Projects/links/6)[![](https://sourcerer.io/fame/shsarv/shsarv/machine-learning-Projects/images/7)](https://sourcerer.io/fame/shsarv/shsarv/machine-learning-Projects/links/7)
+ 
+ <table>
+  <tr>
+    <td align="center"><a href="https://github.com/shsarv"><img src="https://avatars2.githubusercontent.com/u/55739302?s=400&u=1e7714cb1cbe3437a527a877486c94611f0e7ab0&v=4" width="70px;" alt=""/><br /><sub><b>Sarvesh Kumar Sharma</b></sub></a></td>
+   <tr>
+  <table>
+<img src="https://img.shields.io/github/followers/shsarv?style=social"><img src="https://img.shields.io/twitter/follow/sarveshroli?label=twitter&style=social">
