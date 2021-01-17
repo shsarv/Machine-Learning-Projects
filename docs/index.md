@@ -1,4 +1,4 @@
-<div Align="center"><img alt="GIF" src="../01%20Start/resources/a.png"/></div>
+<div Align="center"><img alt="GIF" src="../01 Start/resources/a.png"/></div>
 
 
 ### Table of Content:-
