@@ -18,6 +18,7 @@
 * [Loan Repayment Prediction](#6-Loan-Repayment-Prediction)
 * [Predict Employee Turnover](#7-Predict-Employee-Turnover)
 * [Wine Quality Prediction](#8-Wine-Quality-Prediction)
+* [The Battle of Neighborhoods](#9-The-Battle-of-Neighborhoods)
 
 ### 1. [Classification of Arrhythmia using ECG Data](https://github.com/shsarv/Machine-Learning-Projects/tree/main/Classification%20of%20Arrhythmia)
 
@@ -100,6 +101,9 @@
 - The model best worked on this dataset is Random Forest Classifier with n_estimators=100.
 - **Accuracy achieved = 90.31%**
 
+### 9. [The Battle of Neighborhoods](https://github.com/shsarv/Machine-Learning-Projects/tree/main/The%20Battle%20of%20Neighborhoods%20-Coursera%20capstone)
+
+| [](https://github.com/shsarv/Machine-Learning-Projects/tree/main/The%20Battle%20of%20Neighborhoods%20-Coursera%20capstone/)| []()| [](https://github.com/shsarv/Machine-Learning-Projects/tree/main/The%20Battle%20of%20Neighborhoods%20-Coursera%20capstone)|
 
 ## Other Projects:-
 
