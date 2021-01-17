@@ -15,6 +15,7 @@
 * Loan Repayment Prediction
 * Predict Employee Turnover
 * Wine Quality Prediction
+* The Battle of Neighborhoods
 
 ### License
 
