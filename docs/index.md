@@ -10,6 +10,8 @@
 
 
 ## List of Projects :-
+
+<!--
 * [Classification of Arrhythmia using ECG Data](#1-Classification-of-Arrhythmia-using-ECG-Data)
 * [Diabetes Prediction](#2-Diabetes-prediction)
 * [Getting Admission in College Prediction](#3-Getting-Admission-in-College-Prediction)
@@ -18,7 +20,7 @@
 * [Loan Repayment Prediction](#6-Loan-Repayment-Prediction)
 * [Predict Employee Turnover](#7-Predict-Employee-Turnover)
 * [Wine Quality Prediction](#8-Wine-Quality-Prediction)
-* [The Battle of Neighborhoods](#9-The-Battle-of-Neighborhoods)
+* [The Battle of Neighborhoods](#9-The-Battle-of-Neighborhoods) -->
 
 ### 1. [Classification of Arrhythmia using ECG Data](https://github.com/shsarv/Machine-Learning-Projects/tree/main/Classification%20of%20Arrhythmia)
 
@@ -103,10 +105,39 @@
 
 ### 9. [The Battle of Neighborhoods](https://github.com/shsarv/Machine-Learning-Projects/tree/main/The%20Battle%20of%20Neighborhoods%20-Coursera%20capstone)
 
-| [](https://github.com/shsarv/Machine-Learning-Projects/tree/main/The%20Battle%20of%20Neighborhoods%20-Coursera%20capstone/)| []()| [](https://github.com/shsarv/Machine-Learning-Projects/tree/main/The%20Battle%20of%20Neighborhoods%20-Coursera%20capstone)|
+| [Dataset](https://github.com/shsarv/Machine-Learning-Projects/tree/main/The%20Battle%20of%20Neighborhoods%20-Coursera%20capstone/dataset)| [Notebook File](https://github.com/shsarv/Machine-Learning-Projects/blob/main/The%20Battle%20of%20Neighborhoods%20-Coursera%20capstone/Capstone%20Project%20-%20The%20Battle%20of%20the%20Neighborhoods%20-%20London%20Neighborhood%20Clustering.ipynb)| [Complete Project](https://github.com/shsarv/Coursera_capstone)|
+
+- This project aims to select the safest borough in London based on the total crimes, explore the neighborhoods of that borough to find the 10 most common venues in each neighborhood and finally cluster the neighborhoods using k-mean clustering.
+- The crime statistics dataset of London found on Kaggle has crimes in each Boroughs of London from 2008 to 2016. The year 2016 being the latest we will be considering the data of that year which is actually old information as of now. The crime rates in each borough may have changed over time.
+- This is a Coursera Capstone Project for Data Science professional certication.
+- **k- mean Clustering problem**
+
+----------
 
 ## Other Projects:-
 
+### [Deep Learning Projects](https://github.com/shsarv/Deep-Learning-Projects)
+
+* FIFA 2020
+* Digit Recogination
+* Loading...
+
+### Deployed Projects :- 
+	
+* [Restaurant-Recommendation-System](https://github.com/shsarv/Restaurant-Recommendation-System)
+* [Diabetes Prediction](https://github.com/shsarv/Diabetes-prediction)
+* [Unplug the Players](https://github.com/shsarv/UNPLUG-THE-PLAYER)
+* Loading.....
+	
+
+### [EDA Projects](https://github.com/shsarv/EDA-Projects)
+
+- Covid19.
+- Global Terrorism.
+- Flat in cracow.
+- Trending Results.
+
+-----------
 
 ## Bug or Feature Request
 
