@@ -150,4 +150,8 @@ If you'd like to request your work or optimize the models, feel free to do so by
 
 ## Work By
 
-Sarvesh Kumar Sharma
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/shsarv"><img src="https://avatars2.githubusercontent.com/u/55739302?s=400&u=1e7714cb1cbe3437a527a877486c94611f0e7ab0&v=4" width="100px;" alt=""/><br /><sub><b>Sarvesh Sharma</b></sub></a><br /><a href="https://github.com/shsarv" title="github"><img src="https://img.shields.io/github/followers/shsarv?style=social"></a> <a href="https://twitter.com/sarveshroli/" title="twitter"><img src="https://img.shields.io/twitter/follow/sarveshroli?label=twitter&style=social"></a></td>
+   <tr>
+  <table>
