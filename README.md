@@ -17,9 +17,7 @@
 * Wine Quality Prediction
 * The Battle of Neighborhoods
 
-### License
-
-    MIT License Copyright (c) 2020 Sarvesh Kumar Sharma
+sccsmcnssmcbabckaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa    MIT License Copyright (c) 2020 Sarvesh Kumar Sharma
 
 ### Work By
  
