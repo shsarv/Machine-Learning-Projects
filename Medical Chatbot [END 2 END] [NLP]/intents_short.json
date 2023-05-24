@@ -1,0 +1,1173 @@
+{
+    "intents": [
+        {
+            "tag": "abdominal_pain",
+            "patterns": [
+                "abdominal pain",
+                "abdomen hurts",
+                "pain in stomach",
+                "pain in abdomen"
+            ]
+        },
+        {
+            "tag": "abnormal_menstruation",
+            "patterns": [
+                "abnormal menstruation",
+                "heavy period",
+                "Heavy flow",
+                "Period lasts longer",
+                "period painful",
+                "strong menstrual pain",
+                "Menstrual cramps strong"
+            ]
+        },
+        {
+            "tag": "acidity",
+            "patterns": [
+                "acid reflux",
+                "acidity problems",
+                "heartburn"
+            ]
+        },
+        {
+            "tag": "acute_liver_failure",
+            "patterns": [
+                "acute liver failure",
+                "liver hurts",
+                "pain around liver",
+                "Upper right abdomen hurts"
+            ]
+        },
+        {
+            "tag": "altered_sensorium",
+            "patterns": [
+                "altered sensorium",
+                "can't think clearly",
+                "hard to think",
+                "unable to concentrate"
+            ]
+        },
+        {
+            "tag": "anxiety",
+            "patterns": [
+                "anxiety",
+                "anxious",
+                "really worried",
+                "nervous"
+            ]
+        },
+        {
+            "tag": "back_pain",
+            "patterns": [
+                "back hurts",
+                "back pain",
+                "pain in back"
+            ]
+        },
+        {
+            "tag": "belly_pain",
+            "patterns": [
+                "belly hurts",
+                "belly pain",
+                "pain in belly",
+                "Stomach hurts",
+                "Stomach pain"
+            ]
+        },
+        {
+            "tag": "blackheads",
+            "patterns": [
+                "blackheads",
+                "lot of blackheads",
+                "Blackheads on face",
+                "Blackheads on body"
+            ]
+        },
+        {
+            "tag": "bladder_discomfort",
+            "patterns": [
+                "bladder discomfort",
+                "bladder hurts",
+                "discomfort in bladder",
+                "Pressure in bladder"
+            ]
+        },
+        {
+            "tag": "blister",
+            "patterns": [
+                "blisters",
+                "arms are blistered",
+                "feet are blistered",
+                "Body is blistered"
+            ]
+        },
+        {
+            "tag": "blood_in_sputum",
+            "patterns": [
+                "blood in sputum",
+                "coughing up blood",
+                "Blood while caughing"
+            ]
+        },
+        {
+            "tag": "bloody_stool",
+            "patterns": [
+                "blood in stool",
+                "pooped out blood",
+                "bloody stool"
+            ]
+        },
+        {
+            "tag": "blurred_and_distorted_vision",
+            "patterns": [
+                "blurred and distorted vision",
+                "can't see clearly",
+                "can't see",
+                "blurry vision",
+                "Vision distorted"
+            ]
+        },
+        {
+            "tag": "breathlessness",
+            "patterns": [
+                "breathlessness",
+                "difficulty breathing",
+                "out of breath",
+                "feel winded",
+                "Short of breath"
+            ]
+        },
+        {
+            "tag": "brittle_nails",
+            "patterns": [
+                "brittle nails",
+                "nails weak",
+                "Nails brittle",
+                "Nails easily broken"
+            ]
+        },
+        {
+            "tag": "bruising",
+            "patterns": [
+                "bruising",
+                "bruises",
+                "easily bruised",
+                "lot of bruises"
+            ]
+        },
+        {
+            "tag": "burning_micturition",
+            "patterns": [
+                "burning micturition",
+                "hurts when pee",
+                "burns when pee",
+                "Burning sensation peeing"
+            ]
+        },
+        {
+            "tag": "chest_pain",
+            "patterns": [
+                "chest hurts",
+                "chest pain",
+                "pain in chest"
+            ]
+        },
+        {
+            "tag": "chills",
+            "patterns": [
+                "chills",
+                "cold"
+            ]
+        },
+        {
+            "tag": "cold_hands_and_feets",
+            "patterns": [
+                "cold hands and feets",
+                "hands are cold",
+                "feet are cold",
+                "cold hands",
+                "cold feet"
+            ]
+        },
+        {
+            "tag": "coma",
+            "patterns": [
+                "coma",
+                "experienced coma",
+                "was in coma"
+            ]
+        },
+        {
+            "tag": "constipation",
+            "patterns": [
+                "can't poop",
+                "constipated",
+                "am constipated",
+                "haven't pooped in a while"
+            ]
+        },
+        {
+            "tag": "continuous_feel_of_urine",
+            "patterns": [
+                "continuous feel of urine",
+                "have to pee",
+                "Urge to pee",
+                "pee constantly"
+            ]
+        },
+        {
+            "tag": "continuous_sneezing",
+            "patterns": [
+                "continuous sneezing",
+                "sneezing all the time",
+                "sneeze a lot",
+                "Always sneezing",
+                "sneeze constantly"
+            ]
+        },
+        {
+            "tag": "cough",
+            "patterns": [
+                "cough",
+                "coughing all the time",
+                "cough a lot",
+                "Always caughing",
+                "cough constantly"
+            ]
+        },
+        {
+            "tag": "congestion",
+            "patterns": [
+                "congestion",
+                "can't breathe",
+                "nose stuffy",
+                "nose full",
+                "nasal congestion"
+            ]
+        },
+        {
+            "tag": "cramps",
+            "patterns": [
+                "cramps",
+                "cramping up"
+            ]
+        },
+        {
+            "tag": "dark_urine",
+            "patterns": [
+                "urine dark",
+                "Darker color urine",
+                "pee dark"
+            ]
+        },
+        {
+            "tag": "dehydration",
+            "patterns": [
+                "dehydrated",
+                "experiencing dehydration"
+            ]
+        },
+        {
+            "tag": "depression",
+            "patterns": [
+                "depression",
+                "have depression",
+                "feel depressed"
+            ]
+        },
+        {
+            "tag": "diarrhoea",
+            "patterns": [
+                "diarrhoea",
+                "always on toilet",
+                "poop often",
+                "poo a lot"
+            ]
+        },
+        {
+            "tag": "dischromic_patches",
+            "patterns": [
+                "dischromic patches",
+                "lost color on skin",
+                "patches different color",
+                "skin patched"
+            ]
+        },
+        {
+            "tag": "distention_of_abdomen",
+            "patterns": [
+                "distention of abdomen",
+                "stomach bloated",
+                "abdomen bloated",
+                "Abdomen expanded"
+            ]
+        },
+        {
+            "tag": "dizziness",
+            "patterns": [
+                "dizziness",
+                "feeling dizzy",
+                "experiencing dizziness",
+                "woozy",
+                "unsteady",
+                "weak"
+            ]
+        },
+        {
+            "tag": "drying_and_tingling_lips",
+            "patterns": [
+                "drying and tingling lips",
+                "lips tingly",
+                "dry lips",
+                "Dried lips",
+                "Tingling lips"
+            ]
+        },
+        {
+            "tag": "enlarged_thyroid",
+            "patterns": [
+                "thyroid large",
+                "enlarged thyroid"
+            ]
+        },
+        {
+            "tag": "excessive_hunger",
+            "patterns": [
+                "excessive hunger",
+                "really hungry",
+                "always hungry",
+                "hunger"
+            ]
+        },
+        {
+            "tag": "extra_marital_contacts",
+            "patterns": [
+                "extra marital contacts",
+                "affair",
+                "sex with stranger"
+            ]
+        },
+        {
+            "tag": "family_history",
+            "patterns": [
+                "family history",
+                "family disease history",
+                "parents also sick",
+                "genetically at risk",
+                "genetics"
+            ]
+        },
+        {
+            "tag": "fast_heart_rate",
+            "patterns": [
+                "fast heart rate",
+                "heart beating fast",
+                "high heart rate",
+                "Heart really pumping"
+            ]
+        },
+        {
+            "tag": "fatigue",
+            "patterns": [
+                "really tired",
+                "fatigued",
+                "lack energy",
+                "no energy"
+            ]
+        },
+        {
+            "tag": "fluid_overload",
+            "patterns": [
+                "fluid overload",
+                "swolen",
+                "body swelling",
+                "gained weight"
+            ]
+        },
+        {
+            "tag": "foul_smell_ofurine",
+            "patterns": [
+                "foul smell ofurine",
+                "urine smells bad",
+                "pee smells",
+                "pee stinks"
+            ]
+        },
+        {
+            "tag": "headache",
+            "patterns": [
+                "headache",
+                "have headache",
+                "head hurts",
+                "pain in head"
+            ]
+        },
+        {
+            "tag": "high_fever",
+            "patterns": [
+                "high fever",
+                "bad fever",
+                "really high temperature"
+            ]
+        },
+        {
+            "tag": "hip_joint_pain",
+            "patterns": [
+                "hip joint pain",
+                "hip hurts",
+                "pain in hip"
+            ]
+        },
+        {
+            "tag": "history_of_alcohol_consumption",
+            "patterns": [
+                "history of alcohol consumption",
+                "drink a lot",
+                "drinking for long time",
+                "History drinking"
+            ]
+        },
+        {
+            "tag": "increased_appetite",
+            "patterns": [
+                "appetite",
+                "want to eat",
+                "Appetite increased"
+            ]
+        },
+        {
+            "tag": "indigestion",
+            "patterns": [
+                "indigestion",
+                "discomfort in stomach",
+                "upset stomach",
+                "Upper abdomen pain"
+            ]
+        },
+        {
+            "tag": "inflammatory_nails",
+            "patterns": [
+                "inflammatory nails",
+                "nails inflamed",
+                "nails infected",
+                "Inflammation around nails"
+            ]
+        },
+        {
+            "tag": "internal_itching",
+            "patterns": [
+                "itching on inside",
+                "internal itching",
+                "itches inside"
+            ]
+        },
+        {
+            "tag": "irregular_sugar_level",
+            "patterns": [
+                "irregular sugar level",
+                "sugar level off",
+                "Sugar level not normal",
+                "low sugar",
+                "high sugar"
+            ]
+        },
+        {
+            "tag": "irritability",
+            "patterns": [
+                "irritability",
+                "easily irritable",
+                "annoyed",
+                "Easily frustrated"
+            ]
+        },
+        {
+            "tag": "irritation_in_anus",
+            "patterns": [
+                "irritation in anus",
+                "butt itchy",
+                "Anus itchy",
+                "irritated anus"
+            ]
+        },
+        {
+            "tag": "itching",
+            "patterns": [
+                "itching",
+                "itchy everywhere",
+                "body itching"
+            ]
+        },
+        {
+            "tag": "joint_pain",
+            "patterns": [
+                "joints hurt",
+                "ankles hurt",
+                "Pain joints",
+                "Pain arm joints"
+            ]
+        },
+        {
+            "tag": "knee_pain",
+            "patterns": [
+                "knees hurt",
+                "Pain in knee"
+            ]
+        },
+        {
+            "tag": "lack_of_concentration",
+            "patterns": [
+                "lack of concentration",
+                "can't concentrate",
+                "lack concentration",
+                "Can't focus"
+            ]
+        },
+        {
+            "tag": "lethargy",
+            "patterns": [
+                "lethargy",
+                "lack energy",
+                "enthusiasm low",
+                "sleepy",
+                "sluggy"
+            ]
+        },
+        {
+            "tag": "loss_of_appetite",
+            "patterns": [
+                "can't eat",
+                "don't have appetite",
+                "lost appetite",
+                "loss of appetite"
+            ]
+        },
+        {
+            "tag": "loss_of_balance",
+            "patterns": [
+                "loss of balance",
+                "losing balance",
+                "unsteady",
+                "dizzy",
+                "vertigo"
+            ]
+        },
+        {
+            "tag": "loss_of_smell",
+            "patterns": [
+                "can't smell anything",
+                "don't feel sense smell",
+                "no smell",
+                "no sense of smell"
+            ]
+        },
+        {
+            "tag": "malaise",
+            "patterns": [
+                "don't feel well",
+                "don't feel good",
+                "not comfortable",
+                "Everything hurts"
+            ]
+        },
+        {
+            "tag": "mild_fever",
+            "patterns": [
+                "fever",
+                "small fever",
+                "little fevered",
+                "highered temperature"
+            ]
+        },
+        {
+            "tag": "mood_swings",
+            "patterns": [
+                "changes in mood",
+                "mood swings",
+                "Mood changes often"
+            ]
+        },
+        {
+            "tag": "movement_stiffness",
+            "patterns": [
+                "slow",
+                "can't move normally",
+                "muscles stiff",
+                "move stiffly"
+            ]
+        },
+        {
+            "tag": "mucoid_sputum",
+            "patterns": [
+                "coughing up mucus",
+                "mucous sputum",
+                "mucous phlegm"
+            ]
+        },
+        {
+            "tag": "muscle_pain",
+            "patterns": [
+                "muscles ache",
+                "Muscles hurt",
+                "pain muscles"
+            ]
+        },
+        {
+            "tag": "muscle_wasting",
+            "patterns": [
+                "loosing muscle",
+                "muscle atrophy",
+                "muscles getting smaller"
+            ]
+        },
+        {
+            "tag": "muscle_weakness",
+            "patterns": [
+                "muscles weak",
+                "weakness in muscles"
+            ]
+        },
+        {
+            "tag": "nausea",
+            "patterns": [
+                "nausea",
+                "nauseous",
+                "like vomit",
+                "feel sick"
+            ]
+        },
+        {
+            "tag": "neck_pain",
+            "patterns": [
+                "neck hurts",
+                "pain in neck",
+                "neck stiff"
+            ]
+        },
+        {
+            "tag": "nodal_skin_eruptions",
+            "patterns": [
+                "really bad rash",
+                "Swollen rash",
+                "bad skin"
+            ]
+        },
+        {
+            "tag": "obesity",
+            "patterns": [
+                "high body weight",
+                "really fat",
+                "obese"
+            ]
+        },
+        {
+            "tag": "pain_behind_the_eyes",
+            "patterns": [
+                "eyes hurt",
+                "Back of eyes hurt",
+                "hurts behind eyes"
+            ]
+        },
+        {
+            "tag": "pain_during_bowel_movements",
+            "patterns": [
+                "hurts when go toilet",
+                "Pooping hurts",
+                "pain when pooping"
+            ]
+        },
+        {
+            "tag": "pain_in_anal_region",
+            "patterns": [
+                "anus hurts",
+                "butt hurts",
+                "pain anal region",
+                "pain anus"
+            ]
+        },
+        {
+            "tag": "painful_walking",
+            "patterns": [
+                "can't walk",
+                "hurts when walk",
+                "Walking hurts",
+                "Walking painful"
+            ]
+        },
+        {
+            "tag": "palpitations",
+            "patterns": [
+                "palpitations",
+                "heart skipped beat",
+                "Heart extra beats",
+                "heart racing",
+                "Heart pounding"
+            ]
+        },
+        {
+            "tag": "passage_of_gases",
+            "patterns": [
+                "burp",
+                "fart",
+                "gassy"
+            ]
+        },
+        {
+            "tag": "patches_in_throat",
+            "patterns": [
+                "patchy throat",
+                "tonsils hurt",
+                "throat hurts",
+                "Patches throat"
+            ]
+        },
+        {
+            "tag": "phlegm",
+            "patterns": [
+                "phlegm",
+                "phlegm bad",
+                "cough lot of phlegm",
+                "coughing up mucus"
+            ]
+        },
+        {
+            "tag": "polyuria",
+            "patterns": [
+                "pee a lot",
+                "Pee lot of liquid",
+                "lot of urine"
+            ]
+        },
+        {
+            "tag": "prominent_veins_on_calf",
+            "patterns": [
+                "legs show veins",
+                "Veins on legs prominent",
+                "Veins showing",
+                "Veins on legs emphasized"
+            ]
+        },
+        {
+            "tag": "puffy_face_and_eyes",
+            "patterns": [
+                "puffy face and eyes",
+                "puffy face",
+                "Eyes puffy"
+            ]
+        },
+        {
+            "tag": "pus_filled_pimples",
+            "patterns": [
+                "pus filled pimples",
+                "acne",
+                "pimples with pus",
+                "bad pimples",
+                "Yellow pus pimples"
+            ]
+        },
+        {
+            "tag": "receiving_blood_transfusion",
+            "patterns": [
+                "need blood transfusion",
+                "got transfusion",
+                "receiving blood transfusion"
+            ]
+        },
+        {
+            "tag": "receiving_unsterile_injections",
+            "patterns": [
+                "unsterile injection",
+                "weird injection",
+                "injected shady needle"
+            ]
+        },
+        {
+            "tag": "red_sore_around_nose",
+            "patterns": [
+                "red sore around nose",
+                "rash around nose",
+                "red bumps nose",
+                "nose sore red"
+            ]
+        },
+        {
+            "tag": "yellowish_skin",
+            "patterns": [
+                "yellowish skin",
+                "skin turned yellow",
+                "Jaundice",
+                "yellow color skin",
+                "yellowish pigmentation",
+                "greenish pigmentation"
+            ]
+        },
+        {
+            "tag": "yellowing_of_eyes",
+            "patterns": [
+                "yellowing of eyes",
+                "eyes turned yellow",
+                "Jaundice",
+                "Whites of eyes yellow",
+                "yellowing eyes"
+            ]
+        },
+        {
+            "tag": "yellow_urine",
+            "patterns": [
+                "urine yellow",
+                "urine bright yellow",
+                "urine dark yellow",
+                "color of urine deep yellow"
+            ]
+        },
+        {
+            "tag": "yellow_crust_ooze",
+            "patterns": [
+                "yellow crust ooze",
+                "yellowish crust",
+                "Yellow fluid oozed scab",
+                "Yellow liquid from scab",
+                "Oozy scabs"
+            ]
+        },
+        {
+            "tag": "weight_loss",
+            "patterns": [
+                "weight loss",
+                "lost lot of weight",
+                "getting thinner",
+                "skinnier",
+                "lost weight unintentionally"
+            ]
+        },
+        {
+            "tag": "weight_gain",
+            "patterns": [
+                "weight gain",
+                "gained lot of weight",
+                "getting fatter without eating",
+                "gained weight significantly"
+            ]
+        },
+        {
+            "tag": "weakness_of_one_body_side",
+            "patterns": [
+                "weakness on one part of body",
+                "left side weaker than right side",
+                "right side weaker than left side",
+                "Hemiparesis",
+                "partial weakness"
+            ]
+        },
+        {
+            "tag": "weakness_in_limbs",
+            "patterns": [
+                "weakness in limbs",
+                "limbs weak",
+                "leg weakness",
+                "arm weakness",
+                "weakness in arms and hands"
+            ]
+        },
+        {
+            "tag": "watering_from_eyes",
+            "patterns": [
+                "watering eyes",
+                "teary eyes",
+                "excessive tearing",
+                "watering from eyes"
+            ]
+        },
+        {
+            "tag": "vomiting",
+            "patterns": [
+                "had vomited",
+                "vomiting",
+                "threw up",
+                "puked",
+                "puking",
+                "throwing up"
+            ]
+        },
+        {
+            "tag": "visual_disturbances",
+            "patterns": [
+                "visual disturbances",
+                "flashing before eyes",
+                "double vision",
+                "brief attacks of blindness",
+                "can't see clearly"
+            ]
+        },
+        {
+            "tag": "unsteadiness",
+            "patterns": [
+                "unsteadiness",
+                "fell lost balance",
+                "like going to fall",
+                "unsteady",
+                "imbalanced"
+            ]
+        },
+        {
+            "tag": "ulcers_on_tongue",
+            "patterns": [
+                "ulcers on tongue",
+                "tongue ulcers",
+                "tongue is sore",
+                "ulcers in mouth",
+                "mouth ulcers"
+            ]
+        },
+        {
+            "tag": "toxic_look_(typhos)",
+            "patterns": [
+                "toxic look typhos",
+                "don't look so good"
+            ]
+        },
+        {
+            "tag": "throat_irritation",
+            "patterns": [
+                "throat irritation",
+                "throat feels sore",
+                "sore throat",
+                "throat is irritated",
+                "scratchiness in throat"
+            ]
+        },
+        {
+            "tag": "swollen_legs",
+            "patterns": [
+                "swollen legs",
+                "legs swollen",
+                "feet swollen",
+                "legs feet swelling"
+            ]
+        },
+        {
+            "tag": "swollen_extremeties",
+            "patterns": [
+                "swollen extremeties",
+                "swollen legs",
+                "swollen arms",
+                "feet swollen",
+                "hands swollen",
+                "swelling legs",
+                "swelling arms",
+                "feet swelling",
+                "hands swelling"
+            ]
+        },
+        {
+            "tag": "swollen_blood_vessels",
+            "patterns": [
+                "blood vessels swollen",
+                "blood vessels thicker"
+            ]
+        },
+        {
+            "tag": "swelling_of_stomach",
+            "patterns": [
+                "stomach swolen",
+                "swelling of stomach",
+                "abdomen swollen",
+                "swelling of abdomen"
+            ]
+        },
+        {
+            "tag": "swelling_joints",
+            "patterns": [
+                "joints swollen",
+                "swelling in joints",
+                "ankles swollen",
+                "ankles swelling",
+                "wrists swollen",
+                "wrists swelling"
+            ]
+        },
+        {
+            "tag": "swelled_lymph_nodes",
+            "patterns": [
+                "lymph nodes swollen",
+                "swelling in lymph nodes",
+                "lymph nodes bigger",
+                "swollen lymph glands"
+            ]
+        },
+        {
+            "tag": "sweating",
+            "patterns": [
+                "sweating",
+                "sweating too much",
+                "sweating a lot",
+                "sweating excessively"
+            ]
+        },
+        {
+            "tag": "sunken_eyes",
+            "patterns": [
+                "sunken eyes",
+                "eyes tired",
+                "dark circles under eyes",
+                "skin around eyes dark",
+                "skin around eyes thinner",
+                "bags under eyes"
+            ]
+        },
+        {
+            "tag": "stomach_pain",
+            "patterns": [
+                "stomach hurts",
+                "stomach pain",
+                "abdomen pain",
+                "abdomen hurts"
+            ]
+        },
+        {
+            "tag": "stomach_bleeding",
+            "patterns": [
+                "stomach bleeds",
+                "bleeding in stomach"
+            ]
+        },
+        {
+            "tag": "stiff_neck",
+            "patterns": [
+                "neck hurts",
+                "stiff neck",
+                "neck pain",
+                "neck stiffness"
+            ]
+        },
+        {
+            "tag": "spotting_urination",
+            "patterns": [
+                "spotting urination",
+                "spotted blood urine",
+                "little blood urine"
+            ]
+        },
+        {
+            "tag": "spinning_movements",
+            "patterns": [
+                "spinning movements",
+                "like spinning",
+                "like moving"
+            ]
+        },
+        {
+            "tag": "small_dents_in_nails",
+            "patterns": [
+                "dents in nails",
+                "nail pitting",
+                "nail pits",
+                "nails different"
+            ]
+        },
+        {
+            "tag": "slurred_speech",
+            "patterns": [
+                "slurred speech",
+                "speech problems",
+                "can't pronounce words",
+                "mumbling",
+                "difficulty speaking",
+                "don't understand when speaking"
+            ]
+        },
+        {
+            "tag": "skin_rash",
+            "patterns": [
+                "rash",
+                "lesions on skin",
+                "skin red and itchy",
+                "skin rash",
+                "skin dry"
+            ]
+        },
+        {
+            "tag": "skin_peeling",
+            "patterns": [
+                "skin peeling"
+            ]
+        },
+        {
+            "tag": "sinus_pressure",
+            "patterns": [
+                "pressure in sinuses",
+                "sinus pressure",
+                "pain in sinuses",
+                "sinuses congested",
+                "pain in forehead",
+                "pain between eyes"
+            ]
+        },
+        {
+            "tag": "silver_like_dusting",
+            "patterns": [
+                "silver like dusting",
+                "skin blue",
+                "skin grey"
+            ]
+        },
+        {
+            "tag": "shivering",
+            "patterns": [
+                "shivering",
+                "chills"
+            ]
+        },
+        {
+            "tag": "scurring",
+            "patterns": [
+                "scurring"
+            ]
+        },
+        {
+            "tag": "rusty_sputum",
+            "patterns": [
+                "rusty sputum",
+                "brown phlegm",
+                "rusty brown sputum",
+                "brown sputum"
+            ]
+        },
+        {
+            "tag": "runny_nose",
+            "patterns": [
+                "runny nose",
+                "watery runny nose",
+                "watery secretion from nose",
+                "Fluid from nose"
+            ]
+        },
+        {
+            "tag": "restlessness",
+            "patterns": [
+                "restlessness",
+                "need to move around",
+                "inner tension",
+                "can't calm mind",
+                "cramps in extremities",
+                "urge to move"
+            ]
+        },
+        {
+            "tag": "redness_of_eyes",
+            "patterns": [
+                "redness of eyes",
+                "red eyes",
+                "eyes are red",
+                "eyes are dry"
+            ]
+        },
+        {
+            "tag": "red_spots_over_body",
+            "patterns": [
+                "red spots over body",
+                "red spots on body",
+                "small patches on body"
+            ]
+        }
+    ]
+}

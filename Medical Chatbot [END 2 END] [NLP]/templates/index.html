@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css"
+      integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA=="
+      crossorigin="anonymous"
+    />
+    <link
+      rel="stylesheet"
+      href="{{ url_for('static', filename='css/style.css') }}"
+    />
+    <link
+      rel="stylesheet"
+      href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
+      integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u"
+      crossorigin="anonymous"
+    />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+    <script type="text/javascript">
+      let symptoms = [];
+
+      function getSymptomsData(data) {
+        symptoms = data;
+      }
+      getSymptomsData({{ data | tojson }});
+    </script>
+    <title>Medical Chatbot</title>
+  </head>
+
+  <body>
+    <script type="text/javascript"></script>
+    <div class="container app">
+      <div class="row app-one">
+        <div class="conversation">
+          <div class="row heading">
+            <div class="col-sm-2 col-md-1 col-xs-3 heading-avatar">
+              <div class="heading-avatar-icon">
+                <img src="https://bootdey.com/img/Content/avatar/avatar6.png" />
+              </div>
+            </div>
+            <h3 class="heading-title">Medical Chatbot</h3>
+            <div class="col-sm-1 col-xs-1 heading-dot pull-right">
+              <i
+                class="fa fa-ellipsis-v fa-2x pull-right"
+                aria-hidden="true"
+              ></i>
+            </div>
+          </div>
+
+          <div class="row message" id="conversation">
+            <div class="row message-previous">
+              <div class="col-sm-12 previous"></div>
+            </div>
+            <div class="row message-body">
+              <div class="col-sm-12 message-main-receiver">
+                <div class="receiver">
+                  <div class="message-text">
+                    Welcome! I'm Medical Chatbot, but you can call me Meddy.
+                    What symptoms are you currently experiencing? When you've
+                    entered all of your symptoms, please write '<b>Done</b>'.
+                    Make sure you enter as much symptoms as possible so the prediction can be as correct as possible.
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="row reply">
+            <div
+              id="start-over"
+              class="col-sm-1 col-xs-1 reply-emojis text-center"
+            >
+              <i class="fas fa-redo fa-2x"></i>
+            </div>
+            <div class="col-sm-10 col-xs-10 reply-main autocomplete">
+              <div class="symptoms-list-container">
+                <ul id="symptoms-list"></ul>
+              </div>
+              <input id="message-text" class="form-control" type="text" />
+            </div>
+            <div id="send" class="col-sm-1 col-xs-1 reply-send text-center">
+              <i class="fas fa-paper-plane fa-2x" aria-hidden="true"></i>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+  </body>
+</html>
