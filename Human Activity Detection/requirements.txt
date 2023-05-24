@@ -1,5 +1,5 @@
 -i https://pypi.org/simple
-Flask==1.1.2
+Flask==2.2.5
 Flask-Bootstrap==3.3.7.1
 Flask-Uploads==0.2.1
 numpy==1.22.0
