@@ -1,0 +1,1334 @@
+{
+  "intents": [
+    {
+      "intent": "Cancel",
+      "examples": [
+        {
+          "text": "cancel that"
+        },
+        {
+          "text": "cancel the request"
+        },
+        {
+          "text": "forget it"
+        },
+        {
+          "text": "i changed my mind"
+        },
+        {
+          "text": "i don't want a table anymore anymore"
+        },
+        {
+          "text": "never mind"
+        },
+        {
+          "text": "nevermind"
+        }
+      ],
+      "description": "Cancel the current request"
+    },
+    {
+      "intent": "General_Greetings",
+      "examples": [
+        {
+          "text": "Good day"
+        },
+        {
+          "text": "Good evening"
+        },
+        {
+          "text": "Good morning"
+        },
+        {
+          "text": "Greetings"
+        },
+        {
+          "text": "Hello"
+        },
+        {
+          "text": "Hey there"
+        },
+        {
+          "text": "Hey you"
+        },
+        {
+          "text": "hi"
+        },
+        {
+          "text": "How r u?"
+        }
+      ],
+      "description": "Greetings"
+    },
+    {
+      "intent": "Goodbye",
+      "examples": [
+        {
+          "text": "arrivederci"
+        },
+        {
+          "text": "bye"
+        },
+        {
+          "text": "ciao"
+        },
+        {
+          "text": "good bye"
+        },
+        {
+          "text": "see ya"
+        },
+        {
+          "text": "so long"
+        }
+      ],
+      "description": "Good byes"
+    },
+    {
+      "intent": "Help",
+      "examples": [
+        {
+          "text": "can you assist me"
+        },
+        {
+          "text": "can you help"
+        },
+        {
+          "text": "help"
+        },
+        {
+          "text": "help me"
+        },
+        {
+          "text": "i need assistance"
+        },
+        {
+          "text": "what can i do"
+        },
+        {
+          "text": "what can i say"
+        }
+      ],
+      "description": "Ask for help"
+    },
+    {
+      "intent": "Hotel_Hours",
+      "examples": [
+        {
+          "text": "are hotel open on Sunday"
+        },
+        {
+          "text": "Are the hotel open early?"
+        },
+        {
+          "text": "Are you closed new Year's eve"
+        },
+        {
+          "text": "Are you closing early today"
+        },
+        {
+          "text": "Are you open on bank holidays?"
+        },
+        {
+          "text": "Are you open on Sunday"
+        },
+        {
+          "text": "Are you open on sundays, and if so what are the hours?"
+        },
+        {
+          "text": "At what hour can I swing by?"
+        },
+        {
+          "text": "Can you tell me how late the hotel are open till?"
+        },
+        {
+          "text": "Does the store in the city center opens till 8pm on weekends?"
+        },
+        {
+          "text": "hotel hours"
+        },
+        {
+          "text": "hotel hrs"
+        },
+        {
+          "text": "hotel open hours?"
+        },
+        {
+          "text": "hotel open now"
+        },
+        {
+          "text": "Hours of operation"
+        },
+        {
+          "text": "How early do you open?"
+        },
+        {
+          "text": "how early do you open on Saturdays"
+        },
+        {
+          "text": "how late are you open"
+        },
+        {
+          "text": "how late are you open tonight"
+        },
+        {
+          "text": "how late are you there"
+        },
+        {
+          "text": "how late y'all stay up till"
+        },
+        {
+          "text": "How long are you open?"
+        },
+        {
+          "text": "Is the branch open now?"
+        },
+        {
+          "text": "open hours hotel"
+        },
+        {
+          "text": "store hotel"
+        },
+        {
+          "text": "What are the business hours of the hotel nearest to me?"
+        },
+        {
+          "text": "What are the hours of operation?"
+        },
+        {
+          "text": "What are the saturday opening times for the local store?"
+        },
+        {
+          "text": "What are ur opening hours?"
+        },
+        {
+          "text": "what are your hours"
+        },
+        {
+          "text": "What are your hous?"
+        },
+        {
+          "text": "What is the opening time for the washington store?"
+        },
+        {
+          "text": "What time are you closing today?"
+        },
+        {
+          "text": "What time does the central manchester store shut on a saturday?"
+        },
+        {
+          "text": "What time do stores close?"
+        },
+        {
+          "text": "What time do you close"
+        },
+        {
+          "text": "what time do you close on Sunday"
+        },
+        {
+          "text": "What time do you close today"
+        },
+        {
+          "text": "What time do you open on Saturdays"
+        },
+        {
+          "text": "What time is your store open on saturday?"
+        },
+        {
+          "text": "when can i visit your store"
+        },
+        {
+          "text": "when does the hotel close"
+        },
+        {
+          "text": "when do you close"
+        },
+        {
+          "text": "when do your hotel open"
+        },
+        {
+          "text": "will you open for christmas"
+        },
+        {
+          "text": "will you open on christmas"
+        }
+      ],
+      "description": "Find business hours."
+    },
+    {
+      "intent": "Hotel_Location",
+      "examples": [
+        {
+          "text": "can you give me directions"
+        },
+        {
+          "text": "Find store"
+        },
+        {
+          "text": "give me directions"
+        },
+        {
+          "text": "Go to your company"
+        },
+        {
+          "text": "how can i get to you from grand central"
+        },
+        {
+          "text": "how do i find you"
+        },
+        {
+          "text": "how do i get to your business"
+        },
+        {
+          "text": "how do i get to your place"
+        },
+        {
+          "text": "I'd like to go to a store"
+        },
+        {
+          "text": "I need help with find a store"
+        },
+        {
+          "text": "I want to know about a store"
+        },
+        {
+          "text": "location please"
+        },
+        {
+          "text": "Looking for a location"
+        },
+        {
+          "text": "please suggest route from times square"
+        },
+        {
+          "text": "what is the address"
+        },
+        {
+          "text": "What is the closest store to my address?"
+        },
+        {
+          "text": "What is the nearest branch?"
+        },
+        {
+          "text": "What is the store near my zip code?"
+        },
+        {
+          "text": "what's your location"
+        },
+        {
+          "text": "where are you"
+        },
+        {
+          "text": "where are you located"
+        },
+        {
+          "text": "Where are you located?"
+        },
+        {
+          "text": "Where is?"
+        },
+        {
+          "text": "Where is your office?"
+        },
+        {
+          "text": "which cross streets are you on"
+        }
+      ],
+      "description": "Locate a physical hotel location or an address."
+    },
+    {
+      "intent": "Room_Bookings",
+      "examples": [
+        {
+          "text": "are you available on tuesday"
+        },
+        {
+          "text": "Book a room"
+        },
+        {
+          "text": "Can I book an in person session"
+        },
+        {
+          "text": "can I book a room"
+        },
+        {
+          "text": "can i book for tonight"
+        },
+        {
+          "text": "can you make an appointment for me"
+        },
+        {
+          "text": "do you have availability next week"
+        },
+        {
+          "text": "I need room"
+        },
+        {
+          "text": "Room reservation"
+        },
+        {
+          "text": "Want to change my visit"
+        },
+        {
+          "text": "What time can I book the rooms?"
+        },
+        {
+          "text": "When can I come there?"
+        }
+      ],
+      "description": "Room Booking"
+    },
+    {
+      "intent": "Thanks",
+      "examples": [
+        {
+          "text": "i appreciate it"
+        },
+        {
+          "text": "many thanks"
+        },
+        {
+          "text": "much appreciated"
+        },
+        {
+          "text": "thanks"
+        },
+        {
+          "text": "thank you"
+        },
+        {
+          "text": "thank you very much"
+        },
+        {
+          "text": "that's nice of you"
+        },
+        {
+          "text": "thx"
+        }
+      ],
+      "description": "Thanks"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "holiday",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "christmas",
+          "synonyms": [
+            "christmas day",
+            "x man day",
+            "x mas",
+            "x-mas",
+            "xmas",
+            "x-mas day",
+            "xmas day"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "independence day",
+          "synonyms": [
+            "15/7",
+            "15 August",
+            "7/15",
+            "August 15",
+            "july fourth"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "labor day",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "new years",
+          "synonyms": [
+            "1/1",
+            "jan 1",
+            "jan 1st",
+            "jan first",
+            "january 1",
+            "january 1st",
+            "january first",
+            "new year",
+            "new year day",
+            "new years day"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "landmark",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Chennai Lighthouse",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Mahatma Gandhi Statue",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "phone",
+      "values": [
+        {
+          "type": "patterns",
+          "value": "Indian Phone Number Pattern",
+          "patterns": [
+            "^(\\(?\\+?[0-9]*\\)?)?[0-9_\\- \\(\\)]*$"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "reply",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "no",
+          "synonyms": [
+            "definitely not",
+            "don't think so",
+            "dont think so",
+            "i think not",
+            "nope",
+            "not at this time",
+            "not now"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "yes",
+          "synonyms": [
+            "definitely",
+            "go for it",
+            "let's do it",
+            "ok",
+            "please",
+            "sure",
+            "why not",
+            "yeah",
+            "yep",
+            "yes",
+            "you bet",
+            "you betcha"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "sys-date",
+      "values": []
+    },
+    {
+      "entity": "sys-number",
+      "values": []
+    },
+    {
+      "entity": "sys-time",
+      "values": []
+    },
+    {
+      "entity": "zip_code",
+      "values": [
+        {
+          "type": "patterns",
+          "value": "US Zip",
+          "patterns": [
+            "(\\b|\\s)\\d{5}(\\b|\\s)"
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "api_version": {
+      "major_version": "v2",
+      "minor_version": "2018-11-08"
+    }
+  },
+  "webhooks": [
+    {
+      "url": "",
+      "name": "main_webhook",
+      "headers": []
+    }
+  ],
+  "dialog_nodes": [
+    {
+      "type": "standard",
+      "title": "Where are you located?",
+      "output": {},
+      "metadata": {},
+      "next_step": {
+        "behavior": "skip_user_input"
+      },
+      "conditions": "#Hotel_Location",
+      "digress_in": "does_not_return",
+      "dialog_node": "Directions",
+      "digress_out": "allow_all",
+      "previous_sibling": "Hours of Operation"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": "Let me confirm: You want an appointment for <? $date.reformatDateTime(\"EEEEE\") ?> at <? $time.reformatDateTime(\"h a\") ?>. Is this correct?"
+      },
+      "parent": "slot_8_1509132875735",
+      "metadata": {},
+      "event_name": "focus",
+      "dialog_node": "handler_10_1509132875735"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_102_1498132501942",
+      "context": {
+        "date": "@sys-date"
+      },
+      "metadata": {},
+      "conditions": "@sys-date",
+      "event_name": "input",
+      "dialog_node": "handler_103_1498132501942",
+      "previous_sibling": "handler_104_1498132501942"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": "What day would you like to come in?",
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "What day would you like to come in?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "slot_102_1498132501942",
+      "metadata": {},
+      "event_name": "focus",
+      "dialog_node": "handler_104_1498132501942"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_105_1498132552870",
+      "context": {
+        "time": "@sys-time"
+      },
+      "metadata": {},
+      "conditions": "@sys-time",
+      "event_name": "input",
+      "dialog_node": "handler_106_1498132552870",
+      "previous_sibling": "handler_107_1498132552870"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": "What time on <? $date.reformatDateTime(\"EEEEE\") ?> do you want to come in?",
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "What time on <? $date.reformatDateTime(\"EEEEE\") ?> do you want to come in?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "slot_105_1498132552870",
+      "metadata": {},
+      "event_name": "focus",
+      "dialog_node": "handler_107_1498132552870"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "We only accept bookings between 11am and 5pm"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "slot_105_1498132552870",
+      "metadata": {},
+      "next_step": {
+        "behavior": "reprompt"
+      },
+      "conditions": "$time.after('17:30:30') || $time.before('10:59:59')",
+      "event_name": "filled",
+      "dialog_node": "handler_1_1509694458589",
+      "previous_sibling": "handler_106_1498132552870"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "Perfect!"
+          ]
+        }
+      },
+      "parent": "slot_8_1509132875735",
+      "metadata": {},
+      "conditions": "@reply:yes",
+      "event_name": "filled",
+      "dialog_node": "handler_14_1509133469904",
+      "previous_sibling": "handler_9_1509132875735"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "OK. Canceling your request..."
+          ]
+        }
+      },
+      "parent": "Reservation using slots",
+      "context": {
+        "date": null,
+        "time": null,
+        "phone": null,
+        "confirm": null,
+        "specialist": null,
+        "user_cancelled": true
+      },
+      "metadata": {},
+      "next_step": {
+        "behavior": "skip_all_slots"
+      },
+      "conditions": "#Cancel",
+      "event_name": "generic",
+      "dialog_node": "handler_16_1509133697261"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "Sorry... let's try again"
+          ]
+        }
+      },
+      "parent": "slot_8_1509132875735",
+      "context": {
+        "date": null,
+        "time": null,
+        "confirm": null
+      },
+      "metadata": {},
+      "conditions": "@reply:no",
+      "event_name": "filled",
+      "dialog_node": "handler_17_1509135162089",
+      "previous_sibling": "handler_14_1509133469904"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "Thanks"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "slot_22_1522444583114",
+      "context": {
+        "number": "<? @phone.literal ?>"
+      },
+      "metadata": {},
+      "conditions": "true",
+      "event_name": "filled",
+      "dialog_node": "handler_22_1522598191131",
+      "previous_sibling": "handler_23_1522444583114"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_22_1522444583114",
+      "context": {
+        "phone": "@phone"
+      },
+      "metadata": {},
+      "conditions": "@phone",
+      "event_name": "input",
+      "dialog_node": "handler_23_1522444583114",
+      "previous_sibling": "handler_24_1522444583114"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": "I'll just need a phone to hold your reservation",
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I'll just need a phone to hold your reservation"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "slot_22_1522444583114",
+      "metadata": {},
+      "event_name": "focus",
+      "dialog_node": "handler_24_1522444583114"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "Looks like you're trying to book a room in the past. Try again."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "slot_102_1498132501942",
+      "metadata": {},
+      "next_step": {
+        "behavior": "reprompt"
+      },
+      "conditions": "$date.before(now())",
+      "event_name": "filled",
+      "dialog_node": "handler_6_1509695999145",
+      "previous_sibling": "handler_103_1498132501942"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": []
+        }
+      },
+      "parent": "Reservation using slots",
+      "disabled": true,
+      "metadata": {},
+      "event_name": "focus",
+      "dialog_node": "handler_7_1509696539866",
+      "previous_sibling": "handler_16_1509133697261"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_8_1509132875735",
+      "context": {
+        "confirm": "@reply && slot_in_focus"
+      },
+      "metadata": {},
+      "conditions": "@reply && slot_in_focus",
+      "event_name": "input",
+      "dialog_node": "handler_9_1509132875735",
+      "previous_sibling": "handler_10_1509132875735"
+    },
+    {
+      "type": "standard",
+      "title": "What are your hours?",
+      "output": {},
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_3_1522439390442"
+      },
+      "conditions": "#Hotel_Hours",
+      "digress_in": "does_not_return",
+      "dialog_node": "Hours of Operation",
+      "digress_out": "allow_all",
+      "previous_sibling": "Opening"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "Let me know how else I can help"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "Reservation using slots",
+      "context": {},
+      "metadata": {},
+      "conditions": "$user_cancelled",
+      "dialog_node": "node_10_1509697567474",
+      "previous_sibling": "handler_7_1509696539866"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "Hello. Good afternoon",
+            "Hi there. It's a beautiful afternoon",
+            "Good afternoon. How can I help?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_13_1502484041694",
+      "metadata": {},
+      "conditions": "now().after('12:00:00') && now().before('16:59:59')",
+      "dialog_node": "node_1_1495022305143",
+      "previous_sibling": "node_16_1488295517679"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "We are open on <? @sys-date.reformatDateTime(\"EEEEE\") ?> from 10am until 8pm"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "Hours of Operation",
+      "context": {},
+      "metadata": {},
+      "conditions": "@sys-date.reformatDateTime(\"EEEEE\") == \"Monday\" || @sys-date.reformatDateTime(\"EEEEE\") == \"Tuesday\" || @sys-date.reformatDateTime(\"EEEEE\") == \"Wednesday\" || @sys-date.reformatDateTime(\"EEEEE\") == \"Thursday\" || @sys-date.reformatDateTime(\"EEEEE\") == \"Friday\"",
+      "dialog_node": "node_1_1522387330204",
+      "previous_sibling": "node_4_1482425833988"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
+            "See you",
+            "Good bye"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "metadata": {},
+      "conditions": "#Goodbye",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_12_1468329566917",
+      "previous_sibling": "node_13_1502484041694"
+    },
+    {
+      "type": "standard",
+      "output": {},
+      "metadata": {},
+      "conditions": "#General_Greetings",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_13_1502484041694",
+      "previous_sibling": "Reservation using slots"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "Hello. Good evening",
+            "Hi. Good evening",
+            "Hello. How can I help this evening?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_13_1502484041694",
+      "metadata": {},
+      "conditions": "now().after('17:00:00')",
+      "dialog_node": "node_15_1488295465298",
+      "previous_sibling": "node_1_1495022305143"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "Hello. Good morning",
+            "It's a beautiful morning. Hello",
+            "Hi there. How can I help you this morning?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_13_1502484041694",
+      "metadata": {},
+      "conditions": "now().after('04:00:00') && now().before('11:59:59')",
+      "dialog_node": "node_16_1488295517679"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
+            "I didn't understand can you try again"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "metadata": {},
+      "conditions": "anything_else",
+      "digress_in": "returns",
+      "dialog_node": "node_2_1467831978407",
+      "digress_out": "allow_all",
+      "previous_sibling": "node_4_1570050459690",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
+            "You're welcome. Just let me know if you need anything else",
+            "No problem. Just let me know if you need anything else",
+            "My pleasure. Just let me know if you need anything else"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "metadata": {},
+      "conditions": "#Thanks",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_2_1468243505617",
+      "previous_sibling": "node_12_1468329566917"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "Our hours on <? @sys-date.reformatDateTime(\"EEEEE\") ?> are 11am to 6pm."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "Hours of Operation",
+      "context": {},
+      "metadata": {},
+      "conditions": "@sys-date.reformatDateTime(\"EEEEE\") == \"Saturday\" || @sys-date.reformatDateTime(\"EEEEE\") == \"Sunday\"",
+      "dialog_node": "node_2_1482424204936",
+      "previous_sibling": "node_5_1482426503106"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "Hello",
+            "Hi there",
+            "Hi. How can I help"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_13_1502484041694",
+      "metadata": {},
+      "dialog_node": "node_28_1522448362216",
+      "previous_sibling": "node_15_1488295465298"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Let me check availability...  "
+              },
+              {
+                "text": "One of our staff will contact you shortly."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "Reservation using slots",
+      "context": {},
+      "metadata": {},
+      "conditions": "$webhook_result_1",
+      "dialog_node": "node_3_1519173961259",
+      "previous_sibling": "node_10_1509697567474"
+    },
+    {
+      "type": "standard",
+      "title": "Provide location",
+      "output": {
+        "text": {
+          "values": [
+            "Our address is No.12, Marina Chatbot Hotel, Marina Main road, Chennai 60001."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "Directions",
+      "metadata": {},
+      "conditions": "true",
+      "dialog_node": "node_3_1522439390442"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "We are closed on @holiday"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "Hours of Operation",
+      "context": {},
+      "metadata": {},
+      "conditions": "@holiday:christmas ||  @holiday:(new years)",
+      "dialog_node": "node_4_1482425833988"
+    },
+    {
+      "type": "standard",
+      "title": "What can I do",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I can tell you about our hotel location and opening hours, or help you set up a reservation."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Help",
+      "dialog_node": "node_4_1570050459690",
+      "previous_sibling": "node_2_1468243505617"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "We are open on @holiday regular hours"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "Hours of Operation",
+      "context": {},
+      "metadata": {},
+      "conditions": "@holiday",
+      "dialog_node": "node_5_1482426503106",
+      "previous_sibling": "node_1_1522387330204"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "Our hours are Monday to Friday 10am to 8pm and Friday and Saturday 11am to 6pm."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "Hours of Operation",
+      "context": {},
+      "metadata": {},
+      "conditions": " true",
+      "dialog_node": "node_6_1482426521282",
+      "previous_sibling": "node_2_1482424204936"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "To reach our hotel from Mahatma Gandhi Statue, Take the subway which is located near Mahatma Gandhi Statue and take right in the subway and take the elevator and you can find our hotel on your left side."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "Directions",
+      "metadata": {},
+      "conditions": "@landmark:(Mahatma Gandhi Statue)",
+      "dialog_node": "node_7_1482459200886",
+      "previous_sibling": "node_3_1522439390442"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "To reach our hotel from Chennai Lighthouse, Walk towards Anna Pillar and take right then you will find our hotel on your left side."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "Directions",
+      "metadata": {},
+      "conditions": "@landmark:(Chennai Lighthouse)",
+      "dialog_node": "node_8_1482459217052",
+      "previous_sibling": "node_7_1482459200886"
+    },
+    {
+      "type": "standard",
+      "title": "Opening",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hello, I’m a AI room booking virtual assistant to show you the basics.  "
+              },
+              {
+                "text": "I can help with directions to our hotel, hours of operation and booking a room."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "context": {
+        "no_reservation": true
+      },
+      "metadata": {},
+      "conditions": "welcome",
+      "dialog_node": "Opening"
+    },
+    {
+      "type": "frame",
+      "title": "I want to book a room",
+      "output": {},
+      "actions": [
+        {
+          "name": "main_webhook",
+          "type": "webhook",
+          "parameters": {
+            "date": "$date",
+            "time": "$time",
+            "phone": "$number"
+          },
+          "result_variable": "webhook_result_1"
+        }
+      ],
+      "metadata": {
+        "fallback": "leave",
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#Room_Bookings",
+      "digress_in": "does_not_return",
+      "dialog_node": "Reservation using slots",
+      "digress_out": "allow_all",
+      "previous_sibling": "Directions",
+      "digress_out_slots": "allow_all"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Sorry something went wrong. Please call our booking team at 987654321."
+              },
+              {
+                "text": "Or please try again."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "Reservation using slots",
+      "conditions": "anything_else",
+      "dialog_node": "response_2_1625994405311",
+      "previous_sibling": "node_3_1519173961259"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "Reservation using slots",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "variable": "$date",
+      "dialog_node": "slot_102_1498132501942",
+      "previous_sibling": "response_2_1625994405311"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "Reservation using slots",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "variable": "$time",
+      "dialog_node": "slot_105_1498132552870",
+      "previous_sibling": "slot_102_1498132501942"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "Reservation using slots",
+      "metadata": {
+        "_customization": {}
+      },
+      "variable": "$phone",
+      "dialog_node": "slot_22_1522444583114",
+      "previous_sibling": "slot_8_1509132875735"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "Reservation using slots",
+      "metadata": {},
+      "variable": "$confirm",
+      "dialog_node": "slot_8_1509132875735",
+      "previous_sibling": "slot_105_1498132552870"
+    }
+  ],
+  "counterexamples": [],
+  "system_settings": {
+    "tooling": {
+      "store_generic_responses": true
+    },
+    "off_topic": {
+      "enabled": true
+    },
+    "disambiguation": {
+      "prompt": "Did you mean:",
+      "enabled": true,
+      "randomize": true,
+      "max_suggestions": 5,
+      "suggestion_text_policy": "title",
+      "none_of_the_above_prompt": "None of the above"
+    },
+    "intent_classification": {
+      "training_backend_version": "v2"
+    },
+    "spelling_auto_correct": true
+  },
+  "learning_opt_out": false,
+  "name": "Room Booking",
+  "language": "en",
+  "description": "Sample simple customer service skill to get you started."
+}
