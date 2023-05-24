@@ -12,3 +12,4 @@ For Linux, Mac,CUDA version for windows and much more you can visit <a href = "h
 - if all things works fine so you can view running web application in your browser at port 5000.
 
 
+# Download the model file from [https://drive.google.com/file/d/1LJG_ITCWWtriLC5NPrWxIDwekWbhU_Rj/view?usp=sharing](https://drive.google.com/file/d/1LJG_ITCWWtriLC5NPrWxIDwekWbhU_Rj/view?usp=sharing) and add to model directory in order to run the project.
