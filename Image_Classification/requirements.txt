@@ -1,0 +1,5 @@
+tensorflow == 2.15.0
+opencv-python
+imagecodecs
+streamlit_image_comparison
+streamlit_lottie
