@@ -1,0 +1,5 @@
+streamlit
+streamlit_lottie
+numpy
+pandas
+scikit-learn==1.3.1

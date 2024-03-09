@@ -1,0 +1,3549 @@
+Year,State,Type,Length,Expense,Value
+2013,Alabama,Private,4-year,Fees/Tuition,13983
+2013,Alabama,Private,4-year,Room/Board,8503
+2013,Alabama,Public In-State,2-year,Fees/Tuition,4048
+2013,Alabama,Public In-State,4-year,Fees/Tuition,8073
+2013,Alabama,Public In-State,4-year,Room/Board,8473
+2013,Alabama,Public Out-of-State,2-year,Fees/Tuition,7736
+2013,Alabama,Public Out-of-State,4-year,Fees/Tuition,20380
+2013,Alabama,Public Out-of-State,4-year,Room/Board,8473
+2013,Alaska,Private,4-year,Fees/Tuition,21496
+2013,Alaska,Private,4-year,Room/Board,8923
+2013,Alaska,Public In-State,2-year,Fees/Tuition,3972
+2013,Alaska,Public In-State,4-year,Fees/Tuition,6317
+2013,Alaska,Public In-State,4-year,Room/Board,9098
+2013,Alaska,Public Out-of-State,2-year,Fees/Tuition,4150
+2013,Alaska,Public Out-of-State,4-year,Fees/Tuition,18790
+2013,Alaska,Public Out-of-State,4-year,Room/Board,9098
+2013,Arizona,Private,4-year,Fees/Tuition,11650
+2013,Arizona,Private,4-year,Room/Board,8744
+2013,Arizona,Public In-State,2-year,Fees/Tuition,1842
+2013,Arizona,Public In-State,4-year,Fees/Tuition,9694
+2013,Arizona,Public In-State,4-year,Room/Board,9370
+2013,Arizona,Public Out-of-State,2-year,Fees/Tuition,7870
+2013,Arizona,Public Out-of-State,4-year,Fees/Tuition,21201
+2013,Arizona,Public Out-of-State,4-year,Room/Board,9370
+2013,Arkansas,Private,4-year,Fees/Tuition,18004
+2013,Arkansas,Private,4-year,Room/Board,7263
+2013,Arkansas,Public In-State,2-year,Fees/Tuition,2633
+2013,Arkansas,Public In-State,4-year,Fees/Tuition,6604
+2013,Arkansas,Public In-State,4-year,Room/Board,7331
+2013,Arkansas,Public Out-of-State,2-year,Fees/Tuition,4605
+2013,Arkansas,Public Out-of-State,4-year,Fees/Tuition,15669
+2013,Arkansas,Public Out-of-State,4-year,Room/Board,7331
+2013,California,Private,4-year,Fees/Tuition,28345
+2013,California,Private,4-year,Room/Board,12254
+2013,California,Public In-State,2-year,Fees/Tuition,1225
+2013,California,Public In-State,4-year,Fees/Tuition,8892
+2013,California,Public In-State,4-year,Room/Board,12137
+2013,California,Public Out-of-State,2-year,Fees/Tuition,6267
+2013,California,Public Out-of-State,4-year,Fees/Tuition,30765
+2013,California,Public Out-of-State,4-year,Room/Board,12137
+2013,Colorado,Private,4-year,Fees/Tuition,19967
+2013,Colorado,Private,4-year,Room/Board,10939
+2013,Colorado,Public In-State,2-year,Fees/Tuition,3004
+2013,Colorado,Public In-State,4-year,Fees/Tuition,7656
+2013,Colorado,Public In-State,4-year,Room/Board,10396
+2013,Colorado,Public Out-of-State,2-year,Fees/Tuition,8882
+2013,Colorado,Public Out-of-State,4-year,Fees/Tuition,25470
+2013,Colorado,Public Out-of-State,4-year,Room/Board,10396
+2013,Connecticut,Private,4-year,Fees/Tuition,35336
+2013,Connecticut,Private,4-year,Room/Board,12926
+2013,Connecticut,Public In-State,2-year,Fees/Tuition,3596
+2013,Connecticut,Public In-State,4-year,Fees/Tuition,9517
+2013,Connecticut,Public In-State,4-year,Room/Board,11138
+2013,Connecticut,Public Out-of-State,2-year,Fees/Tuition,10512
+2013,Connecticut,Public Out-of-State,4-year,Fees/Tuition,26688
+2013,Connecticut,Public Out-of-State,4-year,Room/Board,11138
+2013,Delaware,Private,4-year,Fees/Tuition,12943
+2013,Delaware,Private,4-year,Room/Board,10758
+2013,Delaware,Public In-State,2-year,Fees/Tuition,3242
+2013,Delaware,Public In-State,4-year,Fees/Tuition,10929
+2013,Delaware,Public In-State,4-year,Room/Board,11011
+2013,Delaware,Public Out-of-State,2-year,Fees/Tuition,7562
+2013,Delaware,Public Out-of-State,4-year,Fees/Tuition,26228
+2013,Delaware,Public Out-of-State,4-year,Room/Board,11011
+2013,District of Columbia,Private,4-year,Fees/Tuition,35524
+2013,District of Columbia,Private,4-year,Room/Board,12916
+2013,District of Columbia,Public In-State,4-year,Fees/Tuition,7244
+2013,District of Columbia,Public Out-of-State,4-year,Fees/Tuition,14540
+2013,Florida,Private,4-year,Fees/Tuition,20155
+2013,Florida,Private,4-year,Room/Board,9968
+2013,Florida,Public In-State,2-year,Fees/Tuition,2486
+2013,Florida,Public In-State,4-year,Fees/Tuition,4377
+2013,Florida,Public In-State,4-year,Room/Board,9793
+2013,Florida,Public Out-of-State,2-year,Fees/Tuition,6889
+2013,Florida,Public Out-of-State,4-year,Fees/Tuition,17050
+2013,Florida,Public Out-of-State,4-year,Room/Board,9793
+2013,Georgia,Private,4-year,Fees/Tuition,22456
+2013,Georgia,Private,4-year,Room/Board,10721
+2013,Georgia,Public In-State,2-year,Fees/Tuition,2652
+2013,Georgia,Public In-State,4-year,Fees/Tuition,6325
+2013,Georgia,Public In-State,4-year,Room/Board,9005
+2013,Georgia,Public Out-of-State,2-year,Fees/Tuition,7554
+2013,Georgia,Public Out-of-State,4-year,Fees/Tuition,22393
+2013,Georgia,Public Out-of-State,4-year,Room/Board,9005
+2013,Hawaii,Private,4-year,Fees/Tuition,14287
+2013,Hawaii,Private,4-year,Room/Board,11522
+2013,Hawaii,Public In-State,2-year,Fees/Tuition,2484
+2013,Hawaii,Public In-State,4-year,Fees/Tuition,7731
+2013,Hawaii,Public In-State,4-year,Room/Board,9256
+2013,Hawaii,Public Out-of-State,2-year,Fees/Tuition,7166
+2013,Hawaii,Public Out-of-State,4-year,Fees/Tuition,23614
+2013,Hawaii,Public Out-of-State,4-year,Room/Board,9256
+2013,Idaho,Private,4-year,Fees/Tuition,6752
+2013,Idaho,Private,4-year,Room/Board,4792
+2013,Idaho,Public In-State,2-year,Fees/Tuition,2915
+2013,Idaho,Public In-State,4-year,Fees/Tuition,5980
+2013,Idaho,Public In-State,4-year,Room/Board,7496
+2013,Idaho,Public Out-of-State,2-year,Fees/Tuition,7276
+2013,Idaho,Public Out-of-State,4-year,Fees/Tuition,17736
+2013,Idaho,Public Out-of-State,4-year,Room/Board,7496
+2013,Illinois,Private,4-year,Fees/Tuition,26299
+2013,Illinois,Private,4-year,Room/Board,10798
+2013,Illinois,Public In-State,2-year,Fees/Tuition,3192
+2013,Illinois,Public In-State,4-year,Fees/Tuition,11882
+2013,Illinois,Public In-State,4-year,Room/Board,10340
+2013,Illinois,Public Out-of-State,2-year,Fees/Tuition,9034
+2013,Illinois,Public Out-of-State,4-year,Fees/Tuition,26873
+2013,Illinois,Public Out-of-State,4-year,Room/Board,10340
+2013,Indiana,Private,4-year,Fees/Tuition,26794
+2013,Indiana,Private,4-year,Room/Board,9574
+2013,Indiana,Public In-State,2-year,Fees/Tuition,3455
+2013,Indiana,Public In-State,4-year,Fees/Tuition,8269
+2013,Indiana,Public In-State,4-year,Room/Board,9489
+2013,Indiana,Public Out-of-State,2-year,Fees/Tuition,7302
+2013,Indiana,Public Out-of-State,4-year,Fees/Tuition,26538
+2013,Indiana,Public Out-of-State,4-year,Room/Board,9489
+2013,Iowa,Private,4-year,Fees/Tuition,15426
+2013,Iowa,Private,4-year,Room/Board,6832
+2013,Iowa,Public In-State,2-year,Fees/Tuition,4099
+2013,Iowa,Public In-State,4-year,Fees/Tuition,7832
+2013,Iowa,Public In-State,4-year,Room/Board,8525
+2013,Iowa,Public Out-of-State,2-year,Fees/Tuition,5190
+2013,Iowa,Public Out-of-State,4-year,Fees/Tuition,23019
+2013,Iowa,Public Out-of-State,4-year,Room/Board,8525
+2013,Kansas,Private,4-year,Fees/Tuition,20852
+2013,Kansas,Private,4-year,Room/Board,7673
+2013,Kansas,Public In-State,2-year,Fees/Tuition,2621
+2013,Kansas,Public In-State,4-year,Fees/Tuition,6970
+2013,Kansas,Public In-State,4-year,Room/Board,6931
+2013,Kansas,Public Out-of-State,2-year,Fees/Tuition,4023
+2013,Kansas,Public Out-of-State,4-year,Fees/Tuition,17646
+2013,Kansas,Public Out-of-State,4-year,Room/Board,6931
+2013,Kentucky,Private,4-year,Fees/Tuition,20639
+2013,Kentucky,Private,4-year,Room/Board,8015
+2013,Kentucky,Public In-State,2-year,Fees/Tuition,3391
+2013,Kentucky,Public In-State,4-year,Fees/Tuition,8416
+2013,Kentucky,Public In-State,4-year,Room/Board,8164
+2013,Kentucky,Public Out-of-State,2-year,Fees/Tuition,11789
+2013,Kentucky,Public Out-of-State,4-year,Fees/Tuition,19040
+2013,Kentucky,Public Out-of-State,4-year,Room/Board,8164
+2013,Louisiana,Private,4-year,Fees/Tuition,28691
+2013,Louisiana,Private,4-year,Room/Board,10397
+2013,Louisiana,Public In-State,2-year,Fees/Tuition,2837
+2013,Louisiana,Public In-State,4-year,Fees/Tuition,5817
+2013,Louisiana,Public In-State,4-year,Room/Board,8428
+2013,Louisiana,Public Out-of-State,2-year,Fees/Tuition,5781
+2013,Louisiana,Public Out-of-State,4-year,Fees/Tuition,17405
+2013,Louisiana,Public Out-of-State,4-year,Room/Board,8428
+2013,Maine,Private,4-year,Fees/Tuition,31558
+2013,Maine,Private,4-year,Room/Board,11187
+2013,Maine,Public In-State,2-year,Fees/Tuition,3409
+2013,Maine,Public In-State,4-year,Fees/Tuition,9295
+2013,Maine,Public In-State,4-year,Room/Board,9381
+2013,Maine,Public Out-of-State,2-year,Fees/Tuition,6053
+2013,Maine,Public Out-of-State,4-year,Fees/Tuition,24397
+2013,Maine,Public Out-of-State,4-year,Room/Board,9381
+2013,Maryland,Private,4-year,Fees/Tuition,32580
+2013,Maryland,Private,4-year,Room/Board,12238
+2013,Maryland,Public In-State,2-year,Fees/Tuition,3500
+2013,Maryland,Public In-State,4-year,Fees/Tuition,8051
+2013,Maryland,Public In-State,4-year,Room/Board,10043
+2013,Maryland,Public Out-of-State,2-year,Fees/Tuition,8355
+2013,Maryland,Public Out-of-State,4-year,Fees/Tuition,20199
+2013,Maryland,Public Out-of-State,4-year,Room/Board,10043
+2013,Massachusetts,Private,4-year,Fees/Tuition,36795
+2013,Massachusetts,Private,4-year,Room/Board,13076
+2013,Massachusetts,Public In-State,2-year,Fees/Tuition,4186
+2013,Massachusetts,Public In-State,4-year,Fees/Tuition,10632
+2013,Massachusetts,Public In-State,4-year,Room/Board,10462
+2013,Massachusetts,Public Out-of-State,2-year,Fees/Tuition,9516
+2013,Massachusetts,Public Out-of-State,4-year,Fees/Tuition,24399
+2013,Massachusetts,Public Out-of-State,4-year,Room/Board,10462
+2013,Michigan,Private,4-year,Fees/Tuition,18135
+2013,Michigan,Private,4-year,Room/Board,8246
+2013,Michigan,Public In-State,2-year,Fees/Tuition,2736
+2013,Michigan,Public In-State,4-year,Fees/Tuition,11027
+2013,Michigan,Public In-State,4-year,Room/Board,8838
+2013,Michigan,Public Out-of-State,2-year,Fees/Tuition,5651
+2013,Michigan,Public Out-of-State,4-year,Fees/Tuition,31047
+2013,Michigan,Public Out-of-State,4-year,Room/Board,8838
+2013,Minnesota,Private,4-year,Fees/Tuition,26499
+2013,Minnesota,Private,4-year,Room/Board,8910
+2013,Minnesota,Public In-State,2-year,Fees/Tuition,5362
+2013,Minnesota,Public In-State,4-year,Fees/Tuition,10291
+2013,Minnesota,Public In-State,4-year,Room/Board,7708
+2013,Minnesota,Public Out-of-State,2-year,Fees/Tuition,6197
+2013,Minnesota,Public Out-of-State,4-year,Fees/Tuition,16313
+2013,Minnesota,Public Out-of-State,4-year,Room/Board,7708
+2013,Mississippi,Private,4-year,Fees/Tuition,14592
+2013,Mississippi,Private,4-year,Room/Board,6289
+2013,Mississippi,Public In-State,2-year,Fees/Tuition,2276
+2013,Mississippi,Public In-State,4-year,Fees/Tuition,6147
+2013,Mississippi,Public In-State,4-year,Room/Board,7436
+2013,Mississippi,Public Out-of-State,2-year,Fees/Tuition,4284
+2013,Mississippi,Public Out-of-State,4-year,Fees/Tuition,15055
+2013,Mississippi,Public Out-of-State,4-year,Room/Board,7436
+2013,Missouri,Private,4-year,Fees/Tuition,19020
+2013,Missouri,Private,4-year,Room/Board,8595
+2013,Missouri,Public In-State,2-year,Fees/Tuition,2716
+2013,Missouri,Public In-State,4-year,Fees/Tuition,7815
+2013,Missouri,Public In-State,4-year,Room/Board,8421
+2013,Missouri,Public Out-of-State,2-year,Fees/Tuition,5384
+2013,Missouri,Public Out-of-State,4-year,Fees/Tuition,18885
+2013,Missouri,Public Out-of-State,4-year,Room/Board,8421
+2013,Montana,Private,4-year,Fees/Tuition,19737
+2013,Montana,Private,4-year,Room/Board,7584
+2013,Montana,Public In-State,2-year,Fees/Tuition,3151
+2013,Montana,Public In-State,4-year,Fees/Tuition,6267
+2013,Montana,Public In-State,4-year,Room/Board,7306
+2013,Montana,Public Out-of-State,2-year,Fees/Tuition,8351
+2013,Montana,Public Out-of-State,4-year,Fees/Tuition,20164
+2013,Montana,Public Out-of-State,4-year,Room/Board,7306
+2013,Nebraska,Private,4-year,Fees/Tuition,19478
+2013,Nebraska,Private,4-year,Room/Board,7733
+2013,Nebraska,Public In-State,2-year,Fees/Tuition,2594
+2013,Nebraska,Public In-State,4-year,Fees/Tuition,7023
+2013,Nebraska,Public In-State,4-year,Room/Board,8268
+2013,Nebraska,Public Out-of-State,2-year,Fees/Tuition,3415
+2013,Nebraska,Public Out-of-State,4-year,Fees/Tuition,16702
+2013,Nebraska,Public Out-of-State,4-year,Room/Board,8268
+2013,Nevada,Private,4-year,Fees/Tuition,16108
+2013,Nevada,Private,4-year,Room/Board,21602
+2013,Nevada,Public In-State,2-year,Fees/Tuition,2700
+2013,Nevada,Public In-State,4-year,Fees/Tuition,4953
+2013,Nevada,Public In-State,4-year,Room/Board,10991
+2013,Nevada,Public Out-of-State,2-year,Fees/Tuition,9345
+2013,Nevada,Public Out-of-State,4-year,Fees/Tuition,19156
+2013,Nevada,Public Out-of-State,4-year,Room/Board,10991
+2013,New Hampshire,Private,4-year,Fees/Tuition,30202
+2013,New Hampshire,Private,4-year,Room/Board,12107
+2013,New Hampshire,Public In-State,2-year,Fees/Tuition,7218
+2013,New Hampshire,Public In-State,4-year,Fees/Tuition,14435
+2013,New Hampshire,Public In-State,4-year,Room/Board,10270
+2013,New Hampshire,Public Out-of-State,2-year,Fees/Tuition,15697
+2013,New Hampshire,Public Out-of-State,4-year,Fees/Tuition,24945
+2013,New Hampshire,Public Out-of-State,4-year,Room/Board,10270
+2013,New Jersey,Private,4-year,Fees/Tuition,31195
+2013,New Jersey,Private,4-year,Room/Board,11636
+2013,New Jersey,Public In-State,2-year,Fees/Tuition,3782
+2013,New Jersey,Public In-State,4-year,Fees/Tuition,11955
+2013,New Jersey,Public In-State,4-year,Room/Board,11819
+2013,New Jersey,Public Out-of-State,2-year,Fees/Tuition,6591
+2013,New Jersey,Public Out-of-State,4-year,Fees/Tuition,24447
+2013,New Jersey,Public Out-of-State,4-year,Room/Board,11819
+2013,New Mexico,Private,4-year,Fees/Tuition,16256
+2013,New Mexico,Private,4-year,Room/Board,8889
+2013,New Mexico,Public In-State,2-year,Fees/Tuition,1399
+2013,New Mexico,Public In-State,4-year,Fees/Tuition,5483
+2013,New Mexico,Public In-State,4-year,Room/Board,7742
+2013,New Mexico,Public Out-of-State,2-year,Fees/Tuition,4558
+2013,New Mexico,Public Out-of-State,4-year,Fees/Tuition,14327
+2013,New Mexico,Public Out-of-State,4-year,Room/Board,7742
+2013,New York,Private,4-year,Fees/Tuition,32438
+2013,New York,Private,4-year,Room/Board,12901
+2013,New York,Public In-State,2-year,Fees/Tuition,4331
+2013,New York,Public In-State,4-year,Fees/Tuition,6556
+2013,New York,Public In-State,4-year,Room/Board,11841
+2013,New York,Public Out-of-State,2-year,Fees/Tuition,7827
+2013,New York,Public Out-of-State,4-year,Fees/Tuition,15751
+2013,New York,Public Out-of-State,4-year,Room/Board,11841
+2013,North Carolina,Private,4-year,Fees/Tuition,26336
+2013,North Carolina,Private,4-year,Room/Board,9858
+2013,North Carolina,Public In-State,2-year,Fees/Tuition,2212
+2013,North Carolina,Public In-State,4-year,Fees/Tuition,6223
+2013,North Carolina,Public In-State,4-year,Room/Board,8291
+2013,North Carolina,Public Out-of-State,2-year,Fees/Tuition,8171
+2013,North Carolina,Public Out-of-State,4-year,Fees/Tuition,19733
+2013,North Carolina,Public Out-of-State,4-year,Room/Board,8291
+2013,North Dakota,Private,4-year,Fees/Tuition,12318
+2013,North Dakota,Private,4-year,Room/Board,5424
+2013,North Dakota,Public In-State,2-year,Fees/Tuition,4048
+2013,North Dakota,Public In-State,4-year,Fees/Tuition,6572
+2013,North Dakota,Public In-State,4-year,Room/Board,6639
+2013,North Dakota,Public Out-of-State,2-year,Fees/Tuition,8216
+2013,North Dakota,Public Out-of-State,4-year,Fees/Tuition,16170
+2013,North Dakota,Public Out-of-State,4-year,Room/Board,6639
+2013,Ohio,Private,4-year,Fees/Tuition,25756
+2013,Ohio,Private,4-year,Room/Board,9612
+2013,Ohio,Public In-State,2-year,Fees/Tuition,3480
+2013,Ohio,Public In-State,4-year,Fees/Tuition,9301
+2013,Ohio,Public In-State,4-year,Room/Board,10152
+2013,Ohio,Public Out-of-State,2-year,Fees/Tuition,7421
+2013,Ohio,Public Out-of-State,4-year,Fees/Tuition,21683
+2013,Ohio,Public Out-of-State,4-year,Room/Board,10152
+2013,Oklahoma,Private,4-year,Fees/Tuition,20572
+2013,Oklahoma,Private,4-year,Room/Board,8658
+2013,Oklahoma,Public In-State,2-year,Fees/Tuition,2904
+2013,Oklahoma,Public In-State,4-year,Fees/Tuition,5882
+2013,Oklahoma,Public In-State,4-year,Room/Board,7123
+2013,Oklahoma,Public Out-of-State,2-year,Fees/Tuition,7101
+2013,Oklahoma,Public Out-of-State,4-year,Fees/Tuition,16543
+2013,Oklahoma,Public Out-of-State,4-year,Room/Board,7123
+2013,Oregon,Private,4-year,Fees/Tuition,30195
+2013,Oregon,Private,4-year,Room/Board,10460
+2013,Oregon,Public In-State,2-year,Fees/Tuition,3752
+2013,Oregon,Public In-State,4-year,Fees/Tuition,8294
+2013,Oregon,Public In-State,4-year,Room/Board,10232
+2013,Oregon,Public Out-of-State,2-year,Fees/Tuition,7689
+2013,Oregon,Public Out-of-State,4-year,Fees/Tuition,25067
+2013,Oregon,Public Out-of-State,4-year,Room/Board,10232
+2013,Pennsylvania,Private,4-year,Fees/Tuition,32949
+2013,Pennsylvania,Private,4-year,Room/Board,11459
+2013,Pennsylvania,Public In-State,2-year,Fees/Tuition,4133
+2013,Pennsylvania,Public In-State,4-year,Fees/Tuition,12184
+2013,Pennsylvania,Public In-State,4-year,Room/Board,9453
+2013,Pennsylvania,Public Out-of-State,2-year,Fees/Tuition,11009
+2013,Pennsylvania,Public Out-of-State,4-year,Fees/Tuition,22891
+2013,Pennsylvania,Public Out-of-State,4-year,Room/Board,9453
+2013,Rhode Island,Private,4-year,Fees/Tuition,33940
+2013,Rhode Island,Private,4-year,Room/Board,12174
+2013,Rhode Island,Public In-State,2-year,Fees/Tuition,3950
+2013,Rhode Island,Public In-State,4-year,Fees/Tuition,10817
+2013,Rhode Island,Public In-State,4-year,Room/Board,10765
+2013,Rhode Island,Public Out-of-State,2-year,Fees/Tuition,10582
+2013,Rhode Island,Public Out-of-State,4-year,Fees/Tuition,26762
+2013,Rhode Island,Public Out-of-State,4-year,Room/Board,10765
+2013,South Carolina,Private,4-year,Fees/Tuition,20990
+2013,South Carolina,Private,4-year,Room/Board,8175
+2013,South Carolina,Public In-State,2-year,Fees/Tuition,3820
+2013,South Carolina,Public In-State,4-year,Fees/Tuition,10691
+2013,South Carolina,Public In-State,4-year,Room/Board,7964
+2013,South Carolina,Public Out-of-State,2-year,Fees/Tuition,7910
+2013,South Carolina,Public Out-of-State,4-year,Fees/Tuition,26042
+2013,South Carolina,Public Out-of-State,4-year,Room/Board,7964
+2013,South Dakota,Private,4-year,Fees/Tuition,18843
+2013,South Dakota,Private,4-year,Room/Board,6953
+2013,South Dakota,Public In-State,2-year,Fees/Tuition,5066
+2013,South Dakota,Public In-State,4-year,Fees/Tuition,7413
+2013,South Dakota,Public In-State,4-year,Room/Board,6445
+2013,South Dakota,Public Out-of-State,2-year,Fees/Tuition,5261
+2013,South Dakota,Public Out-of-State,4-year,Fees/Tuition,9654
+2013,South Dakota,Public Out-of-State,4-year,Room/Board,6445
+2013,Tennessee,Private,4-year,Fees/Tuition,22046
+2013,Tennessee,Private,4-year,Room/Board,9090
+2013,Tennessee,Public In-State,2-year,Fees/Tuition,3526
+2013,Tennessee,Public In-State,4-year,Fees/Tuition,7472
+2013,Tennessee,Public In-State,4-year,Room/Board,7944
+2013,Tennessee,Public Out-of-State,2-year,Fees/Tuition,13682
+2013,Tennessee,Public Out-of-State,4-year,Fees/Tuition,22412
+2013,Tennessee,Public Out-of-State,4-year,Room/Board,7944
+2013,Texas,Private,4-year,Fees/Tuition,25174
+2013,Texas,Private,4-year,Room/Board,9686
+2013,Texas,Public In-State,2-year,Fees/Tuition,1815
+2013,Texas,Public In-State,4-year,Fees/Tuition,7402
+2013,Texas,Public In-State,4-year,Room/Board,8538
+2013,Texas,Public Out-of-State,2-year,Fees/Tuition,5075
+2013,Texas,Public Out-of-State,4-year,Fees/Tuition,20044
+2013,Texas,Public Out-of-State,4-year,Room/Board,8538
+2013,Utah,Private,4-year,Fees/Tuition,7758
+2013,Utah,Private,4-year,Room/Board,7572
+2013,Utah,Public In-State,2-year,Fees/Tuition,3170
+2013,Utah,Public In-State,4-year,Fees/Tuition,5375
+2013,Utah,Public In-State,4-year,Room/Board,6701
+2013,Utah,Public Out-of-State,2-year,Fees/Tuition,10012
+2013,Utah,Public Out-of-State,4-year,Fees/Tuition,16631
+2013,Utah,Public Out-of-State,4-year,Room/Board,6701
+2013,Vermont,Private,4-year,Fees/Tuition,35130
+2013,Vermont,Private,4-year,Room/Board,11125
+2013,Vermont,Public In-State,2-year,Fees/Tuition,5452
+2013,Vermont,Public In-State,4-year,Fees/Tuition,13524
+2013,Vermont,Public In-State,4-year,Room/Board,9766
+2013,Vermont,Public Out-of-State,2-year,Fees/Tuition,10804
+2013,Vermont,Public Out-of-State,4-year,Fees/Tuition,32650
+2013,Vermont,Public Out-of-State,4-year,Room/Board,9766
+2013,Virginia,Private,4-year,Fees/Tuition,21524
+2013,Virginia,Private,4-year,Room/Board,8959
+2013,Virginia,Public In-State,2-year,Fees/Tuition,3910
+2013,Virginia,Public In-State,4-year,Fees/Tuition,9866
+2013,Virginia,Public In-State,4-year,Room/Board,8977
+2013,Virginia,Public Out-of-State,2-year,Fees/Tuition,8592
+2013,Virginia,Public Out-of-State,4-year,Fees/Tuition,27079
+2013,Virginia,Public Out-of-State,4-year,Room/Board,8977
+2013,Washington,Private,4-year,Fees/Tuition,30133
+2013,Washington,Private,4-year,Room/Board,10161
+2013,Washington,Public In-State,2-year,Fees/Tuition,3957
+2013,Washington,Public In-State,4-year,Fees/Tuition,8856
+2013,Washington,Public In-State,4-year,Room/Board,10069
+2013,Washington,Public Out-of-State,2-year,Fees/Tuition,6983
+2013,Washington,Public Out-of-State,4-year,Fees/Tuition,26314
+2013,Washington,Public Out-of-State,4-year,Room/Board,10069
+2013,West Virginia,Private,4-year,Fees/Tuition,10721
+2013,West Virginia,Private,4-year,Room/Board,8399
+2013,West Virginia,Public In-State,2-year,Fees/Tuition,3135
+2013,West Virginia,Public In-State,4-year,Fees/Tuition,5599
+2013,West Virginia,Public In-State,4-year,Room/Board,8527
+2013,West Virginia,Public Out-of-State,2-year,Fees/Tuition,7798
+2013,West Virginia,Public Out-of-State,4-year,Fees/Tuition,16582
+2013,West Virginia,Public Out-of-State,4-year,Room/Board,8527
+2013,Wisconsin,Private,4-year,Fees/Tuition,25500
+2013,Wisconsin,Private,4-year,Room/Board,8699
+2013,Wisconsin,Public In-State,2-year,Fees/Tuition,4073
+2013,Wisconsin,Public In-State,4-year,Fees/Tuition,8339
+2013,Wisconsin,Public In-State,4-year,Room/Board,7106
+2013,Wisconsin,Public Out-of-State,2-year,Fees/Tuition,6824
+2013,Wisconsin,Public Out-of-State,4-year,Fees/Tuition,20146
+2013,Wisconsin,Public Out-of-State,4-year,Room/Board,7106
+2013,Wyoming,Private,4-year,Fees/Tuition,13562
+2013,Wyoming,Public In-State,2-year,Fees/Tuition,2420
+2013,Wyoming,Public In-State,4-year,Fees/Tuition,3642
+2013,Wyoming,Public In-State,4-year,Room/Board,8837
+2013,Wyoming,Public Out-of-State,2-year,Fees/Tuition,5998
+2013,Wyoming,Public Out-of-State,4-year,Fees/Tuition,10962
+2013,Wyoming,Public Out-of-State,4-year,Room/Board,8837
+2014,Alabama,Private,4-year,Fees/Tuition,14201
+2014,Alabama,Private,4-year,Room/Board,8773
+2014,Alabama,Public In-State,2-year,Fees/Tuition,4108
+2014,Alabama,Public In-State,4-year,Fees/Tuition,8503
+2014,Alabama,Public In-State,4-year,Room/Board,8744
+2014,Alabama,Public Out-of-State,2-year,Fees/Tuition,7855
+2014,Alabama,Public Out-of-State,4-year,Fees/Tuition,21389
+2014,Alabama,Public Out-of-State,4-year,Room/Board,8744
+2014,Alaska,Private,4-year,Fees/Tuition,20943
+2014,Alaska,Private,4-year,Room/Board,9319
+2014,Alaska,Public In-State,2-year,Fees/Tuition,4652
+2014,Alaska,Public In-State,4-year,Fees/Tuition,6141
+2014,Alaska,Public In-State,4-year,Room/Board,9556
+2014,Alaska,Public Out-of-State,2-year,Fees/Tuition,4569
+2014,Alaska,Public Out-of-State,4-year,Fees/Tuition,18458
+2014,Alaska,Public Out-of-State,4-year,Room/Board,9556
+2014,Arizona,Private,4-year,Fees/Tuition,11462
+2014,Arizona,Private,4-year,Room/Board,8734
+2014,Arizona,Public In-State,2-year,Fees/Tuition,1949
+2014,Arizona,Public In-State,4-year,Fees/Tuition,9906
+2014,Arizona,Public In-State,4-year,Room/Board,9877
+2014,Arizona,Public Out-of-State,2-year,Fees/Tuition,7994
+2014,Arizona,Public Out-of-State,4-year,Fees/Tuition,22878
+2014,Arizona,Public Out-of-State,4-year,Room/Board,9877
+2014,Arkansas,Private,4-year,Fees/Tuition,19104
+2014,Arkansas,Private,4-year,Room/Board,7371
+2014,Arkansas,Public In-State,2-year,Fees/Tuition,2812
+2014,Arkansas,Public In-State,4-year,Fees/Tuition,6894
+2014,Arkansas,Public In-State,4-year,Room/Board,7760
+2014,Arkansas,Public Out-of-State,2-year,Fees/Tuition,4905
+2014,Arkansas,Public Out-of-State,4-year,Fees/Tuition,16266
+2014,Arkansas,Public Out-of-State,4-year,Room/Board,7760
+2014,California,Private,4-year,Fees/Tuition,29678
+2014,California,Private,4-year,Room/Board,12213
+2014,California,Public In-State,2-year,Fees/Tuition,1233
+2014,California,Public In-State,4-year,Fees/Tuition,8903
+2014,California,Public In-State,4-year,Room/Board,12380
+2014,California,Public Out-of-State,2-year,Fees/Tuition,6593
+2014,California,Public Out-of-State,4-year,Fees/Tuition,30663
+2014,California,Public Out-of-State,4-year,Room/Board,12380
+2014,Colorado,Private,4-year,Fees/Tuition,20359
+2014,Colorado,Private,4-year,Room/Board,11114
+2014,Colorado,Public In-State,2-year,Fees/Tuition,3160
+2014,Colorado,Public In-State,4-year,Fees/Tuition,8228
+2014,Colorado,Public In-State,4-year,Room/Board,10751
+2014,Colorado,Public Out-of-State,2-year,Fees/Tuition,9261
+2014,Colorado,Public Out-of-State,4-year,Fees/Tuition,26233
+2014,Colorado,Public Out-of-State,4-year,Room/Board,10751
+2014,Connecticut,Private,4-year,Fees/Tuition,35407
+2014,Connecticut,Private,4-year,Room/Board,13311
+2014,Connecticut,Public In-State,2-year,Fees/Tuition,3824
+2014,Connecticut,Public In-State,4-year,Fees/Tuition,10128
+2014,Connecticut,Public In-State,4-year,Room/Board,11514
+2014,Connecticut,Public Out-of-State,2-year,Fees/Tuition,11287
+2014,Connecticut,Public Out-of-State,4-year,Fees/Tuition,28337
+2014,Connecticut,Public Out-of-State,4-year,Room/Board,11514
+2014,Delaware,Private,4-year,Fees/Tuition,13444
+2014,Delaware,Private,4-year,Room/Board,10777
+2014,Delaware,Public In-State,2-year,Fees/Tuition,3380
+2014,Delaware,Public In-State,4-year,Fees/Tuition,11278
+2014,Delaware,Public In-State,4-year,Room/Board,11408
+2014,Delaware,Public Out-of-State,2-year,Fees/Tuition,7910
+2014,Delaware,Public Out-of-State,4-year,Fees/Tuition,27162
+2014,Delaware,Public Out-of-State,4-year,Room/Board,11408
+2014,District of Columbia,Private,4-year,Fees/Tuition,36723
+2014,District of Columbia,Private,4-year,Room/Board,13171
+2014,District of Columbia,Public In-State,4-year,Fees/Tuition,7255
+2014,District of Columbia,Public Out-of-State,4-year,Fees/Tuition,14535
+2014,Florida,Private,4-year,Fees/Tuition,20971
+2014,Florida,Private,4-year,Room/Board,10317
+2014,Florida,Public In-State,2-year,Fees/Tuition,2513
+2014,Florida,Public In-State,4-year,Fees/Tuition,4423
+2014,Florida,Public In-State,4-year,Room/Board,9949
+2014,Florida,Public Out-of-State,2-year,Fees/Tuition,9362
+2014,Florida,Public Out-of-State,4-year,Fees/Tuition,17077
+2014,Florida,Public Out-of-State,4-year,Room/Board,9949
+2014,Georgia,Private,4-year,Fees/Tuition,23521
+2014,Georgia,Private,4-year,Room/Board,11138
+2014,Georgia,Public In-State,2-year,Fees/Tuition,2926
+2014,Georgia,Public In-State,4-year,Fees/Tuition,6614
+2014,Georgia,Public In-State,4-year,Room/Board,9448
+2014,Georgia,Public Out-of-State,2-year,Fees/Tuition,7816
+2014,Georgia,Public Out-of-State,4-year,Fees/Tuition,23730
+2014,Georgia,Public Out-of-State,4-year,Room/Board,9448
+2014,Hawaii,Private,4-year,Fees/Tuition,15073
+2014,Hawaii,Private,4-year,Room/Board,12193
+2014,Hawaii,Public In-State,2-year,Fees/Tuition,2608
+2014,Hawaii,Public In-State,4-year,Fees/Tuition,8216
+2014,Hawaii,Public In-State,4-year,Room/Board,9812
+2014,Hawaii,Public Out-of-State,2-year,Fees/Tuition,7360
+2014,Hawaii,Public Out-of-State,4-year,Fees/Tuition,25021
+2014,Hawaii,Public Out-of-State,4-year,Room/Board,9812
+2014,Idaho,Private,4-year,Fees/Tuition,6736
+2014,Idaho,Private,4-year,Room/Board,7427
+2014,Idaho,Public In-State,2-year,Fees/Tuition,2963
+2014,Idaho,Public In-State,4-year,Fees/Tuition,6315
+2014,Idaho,Public In-State,4-year,Room/Board,7503
+2014,Idaho,Public Out-of-State,2-year,Fees/Tuition,7355
+2014,Idaho,Public Out-of-State,4-year,Fees/Tuition,18875
+2014,Idaho,Public Out-of-State,4-year,Room/Board,7503
+2014,Illinois,Private,4-year,Fees/Tuition,27504
+2014,Illinois,Private,4-year,Room/Board,11125
+2014,Illinois,Public In-State,2-year,Fees/Tuition,3306
+2014,Illinois,Public In-State,4-year,Fees/Tuition,12520
+2014,Illinois,Public In-State,4-year,Room/Board,10576
+2014,Illinois,Public Out-of-State,2-year,Fees/Tuition,9417
+2014,Illinois,Public Out-of-State,4-year,Fees/Tuition,27623
+2014,Illinois,Public Out-of-State,4-year,Room/Board,10576
+2014,Indiana,Private,4-year,Fees/Tuition,28035
+2014,Indiana,Private,4-year,Room/Board,9929
+2014,Indiana,Public In-State,2-year,Fees/Tuition,3605
+2014,Indiana,Public In-State,4-year,Fees/Tuition,8443
+2014,Indiana,Public In-State,4-year,Room/Board,9809
+2014,Indiana,Public Out-of-State,2-year,Fees/Tuition,7632
+2014,Indiana,Public Out-of-State,4-year,Fees/Tuition,27001
+2014,Indiana,Public Out-of-State,4-year,Room/Board,9809
+2014,Iowa,Private,4-year,Fees/Tuition,17492
+2014,Iowa,Private,4-year,Room/Board,7026
+2014,Iowa,Public In-State,2-year,Fees/Tuition,4253
+2014,Iowa,Public In-State,4-year,Fees/Tuition,7839
+2014,Iowa,Public In-State,4-year,Room/Board,8695
+2014,Iowa,Public Out-of-State,2-year,Fees/Tuition,5356
+2014,Iowa,Public Out-of-State,4-year,Fees/Tuition,23568
+2014,Iowa,Public Out-of-State,4-year,Room/Board,8695
+2014,Kansas,Private,4-year,Fees/Tuition,20122
+2014,Kansas,Private,4-year,Room/Board,7841
+2014,Kansas,Public In-State,2-year,Fees/Tuition,2890
+2014,Kansas,Public In-State,4-year,Fees/Tuition,7387
+2014,Kansas,Public In-State,4-year,Room/Board,7247
+2014,Kansas,Public Out-of-State,2-year,Fees/Tuition,4116
+2014,Kansas,Public Out-of-State,4-year,Fees/Tuition,18642
+2014,Kansas,Public Out-of-State,4-year,Room/Board,7247
+2014,Kentucky,Private,4-year,Fees/Tuition,21271
+2014,Kentucky,Private,4-year,Room/Board,8256
+2014,Kentucky,Public In-State,2-year,Fees/Tuition,3487
+2014,Kentucky,Public In-State,4-year,Fees/Tuition,8715
+2014,Kentucky,Public In-State,4-year,Room/Board,8566
+2014,Kentucky,Public Out-of-State,2-year,Fees/Tuition,12125
+2014,Kentucky,Public Out-of-State,4-year,Fees/Tuition,19979
+2014,Kentucky,Public Out-of-State,4-year,Room/Board,8566
+2014,Louisiana,Private,4-year,Fees/Tuition,30257
+2014,Louisiana,Private,4-year,Room/Board,10787
+2014,Louisiana,Public In-State,2-year,Fees/Tuition,3178
+2014,Louisiana,Public In-State,4-year,Fees/Tuition,6585
+2014,Louisiana,Public In-State,4-year,Room/Board,8656
+2014,Louisiana,Public Out-of-State,2-year,Fees/Tuition,6463
+2014,Louisiana,Public Out-of-State,4-year,Fees/Tuition,19985
+2014,Louisiana,Public Out-of-State,4-year,Room/Board,8656
+2014,Maine,Private,4-year,Fees/Tuition,32534
+2014,Maine,Private,4-year,Room/Board,11523
+2014,Maine,Public In-State,2-year,Fees/Tuition,3545
+2014,Maine,Public In-State,4-year,Fees/Tuition,9368
+2014,Maine,Public In-State,4-year,Room/Board,9755
+2014,Maine,Public Out-of-State,2-year,Fees/Tuition,6254
+2014,Maine,Public Out-of-State,4-year,Fees/Tuition,24791
+2014,Maine,Public Out-of-State,4-year,Room/Board,9755
+2014,Maryland,Private,4-year,Fees/Tuition,34316
+2014,Maryland,Private,4-year,Room/Board,12707
+2014,Maryland,Public In-State,2-year,Fees/Tuition,3550
+2014,Maryland,Public In-State,4-year,Fees/Tuition,8320
+2014,Maryland,Public In-State,4-year,Room/Board,10561
+2014,Maryland,Public Out-of-State,2-year,Fees/Tuition,8453
+2014,Maryland,Public Out-of-State,4-year,Fees/Tuition,20772
+2014,Maryland,Public Out-of-State,4-year,Room/Board,10561
+2014,Massachusetts,Private,4-year,Fees/Tuition,38009
+2014,Massachusetts,Private,4-year,Room/Board,13475
+2014,Massachusetts,Public In-State,2-year,Fees/Tuition,4216
+2014,Massachusetts,Public In-State,4-year,Fees/Tuition,10702
+2014,Massachusetts,Public In-State,4-year,Room/Board,11115
+2014,Massachusetts,Public Out-of-State,2-year,Fees/Tuition,9561
+2014,Massachusetts,Public Out-of-State,4-year,Fees/Tuition,25461
+2014,Massachusetts,Public Out-of-State,4-year,Room/Board,11115
+2014,Michigan,Private,4-year,Fees/Tuition,19372
+2014,Michigan,Private,4-year,Room/Board,8463
+2014,Michigan,Public In-State,2-year,Fees/Tuition,2922
+2014,Michigan,Public In-State,4-year,Fees/Tuition,11295
+2014,Michigan,Public In-State,4-year,Room/Board,9121
+2014,Michigan,Public Out-of-State,2-year,Fees/Tuition,6116
+2014,Michigan,Public Out-of-State,4-year,Fees/Tuition,32042
+2014,Michigan,Public Out-of-State,4-year,Room/Board,9121
+2014,Minnesota,Private,4-year,Fees/Tuition,27104
+2014,Minnesota,Private,4-year,Room/Board,9143
+2014,Minnesota,Public In-State,2-year,Fees/Tuition,5387
+2014,Minnesota,Public In-State,4-year,Fees/Tuition,10355
+2014,Minnesota,Public In-State,4-year,Room/Board,8034
+2014,Minnesota,Public Out-of-State,2-year,Fees/Tuition,6203
+2014,Minnesota,Public Out-of-State,4-year,Fees/Tuition,16915
+2014,Minnesota,Public Out-of-State,4-year,Room/Board,8034
+2014,Mississippi,Private,4-year,Fees/Tuition,15042
+2014,Mississippi,Private,4-year,Room/Board,6657
+2014,Mississippi,Public In-State,2-year,Fees/Tuition,2409
+2014,Mississippi,Public In-State,4-year,Fees/Tuition,6612
+2014,Mississippi,Public In-State,4-year,Room/Board,7802
+2014,Mississippi,Public Out-of-State,2-year,Fees/Tuition,4467
+2014,Mississippi,Public Out-of-State,4-year,Fees/Tuition,15980
+2014,Mississippi,Public Out-of-State,4-year,Room/Board,7802
+2014,Missouri,Private,4-year,Fees/Tuition,19523
+2014,Missouri,Private,4-year,Room/Board,8892
+2014,Missouri,Public In-State,2-year,Fees/Tuition,2850
+2014,Missouri,Public In-State,4-year,Fees/Tuition,7998
+2014,Missouri,Public In-State,4-year,Room/Board,8789
+2014,Missouri,Public Out-of-State,2-year,Fees/Tuition,5470
+2014,Missouri,Public Out-of-State,4-year,Fees/Tuition,19319
+2014,Missouri,Public Out-of-State,4-year,Room/Board,8789
+2014,Montana,Private,4-year,Fees/Tuition,20868
+2014,Montana,Private,4-year,Room/Board,7865
+2014,Montana,Public In-State,2-year,Fees/Tuition,3202
+2014,Montana,Public In-State,4-year,Fees/Tuition,6323
+2014,Montana,Public In-State,4-year,Room/Board,7759
+2014,Montana,Public Out-of-State,2-year,Fees/Tuition,8417
+2014,Montana,Public Out-of-State,4-year,Fees/Tuition,20797
+2014,Montana,Public Out-of-State,4-year,Room/Board,7759
+2014,Nebraska,Private,4-year,Fees/Tuition,19832
+2014,Nebraska,Private,4-year,Room/Board,8052
+2014,Nebraska,Public In-State,2-year,Fees/Tuition,2670
+2014,Nebraska,Public In-State,4-year,Fees/Tuition,7081
+2014,Nebraska,Public In-State,4-year,Room/Board,8556
+2014,Nebraska,Public Out-of-State,2-year,Fees/Tuition,3612
+2014,Nebraska,Public Out-of-State,4-year,Fees/Tuition,16734
+2014,Nebraska,Public Out-of-State,4-year,Room/Board,8556
+2014,Nevada,Private,4-year,Fees/Tuition,16169
+2014,Nevada,Private,4-year,Room/Board,14576
+2014,Nevada,Public In-State,2-year,Fees/Tuition,2700
+2014,Nevada,Public In-State,4-year,Fees/Tuition,5029
+2014,Nevada,Public In-State,4-year,Room/Board,11007
+2014,Nevada,Public Out-of-State,2-year,Fees/Tuition,9345
+2014,Nevada,Public Out-of-State,4-year,Fees/Tuition,19616
+2014,Nevada,Public Out-of-State,4-year,Room/Board,11007
+2014,New Hampshire,Private,4-year,Fees/Tuition,31029
+2014,New Hampshire,Private,4-year,Room/Board,12461
+2014,New Hampshire,Public In-State,2-year,Fees/Tuition,7230
+2014,New Hampshire,Public In-State,4-year,Fees/Tuition,14469
+2014,New Hampshire,Public In-State,4-year,Room/Board,10778
+2014,New Hampshire,Public Out-of-State,2-year,Fees/Tuition,15717
+2014,New Hampshire,Public Out-of-State,4-year,Fees/Tuition,25357
+2014,New Hampshire,Public Out-of-State,4-year,Room/Board,10778
+2014,New Jersey,Private,4-year,Fees/Tuition,32010
+2014,New Jersey,Private,4-year,Room/Board,12228
+2014,New Jersey,Public In-State,2-year,Fees/Tuition,3929
+2014,New Jersey,Public In-State,4-year,Fees/Tuition,12266
+2014,New Jersey,Public In-State,4-year,Room/Board,11980
+2014,New Jersey,Public Out-of-State,2-year,Fees/Tuition,6868
+2014,New Jersey,Public Out-of-State,4-year,Fees/Tuition,25637
+2014,New Jersey,Public Out-of-State,4-year,Room/Board,11980
+2014,New Mexico,Private,4-year,Fees/Tuition,17657
+2014,New Mexico,Private,4-year,Room/Board,9811
+2014,New Mexico,Public In-State,2-year,Fees/Tuition,1443
+2014,New Mexico,Public In-State,4-year,Fees/Tuition,5973
+2014,New Mexico,Public In-State,4-year,Room/Board,8132
+2014,New Mexico,Public Out-of-State,2-year,Fees/Tuition,4642
+2014,New Mexico,Public Out-of-State,4-year,Fees/Tuition,14647
+2014,New Mexico,Public Out-of-State,4-year,Room/Board,8132
+2014,New York,Private,4-year,Fees/Tuition,33825
+2014,New York,Private,4-year,Room/Board,13230
+2014,New York,Public In-State,2-year,Fees/Tuition,4507
+2014,New York,Public In-State,4-year,Fees/Tuition,6892
+2014,New York,Public In-State,4-year,Room/Board,12865
+2014,New York,Public Out-of-State,2-year,Fees/Tuition,8148
+2014,New York,Public Out-of-State,4-year,Fees/Tuition,17082
+2014,New York,Public Out-of-State,4-year,Room/Board,12865
+2014,North Carolina,Private,4-year,Fees/Tuition,27284
+2014,North Carolina,Private,4-year,Room/Board,10258
+2014,North Carolina,Public In-State,2-year,Fees/Tuition,2304
+2014,North Carolina,Public In-State,4-year,Fees/Tuition,6578
+2014,North Carolina,Public In-State,4-year,Room/Board,8619
+2014,North Carolina,Public Out-of-State,2-year,Fees/Tuition,8255
+2014,North Carolina,Public Out-of-State,4-year,Fees/Tuition,20410
+2014,North Carolina,Public Out-of-State,4-year,Room/Board,8619
+2014,North Dakota,Private,4-year,Fees/Tuition,12408
+2014,North Dakota,Private,4-year,Room/Board,5715
+2014,North Dakota,Public In-State,2-year,Fees/Tuition,3978
+2014,North Dakota,Public In-State,4-year,Fees/Tuition,6824
+2014,North Dakota,Public In-State,4-year,Room/Board,6890
+2014,North Dakota,Public Out-of-State,2-year,Fees/Tuition,8157
+2014,North Dakota,Public Out-of-State,4-year,Fees/Tuition,16753
+2014,North Dakota,Public Out-of-State,4-year,Room/Board,6890
+2014,Ohio,Private,4-year,Fees/Tuition,26917
+2014,Ohio,Private,4-year,Room/Board,9939
+2014,Ohio,Public In-State,2-year,Fees/Tuition,3544
+2014,Ohio,Public In-State,4-year,Fees/Tuition,9443
+2014,Ohio,Public In-State,4-year,Room/Board,10557
+2014,Ohio,Public Out-of-State,2-year,Fees/Tuition,7313
+2014,Ohio,Public Out-of-State,4-year,Fees/Tuition,21939
+2014,Ohio,Public Out-of-State,4-year,Room/Board,10557
+2014,Oklahoma,Private,4-year,Fees/Tuition,21411
+2014,Oklahoma,Private,4-year,Room/Board,8579
+2014,Oklahoma,Public In-State,2-year,Fees/Tuition,3062
+2014,Oklahoma,Public In-State,4-year,Fees/Tuition,6043
+2014,Oklahoma,Public In-State,4-year,Room/Board,7452
+2014,Oklahoma,Public Out-of-State,2-year,Fees/Tuition,7461
+2014,Oklahoma,Public Out-of-State,4-year,Fees/Tuition,17009
+2014,Oklahoma,Public Out-of-State,4-year,Room/Board,7452
+2014,Oregon,Private,4-year,Fees/Tuition,31599
+2014,Oregon,Private,4-year,Room/Board,10786
+2014,Oregon,Public In-State,2-year,Fees/Tuition,3935
+2014,Oregon,Public In-State,4-year,Fees/Tuition,8616
+2014,Oregon,Public In-State,4-year,Room/Board,10537
+2014,Oregon,Public Out-of-State,2-year,Fees/Tuition,8038
+2014,Oregon,Public Out-of-State,4-year,Fees/Tuition,26144
+2014,Oregon,Public Out-of-State,4-year,Room/Board,10537
+2014,Pennsylvania,Private,4-year,Fees/Tuition,34313
+2014,Pennsylvania,Private,4-year,Room/Board,11926
+2014,Pennsylvania,Public In-State,2-year,Fees/Tuition,4352
+2014,Pennsylvania,Public In-State,4-year,Fees/Tuition,12607
+2014,Pennsylvania,Public In-State,4-year,Room/Board,10164
+2014,Pennsylvania,Public Out-of-State,2-year,Fees/Tuition,11424
+2014,Pennsylvania,Public Out-of-State,4-year,Fees/Tuition,23571
+2014,Pennsylvania,Public Out-of-State,4-year,Room/Board,10164
+2014,Rhode Island,Private,4-year,Fees/Tuition,35036
+2014,Rhode Island,Private,4-year,Room/Board,11671
+2014,Rhode Island,Public In-State,2-year,Fees/Tuition,3944
+2014,Rhode Island,Public In-State,4-year,Fees/Tuition,10809
+2014,Rhode Island,Public In-State,4-year,Room/Board,10952
+2014,Rhode Island,Public Out-of-State,2-year,Fees/Tuition,10576
+2014,Rhode Island,Public Out-of-State,4-year,Fees/Tuition,26763
+2014,Rhode Island,Public Out-of-State,4-year,Room/Board,10952
+2014,South Carolina,Private,4-year,Fees/Tuition,21769
+2014,South Carolina,Private,4-year,Room/Board,8401
+2014,South Carolina,Public In-State,2-year,Fees/Tuition,3928
+2014,South Carolina,Public In-State,4-year,Fees/Tuition,11066
+2014,South Carolina,Public In-State,4-year,Room/Board,8438
+2014,South Carolina,Public Out-of-State,2-year,Fees/Tuition,8063
+2014,South Carolina,Public Out-of-State,4-year,Fees/Tuition,27040
+2014,South Carolina,Public Out-of-State,4-year,Room/Board,8438
+2014,South Dakota,Private,4-year,Fees/Tuition,20114
+2014,South Dakota,Private,4-year,Room/Board,7410
+2014,South Dakota,Public In-State,2-year,Fees/Tuition,4800
+2014,South Dakota,Public In-State,4-year,Fees/Tuition,7735
+2014,South Dakota,Public In-State,4-year,Room/Board,6695
+2014,South Dakota,Public Out-of-State,2-year,Fees/Tuition,4822
+2014,South Dakota,Public Out-of-State,4-year,Fees/Tuition,10201
+2014,South Dakota,Public Out-of-State,4-year,Room/Board,6695
+2014,Tennessee,Private,4-year,Fees/Tuition,22561
+2014,Tennessee,Private,4-year,Room/Board,9148
+2014,Tennessee,Public In-State,2-year,Fees/Tuition,3637
+2014,Tennessee,Public In-State,4-year,Fees/Tuition,7958
+2014,Tennessee,Public In-State,4-year,Room/Board,8307
+2014,Tennessee,Public Out-of-State,2-year,Fees/Tuition,14092
+2014,Tennessee,Public Out-of-State,4-year,Fees/Tuition,23290
+2014,Tennessee,Public Out-of-State,4-year,Room/Board,8307
+2014,Texas,Private,4-year,Fees/Tuition,26382
+2014,Texas,Private,4-year,Room/Board,9910
+2014,Texas,Public In-State,2-year,Fees/Tuition,1898
+2014,Texas,Public In-State,4-year,Fees/Tuition,7476
+2014,Texas,Public In-State,4-year,Room/Board,8735
+2014,Texas,Public Out-of-State,2-year,Fees/Tuition,5248
+2014,Texas,Public Out-of-State,4-year,Fees/Tuition,20420
+2014,Texas,Public Out-of-State,4-year,Room/Board,8735
+2014,Utah,Private,4-year,Fees/Tuition,7765
+2014,Utah,Private,4-year,Room/Board,7599
+2014,Utah,Public In-State,2-year,Fees/Tuition,3342
+2014,Utah,Public In-State,4-year,Fees/Tuition,5656
+2014,Utah,Public In-State,4-year,Room/Board,7147
+2014,Utah,Public Out-of-State,2-year,Fees/Tuition,10594
+2014,Utah,Public Out-of-State,4-year,Fees/Tuition,17441
+2014,Utah,Public Out-of-State,4-year,Room/Board,7147
+2014,Vermont,Private,4-year,Fees/Tuition,36449
+2014,Vermont,Private,4-year,Room/Board,11460
+2014,Vermont,Public In-State,2-year,Fees/Tuition,5668
+2014,Vermont,Public In-State,4-year,Fees/Tuition,13952
+2014,Vermont,Public In-State,4-year,Room/Board,10121
+2014,Vermont,Public Out-of-State,2-year,Fees/Tuition,11236
+2014,Vermont,Public Out-of-State,4-year,Fees/Tuition,33700
+2014,Vermont,Public Out-of-State,4-year,Room/Board,10121
+2014,Virginia,Private,4-year,Fees/Tuition,22280
+2014,Virginia,Private,4-year,Room/Board,9548
+2014,Virginia,Public In-State,2-year,Fees/Tuition,4095
+2014,Virginia,Public In-State,4-year,Fees/Tuition,10531
+2014,Virginia,Public In-State,4-year,Room/Board,9316
+2014,Virginia,Public Out-of-State,2-year,Fees/Tuition,8824
+2014,Virginia,Public Out-of-State,4-year,Fees/Tuition,28578
+2014,Virginia,Public Out-of-State,4-year,Room/Board,9316
+2014,Washington,Private,4-year,Fees/Tuition,31599
+2014,Washington,Private,4-year,Room/Board,10266
+2014,Washington,Public In-State,2-year,Fees/Tuition,4026
+2014,Washington,Public In-State,4-year,Fees/Tuition,8766
+2014,Washington,Public In-State,4-year,Room/Board,10519
+2014,Washington,Public Out-of-State,2-year,Fees/Tuition,7108
+2014,Washington,Public Out-of-State,4-year,Fees/Tuition,27714
+2014,Washington,Public Out-of-State,4-year,Room/Board,10519
+2014,West Virginia,Private,4-year,Fees/Tuition,11050
+2014,West Virginia,Private,4-year,Room/Board,8646
+2014,West Virginia,Public In-State,2-year,Fees/Tuition,3403
+2014,West Virginia,Public In-State,4-year,Fees/Tuition,5998
+2014,West Virginia,Public In-State,4-year,Room/Board,8836
+2014,West Virginia,Public Out-of-State,2-year,Fees/Tuition,8357
+2014,West Virginia,Public Out-of-State,4-year,Fees/Tuition,17270
+2014,West Virginia,Public Out-of-State,4-year,Room/Board,8836
+2014,Wisconsin,Private,4-year,Fees/Tuition,26637
+2014,Wisconsin,Private,4-year,Room/Board,9018
+2014,Wisconsin,Public In-State,2-year,Fees/Tuition,4233
+2014,Wisconsin,Public In-State,4-year,Fees/Tuition,8406
+2014,Wisconsin,Public In-State,4-year,Room/Board,7316
+2014,Wisconsin,Public Out-of-State,2-year,Fees/Tuition,6945
+2014,Wisconsin,Public Out-of-State,4-year,Fees/Tuition,20183
+2014,Wisconsin,Public Out-of-State,4-year,Room/Board,7316
+2014,Wyoming,Private,4-year,Fees/Tuition,16620
+2014,Wyoming,Public In-State,2-year,Fees/Tuition,2579
+2014,Wyoming,Public In-State,4-year,Fees/Tuition,3756
+2014,Wyoming,Public In-State,4-year,Room/Board,9193
+2014,Wyoming,Public Out-of-State,2-year,Fees/Tuition,6353
+2014,Wyoming,Public Out-of-State,4-year,Fees/Tuition,11532
+2014,Wyoming,Public Out-of-State,4-year,Room/Board,9193
+2015,Alabama,Private,4-year,Fees/Tuition,14759
+2015,Alabama,Private,4-year,Room/Board,9124
+2015,Alabama,Public In-State,2-year,Fees/Tuition,4120
+2015,Alabama,Public In-State,4-year,Fees/Tuition,8871
+2015,Alabama,Public In-State,4-year,Room/Board,8988
+2015,Alabama,Public Out-of-State,2-year,Fees/Tuition,8096
+2015,Alabama,Public Out-of-State,4-year,Fees/Tuition,22499
+2015,Alabama,Public Out-of-State,4-year,Room/Board,8988
+2015,Alaska,Private,4-year,Fees/Tuition,19136
+2015,Alaska,Private,4-year,Room/Board,6825
+2015,Alaska,Public In-State,2-year,Fees/Tuition,3340
+2015,Alaska,Public In-State,4-year,Fees/Tuition,6356
+2015,Alaska,Public In-State,4-year,Room/Board,10458
+2015,Alaska,Public Out-of-State,2-year,Fees/Tuition,3340
+2015,Alaska,Public Out-of-State,4-year,Fees/Tuition,19185
+2015,Alaska,Public Out-of-State,4-year,Room/Board,10458
+2015,Arizona,Private,4-year,Fees/Tuition,12201
+2015,Arizona,Private,4-year,Room/Board,8727
+2015,Arizona,Public In-State,2-year,Fees/Tuition,2025
+2015,Arizona,Public In-State,4-year,Fees/Tuition,9775
+2015,Arizona,Public In-State,4-year,Room/Board,10064
+2015,Arizona,Public Out-of-State,2-year,Fees/Tuition,8086
+2015,Arizona,Public Out-of-State,4-year,Fees/Tuition,23180
+2015,Arizona,Public Out-of-State,4-year,Room/Board,10064
+2015,Arkansas,Private,4-year,Fees/Tuition,19974
+2015,Arkansas,Private,4-year,Room/Board,7512
+2015,Arkansas,Public In-State,2-year,Fees/Tuition,2973
+2015,Arkansas,Public In-State,4-year,Fees/Tuition,7261
+2015,Arkansas,Public In-State,4-year,Room/Board,8060
+2015,Arkansas,Public Out-of-State,2-year,Fees/Tuition,4781
+2015,Arkansas,Public Out-of-State,4-year,Fees/Tuition,17219
+2015,Arkansas,Public Out-of-State,4-year,Room/Board,8060
+2015,California,Private,4-year,Fees/Tuition,27388
+2015,California,Private,4-year,Room/Board,11081
+2015,California,Public In-State,2-year,Fees/Tuition,1244
+2015,California,Public In-State,4-year,Fees/Tuition,9008
+2015,California,Public In-State,4-year,Room/Board,12740
+2015,California,Public Out-of-State,2-year,Fees/Tuition,6731
+2015,California,Public Out-of-State,4-year,Fees/Tuition,30175
+2015,California,Public Out-of-State,4-year,Room/Board,12740
+2015,Colorado,Private,4-year,Fees/Tuition,21603
+2015,Colorado,Private,4-year,Room/Board,11313
+2015,Colorado,Public In-State,2-year,Fees/Tuition,3347
+2015,Colorado,Public In-State,4-year,Fees/Tuition,8722
+2015,Colorado,Public In-State,4-year,Room/Board,10988
+2015,Colorado,Public Out-of-State,2-year,Fees/Tuition,8769
+2015,Colorado,Public Out-of-State,4-year,Fees/Tuition,27059
+2015,Colorado,Public Out-of-State,4-year,Room/Board,10988
+2015,Connecticut,Private,4-year,Fees/Tuition,36304
+2015,Connecticut,Private,4-year,Room/Board,13519
+2015,Connecticut,Public In-State,2-year,Fees/Tuition,3869
+2015,Connecticut,Public In-State,4-year,Fees/Tuition,10535
+2015,Connecticut,Public In-State,4-year,Room/Board,11900
+2015,Connecticut,Public Out-of-State,2-year,Fees/Tuition,11561
+2015,Connecticut,Public Out-of-State,4-year,Fees/Tuition,31004
+2015,Connecticut,Public Out-of-State,4-year,Room/Board,11900
+2015,Delaware,Private,4-year,Fees/Tuition,13720
+2015,Delaware,Private,4-year,Room/Board,11184
+2015,Delaware,Public In-State,2-year,Fees/Tuition,3530
+2015,Delaware,Public In-State,4-year,Fees/Tuition,11492
+2015,Delaware,Public In-State,4-year,Room/Board,11668
+2015,Delaware,Public Out-of-State,2-year,Fees/Tuition,8282
+2015,Delaware,Public Out-of-State,4-year,Fees/Tuition,28279
+2015,Delaware,Public Out-of-State,4-year,Room/Board,11668
+2015,District of Columbia,Private,4-year,Fees/Tuition,37949
+2015,District of Columbia,Private,4-year,Room/Board,13907
+2015,District of Columbia,Public In-State,4-year,Fees/Tuition,5251
+2015,District of Columbia,Public Out-of-State,4-year,Fees/Tuition,11233
+2015,Florida,Private,4-year,Fees/Tuition,21578
+2015,Florida,Private,4-year,Room/Board,10840
+2015,Florida,Public In-State,2-year,Fees/Tuition,2383
+2015,Florida,Public In-State,4-year,Fees/Tuition,4456
+2015,Florida,Public In-State,4-year,Room/Board,10221
+2015,Florida,Public Out-of-State,2-year,Fees/Tuition,8862
+2015,Florida,Public Out-of-State,4-year,Fees/Tuition,17771
+2015,Florida,Public Out-of-State,4-year,Room/Board,10221
+2015,Georgia,Private,4-year,Fees/Tuition,24493
+2015,Georgia,Private,4-year,Room/Board,11614
+2015,Georgia,Public In-State,2-year,Fees/Tuition,3177
+2015,Georgia,Public In-State,4-year,Fees/Tuition,6753
+2015,Georgia,Public In-State,4-year,Room/Board,9770
+2015,Georgia,Public Out-of-State,2-year,Fees/Tuition,7769
+2015,Georgia,Public Out-of-State,4-year,Fees/Tuition,21739
+2015,Georgia,Public Out-of-State,4-year,Room/Board,9770
+2015,Hawaii,Private,4-year,Fees/Tuition,15233
+2015,Hawaii,Private,4-year,Room/Board,12251
+2015,Hawaii,Public In-State,2-year,Fees/Tuition,2800
+2015,Hawaii,Public In-State,4-year,Fees/Tuition,8831
+2015,Hawaii,Public In-State,4-year,Room/Board,10300
+2015,Hawaii,Public Out-of-State,2-year,Fees/Tuition,7646
+2015,Hawaii,Public Out-of-State,4-year,Fees/Tuition,26150
+2015,Hawaii,Public Out-of-State,4-year,Room/Board,10300
+2015,Idaho,Private,4-year,Fees/Tuition,6456
+2015,Idaho,Private,4-year,Room/Board,6552
+2015,Idaho,Public In-State,2-year,Fees/Tuition,3023
+2015,Idaho,Public In-State,4-year,Fees/Tuition,6834
+2015,Idaho,Public In-State,4-year,Room/Board,6810
+2015,Idaho,Public Out-of-State,2-year,Fees/Tuition,7336
+2015,Idaho,Public Out-of-State,4-year,Fees/Tuition,19633
+2015,Idaho,Public Out-of-State,4-year,Room/Board,6810
+2015,Illinois,Private,4-year,Fees/Tuition,28481
+2015,Illinois,Private,4-year,Room/Board,11297
+2015,Illinois,Public In-State,2-year,Fees/Tuition,3499
+2015,Illinois,Public In-State,4-year,Fees/Tuition,13084
+2015,Illinois,Public In-State,4-year,Room/Board,10707
+2015,Illinois,Public Out-of-State,2-year,Fees/Tuition,9871
+2015,Illinois,Public Out-of-State,4-year,Fees/Tuition,27672
+2015,Illinois,Public Out-of-State,4-year,Room/Board,10707
+2015,Indiana,Private,4-year,Fees/Tuition,29050
+2015,Indiana,Private,4-year,Room/Board,10079
+2015,Indiana,Public In-State,2-year,Fees/Tuition,4055
+2015,Indiana,Public In-State,4-year,Fees/Tuition,8633
+2015,Indiana,Public In-State,4-year,Room/Board,9760
+2015,Indiana,Public Out-of-State,2-year,Fees/Tuition,7932
+2015,Indiana,Public Out-of-State,4-year,Fees/Tuition,28035
+2015,Indiana,Public Out-of-State,4-year,Room/Board,9760
+2015,Iowa,Private,4-year,Fees/Tuition,24076
+2015,Iowa,Private,4-year,Room/Board,8534
+2015,Iowa,Public In-State,2-year,Fees/Tuition,4355
+2015,Iowa,Public In-State,4-year,Fees/Tuition,7858
+2015,Iowa,Public In-State,4-year,Room/Board,8851
+2015,Iowa,Public Out-of-State,2-year,Fees/Tuition,5548
+2015,Iowa,Public Out-of-State,4-year,Fees/Tuition,23778
+2015,Iowa,Public Out-of-State,4-year,Room/Board,8851
+2015,Kansas,Private,4-year,Fees/Tuition,16635
+2015,Kansas,Private,4-year,Room/Board,8020
+2015,Kansas,Public In-State,2-year,Fees/Tuition,3015
+2015,Kansas,Public In-State,4-year,Fees/Tuition,7726
+2015,Kansas,Public In-State,4-year,Room/Board,7858
+2015,Kansas,Public Out-of-State,2-year,Fees/Tuition,4197
+2015,Kansas,Public Out-of-State,4-year,Fees/Tuition,20155
+2015,Kansas,Public Out-of-State,4-year,Room/Board,7858
+2015,Kentucky,Private,4-year,Fees/Tuition,23039
+2015,Kentucky,Private,4-year,Room/Board,8555
+2015,Kentucky,Public In-State,2-year,Fees/Tuition,3650
+2015,Kentucky,Public In-State,4-year,Fees/Tuition,9189
+2015,Kentucky,Public In-State,4-year,Room/Board,8341
+2015,Kentucky,Public Out-of-State,2-year,Fees/Tuition,12478
+2015,Kentucky,Public Out-of-State,4-year,Fees/Tuition,21409
+2015,Kentucky,Public Out-of-State,4-year,Room/Board,8341
+2015,Louisiana,Private,4-year,Fees/Tuition,31175
+2015,Louisiana,Private,4-year,Room/Board,11444
+2015,Louisiana,Public In-State,2-year,Fees/Tuition,3502
+2015,Louisiana,Public In-State,4-year,Fees/Tuition,7296
+2015,Louisiana,Public In-State,4-year,Room/Board,8749
+2015,Louisiana,Public Out-of-State,2-year,Fees/Tuition,6659
+2015,Louisiana,Public Out-of-State,4-year,Fees/Tuition,21409
+2015,Louisiana,Public Out-of-State,4-year,Room/Board,8749
+2015,Maine,Private,4-year,Fees/Tuition,33205
+2015,Maine,Private,4-year,Room/Board,11786
+2015,Maine,Public In-State,2-year,Fees/Tuition,3663
+2015,Maine,Public In-State,4-year,Fees/Tuition,9166
+2015,Maine,Public In-State,4-year,Room/Board,9748
+2015,Maine,Public Out-of-State,2-year,Fees/Tuition,6455
+2015,Maine,Public Out-of-State,4-year,Fees/Tuition,25273
+2015,Maine,Public Out-of-State,4-year,Room/Board,9748
+2015,Maryland,Private,4-year,Fees/Tuition,36402
+2015,Maryland,Private,4-year,Room/Board,13246
+2015,Maryland,Public In-State,2-year,Fees/Tuition,3668
+2015,Maryland,Public In-State,4-year,Fees/Tuition,8482
+2015,Maryland,Public In-State,4-year,Room/Board,10892
+2015,Maryland,Public Out-of-State,2-year,Fees/Tuition,8841
+2015,Maryland,Public Out-of-State,4-year,Fees/Tuition,21031
+2015,Maryland,Public Out-of-State,4-year,Room/Board,10892
+2015,Massachusetts,Private,4-year,Fees/Tuition,39298
+2015,Massachusetts,Private,4-year,Room/Board,13873
+2015,Massachusetts,Public In-State,2-year,Fees/Tuition,4333
+2015,Massachusetts,Public In-State,4-year,Fees/Tuition,10900
+2015,Massachusetts,Public In-State,4-year,Room/Board,11314
+2015,Massachusetts,Public Out-of-State,2-year,Fees/Tuition,9742
+2015,Massachusetts,Public Out-of-State,4-year,Fees/Tuition,26213
+2015,Massachusetts,Public Out-of-State,4-year,Room/Board,11314
+2015,Michigan,Private,4-year,Fees/Tuition,20718
+2015,Michigan,Private,4-year,Room/Board,8705
+2015,Michigan,Public In-State,2-year,Fees/Tuition,3062
+2015,Michigan,Public In-State,4-year,Fees/Tuition,11507
+2015,Michigan,Public In-State,4-year,Room/Board,9336
+2015,Michigan,Public Out-of-State,2-year,Fees/Tuition,6323
+2015,Michigan,Public Out-of-State,4-year,Fees/Tuition,33666
+2015,Michigan,Public Out-of-State,4-year,Room/Board,9336
+2015,Minnesota,Private,4-year,Fees/Tuition,28123
+2015,Minnesota,Private,4-year,Room/Board,9561
+2015,Minnesota,Public In-State,2-year,Fees/Tuition,5327
+2015,Minnesota,Public In-State,4-year,Fees/Tuition,10400
+2015,Minnesota,Public In-State,4-year,Room/Board,8327
+2015,Minnesota,Public Out-of-State,2-year,Fees/Tuition,5960
+2015,Minnesota,Public Out-of-State,4-year,Fees/Tuition,17376
+2015,Minnesota,Public Out-of-State,4-year,Room/Board,8327
+2015,Mississippi,Private,4-year,Fees/Tuition,15643
+2015,Mississippi,Private,4-year,Room/Board,7201
+2015,Mississippi,Public In-State,2-year,Fees/Tuition,2518
+2015,Mississippi,Public In-State,4-year,Fees/Tuition,6880
+2015,Mississippi,Public In-State,4-year,Room/Board,8830
+2015,Mississippi,Public Out-of-State,2-year,Fees/Tuition,4676
+2015,Mississippi,Public Out-of-State,4-year,Fees/Tuition,17262
+2015,Mississippi,Public Out-of-State,4-year,Room/Board,8830
+2015,Missouri,Private,4-year,Fees/Tuition,21465
+2015,Missouri,Private,4-year,Room/Board,8938
+2015,Missouri,Public In-State,2-year,Fees/Tuition,2890
+2015,Missouri,Public In-State,4-year,Fees/Tuition,8065
+2015,Missouri,Public In-State,4-year,Room/Board,9079
+2015,Missouri,Public Out-of-State,2-year,Fees/Tuition,5514
+2015,Missouri,Public Out-of-State,4-year,Fees/Tuition,19410
+2015,Missouri,Public Out-of-State,4-year,Room/Board,9079
+2015,Montana,Private,4-year,Fees/Tuition,21630
+2015,Montana,Private,4-year,Room/Board,8006
+2015,Montana,Public In-State,2-year,Fees/Tuition,3215
+2015,Montana,Public In-State,4-year,Fees/Tuition,6378
+2015,Montana,Public In-State,4-year,Room/Board,8070
+2015,Montana,Public Out-of-State,2-year,Fees/Tuition,8923
+2015,Montana,Public Out-of-State,4-year,Fees/Tuition,21481
+2015,Montana,Public Out-of-State,4-year,Room/Board,8070
+2015,Nebraska,Private,4-year,Fees/Tuition,20501
+2015,Nebraska,Private,4-year,Room/Board,8429
+2015,Nebraska,Public In-State,2-year,Fees/Tuition,2743
+2015,Nebraska,Public In-State,4-year,Fees/Tuition,7223
+2015,Nebraska,Public In-State,4-year,Room/Board,8976
+2015,Nebraska,Public Out-of-State,2-year,Fees/Tuition,3743
+2015,Nebraska,Public Out-of-State,4-year,Fees/Tuition,18180
+2015,Nebraska,Public Out-of-State,4-year,Room/Board,8976
+2015,Nevada,Private,4-year,Fees/Tuition,17325
+2015,Nevada,Private,4-year,Room/Board,13488
+2015,Nevada,Public In-State,2-year,Fees/Tuition,2700
+2015,Nevada,Public In-State,4-year,Fees/Tuition,5016
+2015,Nevada,Public In-State,4-year,Room/Board,10122
+2015,Nevada,Public Out-of-State,2-year,Fees/Tuition,9345
+2015,Nevada,Public Out-of-State,4-year,Fees/Tuition,20064
+2015,Nevada,Public Out-of-State,4-year,Room/Board,10122
+2015,New Hampshire,Private,4-year,Fees/Tuition,31868
+2015,New Hampshire,Private,4-year,Room/Board,13128
+2015,New Hampshire,Public In-State,2-year,Fees/Tuition,6979
+2015,New Hampshire,Public In-State,4-year,Fees/Tuition,14538
+2015,New Hampshire,Public In-State,4-year,Room/Board,11283
+2015,New Hampshire,Public Out-of-State,2-year,Fees/Tuition,15202
+2015,New Hampshire,Public Out-of-State,4-year,Fees/Tuition,26131
+2015,New Hampshire,Public Out-of-State,4-year,Room/Board,11283
+2015,New Jersey,Private,4-year,Fees/Tuition,32986
+2015,New Jersey,Private,4-year,Room/Board,12448
+2015,New Jersey,Public In-State,2-year,Fees/Tuition,3982
+2015,New Jersey,Public In-State,4-year,Fees/Tuition,12541
+2015,New Jersey,Public In-State,4-year,Room/Board,12283
+2015,New Jersey,Public Out-of-State,2-year,Fees/Tuition,6926
+2015,New Jersey,Public Out-of-State,4-year,Fees/Tuition,26556
+2015,New Jersey,Public Out-of-State,4-year,Room/Board,12283
+2015,New Mexico,Private,4-year,Fees/Tuition,18779
+2015,New Mexico,Private,4-year,Room/Board,9685
+2015,New Mexico,Public In-State,2-year,Fees/Tuition,1475
+2015,New Mexico,Public In-State,4-year,Fees/Tuition,6003
+2015,New Mexico,Public In-State,4-year,Room/Board,8775
+2015,New Mexico,Public Out-of-State,2-year,Fees/Tuition,4636
+2015,New Mexico,Public Out-of-State,4-year,Fees/Tuition,15285
+2015,New Mexico,Public Out-of-State,4-year,Room/Board,8775
+2015,New York,Private,4-year,Fees/Tuition,35095
+2015,New York,Private,4-year,Room/Board,13749
+2015,New York,Public In-State,2-year,Fees/Tuition,4711
+2015,New York,Public In-State,4-year,Fees/Tuition,7272
+2015,New York,Public In-State,4-year,Room/Board,13277
+2015,New York,Public Out-of-State,2-year,Fees/Tuition,8344
+2015,New York,Public Out-of-State,4-year,Fees/Tuition,18825
+2015,New York,Public Out-of-State,4-year,Room/Board,13277
+2015,North Carolina,Private,4-year,Fees/Tuition,28177
+2015,North Carolina,Private,4-year,Room/Board,10741
+2015,North Carolina,Public In-State,2-year,Fees/Tuition,2355
+2015,North Carolina,Public In-State,4-year,Fees/Tuition,6658
+2015,North Carolina,Public In-State,4-year,Room/Board,9113
+2015,North Carolina,Public Out-of-State,2-year,Fees/Tuition,8269
+2015,North Carolina,Public Out-of-State,4-year,Fees/Tuition,22676
+2015,North Carolina,Public Out-of-State,4-year,Room/Board,9113
+2015,North Dakota,Private,4-year,Fees/Tuition,13255
+2015,North Dakota,Private,4-year,Room/Board,6248
+2015,North Dakota,Public In-State,2-year,Fees/Tuition,4283
+2015,North Dakota,Public In-State,4-year,Fees/Tuition,7050
+2015,North Dakota,Public In-State,4-year,Room/Board,7167
+2015,North Dakota,Public Out-of-State,2-year,Fees/Tuition,8441
+2015,North Dakota,Public Out-of-State,4-year,Fees/Tuition,17316
+2015,North Dakota,Public Out-of-State,4-year,Room/Board,7167
+2015,Ohio,Private,4-year,Fees/Tuition,27761
+2015,Ohio,Private,4-year,Room/Board,10215
+2015,Ohio,Public In-State,2-year,Fees/Tuition,3610
+2015,Ohio,Public In-State,4-year,Fees/Tuition,9631
+2015,Ohio,Public In-State,4-year,Room/Board,10906
+2015,Ohio,Public Out-of-State,2-year,Fees/Tuition,7512
+2015,Ohio,Public Out-of-State,4-year,Fees/Tuition,22756
+2015,Ohio,Public Out-of-State,4-year,Room/Board,10906
+2015,Oklahoma,Private,4-year,Fees/Tuition,22309
+2015,Oklahoma,Private,4-year,Room/Board,8784
+2015,Oklahoma,Public In-State,2-year,Fees/Tuition,3244
+2015,Oklahoma,Public In-State,4-year,Fees/Tuition,6345
+2015,Oklahoma,Public In-State,4-year,Room/Board,7802
+2015,Oklahoma,Public Out-of-State,2-year,Fees/Tuition,7940
+2015,Oklahoma,Public Out-of-State,4-year,Fees/Tuition,17633
+2015,Oklahoma,Public Out-of-State,4-year,Room/Board,7802
+2015,Oregon,Private,4-year,Fees/Tuition,33108
+2015,Oregon,Private,4-year,Room/Board,11107
+2015,Oregon,Public In-State,2-year,Fees/Tuition,4023
+2015,Oregon,Public In-State,4-year,Fees/Tuition,8891
+2015,Oregon,Public In-State,4-year,Room/Board,10763
+2015,Oregon,Public Out-of-State,2-year,Fees/Tuition,7552
+2015,Oregon,Public Out-of-State,4-year,Fees/Tuition,27341
+2015,Oregon,Public Out-of-State,4-year,Room/Board,10763
+2015,Pennsylvania,Private,4-year,Fees/Tuition,35622
+2015,Pennsylvania,Private,4-year,Room/Board,12271
+2015,Pennsylvania,Public In-State,2-year,Fees/Tuition,4589
+2015,Pennsylvania,Public In-State,4-year,Fees/Tuition,13171
+2015,Pennsylvania,Public In-State,4-year,Room/Board,10348
+2015,Pennsylvania,Public Out-of-State,2-year,Fees/Tuition,11732
+2015,Pennsylvania,Public Out-of-State,4-year,Fees/Tuition,24741
+2015,Pennsylvania,Public Out-of-State,4-year,Room/Board,10348
+2015,Rhode Island,Private,4-year,Fees/Tuition,36205
+2015,Rhode Island,Private,4-year,Room/Board,12665
+2015,Rhode Island,Public In-State,2-year,Fees/Tuition,3950
+2015,Rhode Island,Public In-State,4-year,Fees/Tuition,10868
+2015,Rhode Island,Public In-State,4-year,Room/Board,11162
+2015,Rhode Island,Public Out-of-State,2-year,Fees/Tuition,10582
+2015,Rhode Island,Public Out-of-State,4-year,Fees/Tuition,27110
+2015,Rhode Island,Public Out-of-State,4-year,Room/Board,11162
+2015,South Carolina,Private,4-year,Fees/Tuition,22241
+2015,South Carolina,Private,4-year,Room/Board,8716
+2015,South Carolina,Public In-State,2-year,Fees/Tuition,4061
+2015,South Carolina,Public In-State,4-year,Fees/Tuition,11448
+2015,South Carolina,Public In-State,4-year,Room/Board,8906
+2015,South Carolina,Public Out-of-State,2-year,Fees/Tuition,8537
+2015,South Carolina,Public Out-of-State,4-year,Fees/Tuition,27814
+2015,South Carolina,Public Out-of-State,4-year,Room/Board,8906
+2015,South Dakota,Private,4-year,Fees/Tuition,21018
+2015,South Dakota,Private,4-year,Room/Board,7514
+2015,South Dakota,Public In-State,2-year,Fees/Tuition,5014
+2015,South Dakota,Public In-State,4-year,Fees/Tuition,7744
+2015,South Dakota,Public In-State,4-year,Room/Board,7239
+2015,South Dakota,Public Out-of-State,2-year,Fees/Tuition,4886
+2015,South Dakota,Public Out-of-State,4-year,Fees/Tuition,10923
+2015,South Dakota,Public Out-of-State,4-year,Room/Board,7239
+2015,Tennessee,Private,4-year,Fees/Tuition,23893
+2015,Tennessee,Private,4-year,Room/Board,9290
+2015,Tennessee,Public In-State,2-year,Fees/Tuition,3820
+2015,Tennessee,Public In-State,4-year,Fees/Tuition,8495
+2015,Tennessee,Public In-State,4-year,Room/Board,8651
+2015,Tennessee,Public Out-of-State,2-year,Fees/Tuition,14859
+2015,Tennessee,Public Out-of-State,4-year,Fees/Tuition,23949
+2015,Tennessee,Public Out-of-State,4-year,Room/Board,8651
+2015,Texas,Private,4-year,Fees/Tuition,27552
+2015,Texas,Private,4-year,Room/Board,10192
+2015,Texas,Public In-State,2-year,Fees/Tuition,1948
+2015,Texas,Public In-State,4-year,Fees/Tuition,7870
+2015,Texas,Public In-State,4-year,Room/Board,9002
+2015,Texas,Public Out-of-State,2-year,Fees/Tuition,5398
+2015,Texas,Public Out-of-State,4-year,Fees/Tuition,21135
+2015,Texas,Public Out-of-State,4-year,Room/Board,9002
+2015,Utah,Private,4-year,Fees/Tuition,7747
+2015,Utah,Private,4-year,Room/Board,7688
+2015,Utah,Public In-State,2-year,Fees/Tuition,3469
+2015,Utah,Public In-State,4-year,Fees/Tuition,5942
+2015,Utah,Public In-State,4-year,Room/Board,7028
+2015,Utah,Public Out-of-State,2-year,Fees/Tuition,11011
+2015,Utah,Public Out-of-State,4-year,Fees/Tuition,17899
+2015,Utah,Public Out-of-State,4-year,Room/Board,7028
+2015,Vermont,Private,4-year,Fees/Tuition,37391
+2015,Vermont,Private,4-year,Room/Board,11820
+2015,Vermont,Public In-State,2-year,Fees/Tuition,5886
+2015,Vermont,Public In-State,4-year,Fees/Tuition,14495
+2015,Vermont,Public In-State,4-year,Room/Board,10492
+2015,Vermont,Public Out-of-State,2-year,Fees/Tuition,11622
+2015,Vermont,Public Out-of-State,4-year,Fees/Tuition,35241
+2015,Vermont,Public Out-of-State,4-year,Room/Board,10492
+2015,Virginia,Private,4-year,Fees/Tuition,22835
+2015,Virginia,Private,4-year,Room/Board,9666
+2015,Virginia,Public In-State,2-year,Fees/Tuition,4318
+2015,Virginia,Public In-State,4-year,Fees/Tuition,11057
+2015,Virginia,Public In-State,4-year,Room/Board,9884
+2015,Virginia,Public Out-of-State,2-year,Fees/Tuition,9019
+2015,Virginia,Public Out-of-State,4-year,Fees/Tuition,30416
+2015,Virginia,Public Out-of-State,4-year,Room/Board,9884
+2015,Washington,Private,4-year,Fees/Tuition,32964
+2015,Washington,Private,4-year,Room/Board,10322
+2015,Washington,Public In-State,2-year,Fees/Tuition,3992
+2015,Washington,Public In-State,4-year,Fees/Tuition,8299
+2015,Washington,Public In-State,4-year,Room/Board,10564
+2015,Washington,Public Out-of-State,2-year,Fees/Tuition,6887
+2015,Washington,Public Out-of-State,4-year,Fees/Tuition,28539
+2015,Washington,Public Out-of-State,4-year,Room/Board,10564
+2015,West Virginia,Private,4-year,Fees/Tuition,11055
+2015,West Virginia,Private,4-year,Room/Board,8626
+2015,West Virginia,Public In-State,2-year,Fees/Tuition,3628
+2015,West Virginia,Public In-State,4-year,Fees/Tuition,6420
+2015,West Virginia,Public In-State,4-year,Room/Board,9223
+2015,West Virginia,Public Out-of-State,2-year,Fees/Tuition,8215
+2015,West Virginia,Public Out-of-State,4-year,Fees/Tuition,17882
+2015,West Virginia,Public Out-of-State,4-year,Room/Board,9223
+2015,Wisconsin,Private,4-year,Fees/Tuition,28094
+2015,Wisconsin,Private,4-year,Room/Board,9322
+2015,Wisconsin,Public In-State,2-year,Fees/Tuition,4323
+2015,Wisconsin,Public In-State,4-year,Fees/Tuition,8441
+2015,Wisconsin,Public In-State,4-year,Room/Board,7496
+2015,Wisconsin,Public Out-of-State,2-year,Fees/Tuition,7220
+2015,Wisconsin,Public Out-of-State,4-year,Fees/Tuition,20020
+2015,Wisconsin,Public Out-of-State,4-year,Room/Board,7496
+2015,Wyoming,Private,4-year,Fees/Tuition,16968
+2015,Wyoming,Public In-State,2-year,Fees/Tuition,2694
+2015,Wyoming,Public In-State,4-year,Fees/Tuition,3968
+2015,Wyoming,Public In-State,4-year,Room/Board,9489
+2015,Wyoming,Public Out-of-State,2-year,Fees/Tuition,6658
+2015,Wyoming,Public Out-of-State,4-year,Fees/Tuition,12152
+2015,Wyoming,Public Out-of-State,4-year,Room/Board,9489
+2016,Alabama,Private,4-year,Fees/Tuition,15359
+2016,Alabama,Private,4-year,Room/Board,9289
+2016,Alabama,Public In-State,2-year,Fees/Tuition,4289
+2016,Alabama,Public In-State,4-year,Fees/Tuition,9179
+2016,Alabama,Public In-State,4-year,Room/Board,9330
+2016,Alabama,Public Out-of-State,2-year,Fees/Tuition,8464
+2016,Alabama,Public Out-of-State,4-year,Fees/Tuition,23261
+2016,Alabama,Public Out-of-State,4-year,Room/Board,9330
+2016,Alaska,Private,4-year,Fees/Tuition,19957
+2016,Alaska,Private,4-year,Room/Board,6431
+2016,Alaska,Public In-State,2-year,Fees/Tuition,3340
+2016,Alaska,Public In-State,4-year,Fees/Tuition,6880
+2016,Alaska,Public In-State,4-year,Room/Board,9820
+2016,Alaska,Public Out-of-State,2-year,Fees/Tuition,3340
+2016,Alaska,Public Out-of-State,4-year,Fees/Tuition,20463
+2016,Alaska,Public Out-of-State,4-year,Room/Board,9820
+2016,Arizona,Private,4-year,Fees/Tuition,12667
+2016,Arizona,Private,4-year,Room/Board,9577
+2016,Arizona,Public In-State,2-year,Fees/Tuition,2061
+2016,Arizona,Public In-State,4-year,Fees/Tuition,9884
+2016,Arizona,Public In-State,4-year,Room/Board,10737
+2016,Arizona,Public Out-of-State,2-year,Fees/Tuition,8255
+2016,Arizona,Public Out-of-State,4-year,Fees/Tuition,24161
+2016,Arizona,Public Out-of-State,4-year,Room/Board,10737
+2016,Arkansas,Private,4-year,Fees/Tuition,20936
+2016,Arkansas,Private,4-year,Room/Board,7891
+2016,Arkansas,Public In-State,2-year,Fees/Tuition,3105
+2016,Arkansas,Public In-State,4-year,Fees/Tuition,7577
+2016,Arkansas,Public In-State,4-year,Room/Board,8399
+2016,Arkansas,Public Out-of-State,2-year,Fees/Tuition,4638
+2016,Arkansas,Public Out-of-State,4-year,Fees/Tuition,18306
+2016,Arkansas,Public Out-of-State,4-year,Room/Board,8399
+2016,California,Private,4-year,Fees/Tuition,29519
+2016,California,Private,4-year,Room/Board,11663
+2016,California,Public In-State,2-year,Fees/Tuition,1246
+2016,California,Public In-State,4-year,Fees/Tuition,9070
+2016,California,Public In-State,4-year,Room/Board,13081
+2016,California,Public Out-of-State,2-year,Fees/Tuition,6968
+2016,California,Public Out-of-State,4-year,Fees/Tuition,31526
+2016,California,Public Out-of-State,4-year,Room/Board,13081
+2016,Colorado,Private,4-year,Fees/Tuition,22332
+2016,Colorado,Private,4-year,Room/Board,11319
+2016,Colorado,Public In-State,2-year,Fees/Tuition,3630
+2016,Colorado,Public In-State,4-year,Fees/Tuition,9128
+2016,Colorado,Public In-State,4-year,Room/Board,11466
+2016,Colorado,Public Out-of-State,2-year,Fees/Tuition,8915
+2016,Colorado,Public Out-of-State,4-year,Fees/Tuition,27986
+2016,Colorado,Public Out-of-State,4-year,Room/Board,11466
+2016,Connecticut,Private,4-year,Fees/Tuition,37679
+2016,Connecticut,Private,4-year,Room/Board,13891
+2016,Connecticut,Public In-State,2-year,Fees/Tuition,4039
+2016,Connecticut,Public In-State,4-year,Fees/Tuition,11106
+2016,Connecticut,Public In-State,4-year,Room/Board,12245
+2016,Connecticut,Public Out-of-State,2-year,Fees/Tuition,12100
+2016,Connecticut,Public Out-of-State,4-year,Fees/Tuition,32870
+2016,Connecticut,Public Out-of-State,4-year,Room/Board,12245
+2016,Delaware,Private,4-year,Fees/Tuition,14200
+2016,Delaware,Private,4-year,Room/Board,11311
+2016,Delaware,Public In-State,2-year,Fees/Tuition,3215
+2016,Delaware,Public In-State,4-year,Fees/Tuition,11670
+2016,Delaware,Public In-State,4-year,Room/Board,11896
+2016,Delaware,Public Out-of-State,2-year,Fees/Tuition,6548
+2016,Delaware,Public Out-of-State,4-year,Fees/Tuition,28962
+2016,Delaware,Public Out-of-State,4-year,Room/Board,11896
+2016,District of Columbia,Private,4-year,Fees/Tuition,38901
+2016,District of Columbia,Private,4-year,Room/Board,14671
+2016,District of Columbia,Public In-State,4-year,Fees/Tuition,5251
+2016,District of Columbia,Public Out-of-State,4-year,Fees/Tuition,11233
+2016,Florida,Private,4-year,Fees/Tuition,22793
+2016,Florida,Private,4-year,Room/Board,11179
+2016,Florida,Public In-State,2-year,Fees/Tuition,2387
+2016,Florida,Public In-State,4-year,Fees/Tuition,4438
+2016,Florida,Public In-State,4-year,Room/Board,10019
+2016,Florida,Public Out-of-State,2-year,Fees/Tuition,8862
+2016,Florida,Public Out-of-State,4-year,Fees/Tuition,17656
+2016,Florida,Public Out-of-State,4-year,Room/Board,10019
+2016,Georgia,Private,4-year,Fees/Tuition,25754
+2016,Georgia,Private,4-year,Room/Board,11709
+2016,Georgia,Public In-State,2-year,Fees/Tuition,3181
+2016,Georgia,Public In-State,4-year,Fees/Tuition,7011
+2016,Georgia,Public In-State,4-year,Room/Board,10281
+2016,Georgia,Public Out-of-State,2-year,Fees/Tuition,7929
+2016,Georgia,Public Out-of-State,4-year,Fees/Tuition,23167
+2016,Georgia,Public Out-of-State,4-year,Room/Board,10281
+2016,Hawaii,Private,4-year,Fees/Tuition,15561
+2016,Hawaii,Private,4-year,Room/Board,12333
+2016,Hawaii,Public In-State,2-year,Fees/Tuition,2935
+2016,Hawaii,Public In-State,4-year,Fees/Tuition,9263
+2016,Hawaii,Public In-State,4-year,Room/Board,10835
+2016,Hawaii,Public Out-of-State,2-year,Fees/Tuition,7930
+2016,Hawaii,Public Out-of-State,4-year,Fees/Tuition,27911
+2016,Hawaii,Public Out-of-State,4-year,Room/Board,10835
+2016,Idaho,Private,4-year,Fees/Tuition,6006
+2016,Idaho,Private,4-year,Room/Board,7064
+2016,Idaho,Public In-State,2-year,Fees/Tuition,3108
+2016,Idaho,Public In-State,4-year,Fees/Tuition,6915
+2016,Idaho,Public In-State,4-year,Room/Board,7296
+2016,Idaho,Public Out-of-State,2-year,Fees/Tuition,7959
+2016,Idaho,Public Out-of-State,4-year,Fees/Tuition,20624
+2016,Idaho,Public Out-of-State,4-year,Room/Board,7296
+2016,Illinois,Private,4-year,Fees/Tuition,29639
+2016,Illinois,Private,4-year,Room/Board,11693
+2016,Illinois,Public In-State,2-year,Fees/Tuition,3692
+2016,Illinois,Public In-State,4-year,Fees/Tuition,13387
+2016,Illinois,Public In-State,4-year,Room/Board,10711
+2016,Illinois,Public Out-of-State,2-year,Fees/Tuition,10630
+2016,Illinois,Public Out-of-State,4-year,Fees/Tuition,27909
+2016,Illinois,Public Out-of-State,4-year,Room/Board,10711
+2016,Indiana,Private,4-year,Fees/Tuition,30533
+2016,Indiana,Private,4-year,Room/Board,10497
+2016,Indiana,Public In-State,2-year,Fees/Tuition,4115
+2016,Indiana,Public In-State,4-year,Fees/Tuition,8745
+2016,Indiana,Public In-State,4-year,Room/Board,9967
+2016,Indiana,Public Out-of-State,2-year,Fees/Tuition,7992
+2016,Indiana,Public Out-of-State,4-year,Fees/Tuition,28313
+2016,Indiana,Public Out-of-State,4-year,Room/Board,9967
+2016,Iowa,Private,4-year,Fees/Tuition,25308
+2016,Iowa,Private,4-year,Room/Board,8836
+2016,Iowa,Public In-State,2-year,Fees/Tuition,4478
+2016,Iowa,Public In-State,4-year,Fees/Tuition,7879
+2016,Iowa,Public In-State,4-year,Room/Board,8869
+2016,Iowa,Public Out-of-State,2-year,Fees/Tuition,5832
+2016,Iowa,Public Out-of-State,4-year,Fees/Tuition,24136
+2016,Iowa,Public Out-of-State,4-year,Room/Board,8869
+2016,Kansas,Private,4-year,Fees/Tuition,17827
+2016,Kansas,Private,4-year,Room/Board,8287
+2016,Kansas,Public In-State,2-year,Fees/Tuition,3201
+2016,Kansas,Public In-State,4-year,Fees/Tuition,8011
+2016,Kansas,Public In-State,4-year,Room/Board,8772
+2016,Kansas,Public Out-of-State,2-year,Fees/Tuition,4395
+2016,Kansas,Public Out-of-State,4-year,Fees/Tuition,20901
+2016,Kansas,Public Out-of-State,4-year,Room/Board,8772
+2016,Kentucky,Private,4-year,Fees/Tuition,24258
+2016,Kentucky,Private,4-year,Room/Board,8738
+2016,Kentucky,Public In-State,2-year,Fees/Tuition,3650
+2016,Kentucky,Public In-State,4-year,Fees/Tuition,9490
+2016,Kentucky,Public In-State,4-year,Room/Board,9212
+2016,Kentucky,Public Out-of-State,2-year,Fees/Tuition,12478
+2016,Kentucky,Public Out-of-State,4-year,Fees/Tuition,22321
+2016,Kentucky,Public Out-of-State,4-year,Room/Board,9212
+2016,Louisiana,Private,4-year,Fees/Tuition,32733
+2016,Louisiana,Private,4-year,Room/Board,11918
+2016,Louisiana,Public In-State,2-year,Fees/Tuition,3919
+2016,Louisiana,Public In-State,4-year,Fees/Tuition,8162
+2016,Louisiana,Public In-State,4-year,Room/Board,9126
+2016,Louisiana,Public Out-of-State,2-year,Fees/Tuition,7292
+2016,Louisiana,Public Out-of-State,4-year,Fees/Tuition,23099
+2016,Louisiana,Public Out-of-State,4-year,Room/Board,9126
+2016,Maine,Private,4-year,Fees/Tuition,34277
+2016,Maine,Private,4-year,Room/Board,12301
+2016,Maine,Public In-State,2-year,Fees/Tuition,3648
+2016,Maine,Public In-State,4-year,Fees/Tuition,9186
+2016,Maine,Public In-State,4-year,Room/Board,9581
+2016,Maine,Public Out-of-State,2-year,Fees/Tuition,6396
+2016,Maine,Public Out-of-State,4-year,Fees/Tuition,25598
+2016,Maine,Public Out-of-State,4-year,Room/Board,9581
+2016,Maryland,Private,4-year,Fees/Tuition,38352
+2016,Maryland,Private,4-year,Room/Board,13661
+2016,Maryland,Public In-State,2-year,Fees/Tuition,3816
+2016,Maryland,Public In-State,4-year,Fees/Tuition,8942
+2016,Maryland,Public In-State,4-year,Room/Board,11134
+2016,Maryland,Public Out-of-State,2-year,Fees/Tuition,9147
+2016,Maryland,Public Out-of-State,4-year,Fees/Tuition,21768
+2016,Maryland,Public Out-of-State,4-year,Room/Board,11134
+2016,Massachusetts,Private,4-year,Fees/Tuition,40761
+2016,Massachusetts,Private,4-year,Room/Board,14263
+2016,Massachusetts,Public In-State,2-year,Fees/Tuition,4559
+2016,Massachusetts,Public In-State,4-year,Fees/Tuition,11670
+2016,Massachusetts,Public In-State,4-year,Room/Board,11719
+2016,Massachusetts,Public Out-of-State,2-year,Fees/Tuition,9944
+2016,Massachusetts,Public Out-of-State,4-year,Fees/Tuition,27736
+2016,Massachusetts,Public Out-of-State,4-year,Room/Board,11719
+2016,Michigan,Private,4-year,Fees/Tuition,22018
+2016,Michigan,Private,4-year,Room/Board,8936
+2016,Michigan,Public In-State,2-year,Fees/Tuition,3179
+2016,Michigan,Public In-State,4-year,Fees/Tuition,11708
+2016,Michigan,Public In-State,4-year,Room/Board,9673
+2016,Michigan,Public Out-of-State,2-year,Fees/Tuition,6590
+2016,Michigan,Public Out-of-State,4-year,Fees/Tuition,34863
+2016,Michigan,Public Out-of-State,4-year,Room/Board,9673
+2016,Minnesota,Private,4-year,Fees/Tuition,29377
+2016,Minnesota,Private,4-year,Room/Board,9753
+2016,Minnesota,Public In-State,2-year,Fees/Tuition,5332
+2016,Minnesota,Public In-State,4-year,Fees/Tuition,10701
+2016,Minnesota,Public In-State,4-year,Room/Board,8564
+2016,Minnesota,Public Out-of-State,2-year,Fees/Tuition,5975
+2016,Minnesota,Public Out-of-State,4-year,Fees/Tuition,18295
+2016,Minnesota,Public Out-of-State,4-year,Room/Board,8564
+2016,Mississippi,Private,4-year,Fees/Tuition,16438
+2016,Mississippi,Private,4-year,Room/Board,7596
+2016,Mississippi,Public In-State,2-year,Fees/Tuition,2645
+2016,Mississippi,Public In-State,4-year,Fees/Tuition,7175
+2016,Mississippi,Public In-State,4-year,Room/Board,9259
+2016,Mississippi,Public Out-of-State,2-year,Fees/Tuition,4810
+2016,Mississippi,Public Out-of-State,4-year,Fees/Tuition,18516
+2016,Mississippi,Public Out-of-State,4-year,Room/Board,9259
+2016,Missouri,Private,4-year,Fees/Tuition,22416
+2016,Missouri,Private,4-year,Room/Board,9276
+2016,Missouri,Public In-State,2-year,Fees/Tuition,3016
+2016,Missouri,Public In-State,4-year,Fees/Tuition,8178
+2016,Missouri,Public In-State,4-year,Room/Board,9240
+2016,Missouri,Public Out-of-State,2-year,Fees/Tuition,5814
+2016,Missouri,Public Out-of-State,4-year,Fees/Tuition,19860
+2016,Missouri,Public Out-of-State,4-year,Room/Board,9240
+2016,Montana,Private,4-year,Fees/Tuition,22961
+2016,Montana,Private,4-year,Room/Board,8278
+2016,Montana,Public In-State,2-year,Fees/Tuition,3310
+2016,Montana,Public In-State,4-year,Fees/Tuition,6443
+2016,Montana,Public In-State,4-year,Room/Board,8411
+2016,Montana,Public Out-of-State,2-year,Fees/Tuition,9177
+2016,Montana,Public Out-of-State,4-year,Fees/Tuition,22145
+2016,Montana,Public Out-of-State,4-year,Room/Board,8411
+2016,Nebraska,Private,4-year,Fees/Tuition,21641
+2016,Nebraska,Private,4-year,Room/Board,8233
+2016,Nebraska,Public In-State,2-year,Fees/Tuition,2852
+2016,Nebraska,Public In-State,4-year,Fees/Tuition,7446
+2016,Nebraska,Public In-State,4-year,Room/Board,9315
+2016,Nebraska,Public Out-of-State,2-year,Fees/Tuition,3910
+2016,Nebraska,Public Out-of-State,4-year,Fees/Tuition,18651
+2016,Nebraska,Public Out-of-State,4-year,Room/Board,9315
+2016,Nevada,Private,4-year,Fees/Tuition,18827
+2016,Nevada,Private,4-year,Room/Board,13475
+2016,Nevada,Public In-State,2-year,Fees/Tuition,2805
+2016,Nevada,Public In-State,4-year,Fees/Tuition,5298
+2016,Nevada,Public In-State,4-year,Room/Board,10272
+2016,Nevada,Public Out-of-State,2-year,Fees/Tuition,9450
+2016,Nevada,Public Out-of-State,4-year,Fees/Tuition,20355
+2016,Nevada,Public Out-of-State,4-year,Room/Board,10272
+2016,New Hampshire,Private,4-year,Fees/Tuition,31979
+2016,New Hampshire,Private,4-year,Room/Board,12966
+2016,New Hampshire,Public In-State,2-year,Fees/Tuition,6999
+2016,New Hampshire,Public In-State,4-year,Fees/Tuition,14986
+2016,New Hampshire,Public In-State,4-year,Room/Board,11022
+2016,New Hampshire,Public Out-of-State,2-year,Fees/Tuition,15204
+2016,New Hampshire,Public Out-of-State,4-year,Fees/Tuition,26795
+2016,New Hampshire,Public Out-of-State,4-year,Room/Board,11022
+2016,New Jersey,Private,4-year,Fees/Tuition,34040
+2016,New Jersey,Private,4-year,Room/Board,12795
+2016,New Jersey,Public In-State,2-year,Fees/Tuition,4223
+2016,New Jersey,Public In-State,4-year,Fees/Tuition,13021
+2016,New Jersey,Public In-State,4-year,Room/Board,12523
+2016,New Jersey,Public Out-of-State,2-year,Fees/Tuition,7462
+2016,New Jersey,Public Out-of-State,4-year,Fees/Tuition,27358
+2016,New Jersey,Public Out-of-State,4-year,Room/Board,12523
+2016,New Mexico,Private,4-year,Fees/Tuition,20532
+2016,New Mexico,Private,4-year,Room/Board,9864
+2016,New Mexico,Public In-State,2-year,Fees/Tuition,1553
+2016,New Mexico,Public In-State,4-year,Fees/Tuition,6262
+2016,New Mexico,Public In-State,4-year,Room/Board,8767
+2016,New Mexico,Public Out-of-State,2-year,Fees/Tuition,4909
+2016,New Mexico,Public Out-of-State,4-year,Fees/Tuition,15842
+2016,New Mexico,Public Out-of-State,4-year,Room/Board,8767
+2016,New York,Private,4-year,Fees/Tuition,36361
+2016,New York,Private,4-year,Room/Board,13935
+2016,New York,Public In-State,2-year,Fees/Tuition,4969
+2016,New York,Public In-State,4-year,Fees/Tuition,7647
+2016,New York,Public In-State,4-year,Room/Board,13843
+2016,New York,Public Out-of-State,2-year,Fees/Tuition,8756
+2016,New York,Public Out-of-State,4-year,Fees/Tuition,20305
+2016,New York,Public Out-of-State,4-year,Room/Board,13843
+2016,North Carolina,Private,4-year,Fees/Tuition,29307
+2016,North Carolina,Private,4-year,Room/Board,11225
+2016,North Carolina,Public In-State,2-year,Fees/Tuition,2391
+2016,North Carolina,Public In-State,4-year,Fees/Tuition,6944
+2016,North Carolina,Public In-State,4-year,Room/Board,9421
+2016,North Carolina,Public Out-of-State,2-year,Fees/Tuition,8300
+2016,North Carolina,Public Out-of-State,4-year,Fees/Tuition,23309
+2016,North Carolina,Public Out-of-State,4-year,Room/Board,9421
+2016,North Dakota,Private,4-year,Fees/Tuition,13883
+2016,North Dakota,Private,4-year,Room/Board,6220
+2016,North Dakota,Public In-State,2-year,Fees/Tuition,4506
+2016,North Dakota,Public In-State,4-year,Fees/Tuition,7208
+2016,North Dakota,Public In-State,4-year,Room/Board,7639
+2016,North Dakota,Public Out-of-State,2-year,Fees/Tuition,8719
+2016,North Dakota,Public Out-of-State,4-year,Fees/Tuition,17727
+2016,North Dakota,Public Out-of-State,4-year,Room/Board,7639
+2016,Ohio,Private,4-year,Fees/Tuition,28953
+2016,Ohio,Private,4-year,Room/Board,10496
+2016,Ohio,Public In-State,2-year,Fees/Tuition,3642
+2016,Ohio,Public In-State,4-year,Fees/Tuition,9757
+2016,Ohio,Public In-State,4-year,Room/Board,11174
+2016,Ohio,Public Out-of-State,2-year,Fees/Tuition,7738
+2016,Ohio,Public Out-of-State,4-year,Fees/Tuition,23179
+2016,Ohio,Public Out-of-State,4-year,Room/Board,11174
+2016,Oklahoma,Private,4-year,Fees/Tuition,23658
+2016,Oklahoma,Private,4-year,Room/Board,8645
+2016,Oklahoma,Public In-State,2-year,Fees/Tuition,3349
+2016,Oklahoma,Public In-State,4-year,Fees/Tuition,6680
+2016,Oklahoma,Public In-State,4-year,Room/Board,7998
+2016,Oklahoma,Public Out-of-State,2-year,Fees/Tuition,8019
+2016,Oklahoma,Public Out-of-State,4-year,Fees/Tuition,18458
+2016,Oklahoma,Public Out-of-State,4-year,Room/Board,7998
+2016,Oregon,Private,4-year,Fees/Tuition,35034
+2016,Oregon,Private,4-year,Room/Board,11228
+2016,Oregon,Public In-State,2-year,Fees/Tuition,4148
+2016,Oregon,Public In-State,4-year,Fees/Tuition,9406
+2016,Oregon,Public In-State,4-year,Room/Board,11110
+2016,Oregon,Public Out-of-State,2-year,Fees/Tuition,7874
+2016,Oregon,Public Out-of-State,4-year,Fees/Tuition,28676
+2016,Oregon,Public Out-of-State,4-year,Room/Board,11110
+2016,Pennsylvania,Private,4-year,Fees/Tuition,37237
+2016,Pennsylvania,Private,4-year,Room/Board,12658
+2016,Pennsylvania,Public In-State,2-year,Fees/Tuition,4791
+2016,Pennsylvania,Public In-State,4-year,Fees/Tuition,13516
+2016,Pennsylvania,Public In-State,4-year,Room/Board,10719
+2016,Pennsylvania,Public Out-of-State,2-year,Fees/Tuition,11801
+2016,Pennsylvania,Public Out-of-State,4-year,Fees/Tuition,25367
+2016,Pennsylvania,Public Out-of-State,4-year,Room/Board,10719
+2016,Rhode Island,Private,4-year,Fees/Tuition,37406
+2016,Rhode Island,Private,4-year,Room/Board,13647
+2016,Rhode Island,Public In-State,2-year,Fees/Tuition,4266
+2016,Rhode Island,Public In-State,4-year,Fees/Tuition,11321
+2016,Rhode Island,Public In-State,4-year,Room/Board,11401
+2016,Rhode Island,Public Out-of-State,2-year,Fees/Tuition,11496
+2016,Rhode Island,Public Out-of-State,4-year,Fees/Tuition,27967
+2016,Rhode Island,Public Out-of-State,4-year,Room/Board,11401
+2016,South Carolina,Private,4-year,Fees/Tuition,23167
+2016,South Carolina,Private,4-year,Room/Board,8942
+2016,South Carolina,Public In-State,2-year,Fees/Tuition,4219
+2016,South Carolina,Public In-State,4-year,Fees/Tuition,11791
+2016,South Carolina,Public In-State,4-year,Room/Board,9359
+2016,South Carolina,Public Out-of-State,2-year,Fees/Tuition,8510
+2016,South Carolina,Public Out-of-State,4-year,Fees/Tuition,28702
+2016,South Carolina,Public Out-of-State,4-year,Room/Board,9359
+2016,South Dakota,Private,4-year,Fees/Tuition,22164
+2016,South Dakota,Private,4-year,Room/Board,7611
+2016,South Dakota,Public In-State,2-year,Fees/Tuition,5419
+2016,South Dakota,Public In-State,4-year,Fees/Tuition,8273
+2016,South Dakota,Public In-State,4-year,Room/Board,7834
+2016,South Dakota,Public Out-of-State,2-year,Fees/Tuition,5253
+2016,South Dakota,Public Out-of-State,4-year,Fees/Tuition,11592
+2016,South Dakota,Public Out-of-State,4-year,Room/Board,7834
+2016,Tennessee,Private,4-year,Fees/Tuition,25053
+2016,Tennessee,Private,4-year,Room/Board,9567
+2016,Tennessee,Public In-State,2-year,Fees/Tuition,3940
+2016,Tennessee,Public In-State,4-year,Fees/Tuition,8932
+2016,Tennessee,Public In-State,4-year,Room/Board,8803
+2016,Tennessee,Public Out-of-State,2-year,Fees/Tuition,15346
+2016,Tennessee,Public Out-of-State,4-year,Fees/Tuition,24554
+2016,Tennessee,Public Out-of-State,4-year,Room/Board,8803
+2016,Texas,Private,4-year,Fees/Tuition,28880
+2016,Texas,Private,4-year,Room/Board,10734
+2016,Texas,Public In-State,2-year,Fees/Tuition,2017
+2016,Texas,Public In-State,4-year,Fees/Tuition,8091
+2016,Texas,Public In-State,4-year,Room/Board,9304
+2016,Texas,Public Out-of-State,2-year,Fees/Tuition,5502
+2016,Texas,Public Out-of-State,4-year,Fees/Tuition,21677
+2016,Texas,Public Out-of-State,4-year,Room/Board,9304
+2016,Utah,Private,4-year,Fees/Tuition,7571
+2016,Utah,Private,4-year,Room/Board,7651
+2016,Utah,Public In-State,2-year,Fees/Tuition,3569
+2016,Utah,Public In-State,4-year,Fees/Tuition,6140
+2016,Utah,Public In-State,4-year,Room/Board,7204
+2016,Utah,Public Out-of-State,2-year,Fees/Tuition,11337
+2016,Utah,Public Out-of-State,4-year,Fees/Tuition,18501
+2016,Utah,Public Out-of-State,4-year,Room/Board,7204
+2016,Vermont,Private,4-year,Fees/Tuition,39518
+2016,Vermont,Private,4-year,Room/Board,12345
+2016,Vermont,Public In-State,2-year,Fees/Tuition,6054
+2016,Vermont,Public In-State,4-year,Fees/Tuition,15062
+2016,Vermont,Public In-State,4-year,Room/Board,10848
+2016,Vermont,Public Out-of-State,2-year,Fees/Tuition,11958
+2016,Vermont,Public Out-of-State,4-year,Fees/Tuition,36475
+2016,Vermont,Public Out-of-State,4-year,Room/Board,10848
+2016,Virginia,Private,4-year,Fees/Tuition,21016
+2016,Virginia,Private,4-year,Room/Board,9901
+2016,Virginia,Public In-State,2-year,Fees/Tuition,4793
+2016,Virginia,Public In-State,4-year,Fees/Tuition,11669
+2016,Virginia,Public In-State,4-year,Room/Board,10220
+2016,Virginia,Public Out-of-State,2-year,Fees/Tuition,10867
+2016,Virginia,Public Out-of-State,4-year,Fees/Tuition,31559
+2016,Virginia,Public Out-of-State,4-year,Room/Board,10220
+2016,Washington,Private,4-year,Fees/Tuition,34412
+2016,Washington,Private,4-year,Room/Board,11058
+2016,Washington,Public In-State,2-year,Fees/Tuition,3771
+2016,Washington,Public In-State,4-year,Fees/Tuition,7782
+2016,Washington,Public In-State,4-year,Room/Board,10883
+2016,Washington,Public Out-of-State,2-year,Fees/Tuition,6565
+2016,Washington,Public Out-of-State,4-year,Fees/Tuition,28849
+2016,Washington,Public Out-of-State,4-year,Room/Board,10883
+2016,West Virginia,Private,4-year,Fees/Tuition,11721
+2016,West Virginia,Private,4-year,Room/Board,8465
+2016,West Virginia,Public In-State,2-year,Fees/Tuition,3825
+2016,West Virginia,Public In-State,4-year,Fees/Tuition,6900
+2016,West Virginia,Public In-State,4-year,Room/Board,9527
+2016,West Virginia,Public Out-of-State,2-year,Fees/Tuition,9077
+2016,West Virginia,Public Out-of-State,4-year,Fees/Tuition,18833
+2016,West Virginia,Public Out-of-State,4-year,Room/Board,9527
+2016,Wisconsin,Private,4-year,Fees/Tuition,29777
+2016,Wisconsin,Private,4-year,Room/Board,9586
+2016,Wisconsin,Public In-State,2-year,Fees/Tuition,4382
+2016,Wisconsin,Public In-State,4-year,Fees/Tuition,8504
+2016,Wisconsin,Public In-State,4-year,Room/Board,7690
+2016,Wisconsin,Public Out-of-State,2-year,Fees/Tuition,7336
+2016,Wisconsin,Public Out-of-State,4-year,Fees/Tuition,21327
+2016,Wisconsin,Public Out-of-State,4-year,Room/Board,7690
+2016,Wyoming,Private,4-year,Fees/Tuition,18021
+2016,Wyoming,Public In-State,2-year,Fees/Tuition,2788
+2016,Wyoming,Public In-State,4-year,Fees/Tuition,4178
+2016,Wyoming,Public In-State,4-year,Room/Board,9764
+2016,Wyoming,Public Out-of-State,2-year,Fees/Tuition,6733
+2016,Wyoming,Public Out-of-State,4-year,Fees/Tuition,12770
+2016,Wyoming,Public Out-of-State,4-year,Room/Board,9764
+2017,Alabama,Private,4-year,Fees/Tuition,15422
+2017,Alabama,Private,4-year,Room/Board,9288
+2017,Alabama,Public In-State,2-year,Fees/Tuition,4362
+2017,Alabama,Public In-State,4-year,Fees/Tuition,9466
+2017,Alabama,Public In-State,4-year,Room/Board,9586
+2017,Alabama,Public Out-of-State,2-year,Fees/Tuition,9075
+2017,Alabama,Public Out-of-State,4-year,Fees/Tuition,24000
+2017,Alabama,Public Out-of-State,4-year,Room/Board,9586
+2017,Alaska,Private,4-year,Fees/Tuition,18876
+2017,Alaska,Private,4-year,Room/Board,7255
+2017,Alaska,Public In-State,2-year,Fees/Tuition,3820
+2017,Alaska,Public In-State,4-year,Fees/Tuition,7210
+2017,Alaska,Public In-State,4-year,Room/Board,10160
+2017,Alaska,Public Out-of-State,2-year,Fees/Tuition,3820
+2017,Alaska,Public Out-of-State,4-year,Fees/Tuition,21431
+2017,Alaska,Public Out-of-State,4-year,Room/Board,10160
+2017,Arizona,Private,4-year,Fees/Tuition,13140
+2017,Arizona,Private,4-year,Room/Board,9419
+2017,Arizona,Public In-State,2-year,Fees/Tuition,2129
+2017,Arizona,Public In-State,4-year,Fees/Tuition,10057
+2017,Arizona,Public In-State,4-year,Room/Board,11434
+2017,Arizona,Public Out-of-State,2-year,Fees/Tuition,7931
+2017,Arizona,Public Out-of-State,4-year,Fees/Tuition,25061
+2017,Arizona,Public Out-of-State,4-year,Room/Board,11434
+2017,Arkansas,Private,4-year,Fees/Tuition,21710
+2017,Arkansas,Private,4-year,Room/Board,8094
+2017,Arkansas,Public In-State,2-year,Fees/Tuition,3195
+2017,Arkansas,Public In-State,4-year,Fees/Tuition,7924
+2017,Arkansas,Public In-State,4-year,Room/Board,8947
+2017,Arkansas,Public Out-of-State,2-year,Fees/Tuition,4582
+2017,Arkansas,Public Out-of-State,4-year,Fees/Tuition,19323
+2017,Arkansas,Public Out-of-State,4-year,Room/Board,8947
+2017,California,Private,4-year,Fees/Tuition,31495
+2017,California,Private,4-year,Room/Board,13227
+2017,California,Public In-State,2-year,Fees/Tuition,1262
+2017,California,Public In-State,4-year,Fees/Tuition,7896
+2017,California,Public In-State,4-year,Room/Board,13459
+2017,California,Public Out-of-State,2-year,Fees/Tuition,7120
+2017,California,Public Out-of-State,4-year,Fees/Tuition,28253
+2017,California,Public Out-of-State,4-year,Room/Board,13459
+2017,Colorado,Private,4-year,Fees/Tuition,22627
+2017,Colorado,Private,4-year,Room/Board,11710
+2017,Colorado,Public In-State,2-year,Fees/Tuition,3565
+2017,Colorado,Public In-State,4-year,Fees/Tuition,9352
+2017,Colorado,Public In-State,4-year,Room/Board,11591
+2017,Colorado,Public Out-of-State,2-year,Fees/Tuition,10152
+2017,Colorado,Public Out-of-State,4-year,Fees/Tuition,28986
+2017,Colorado,Public Out-of-State,4-year,Room/Board,11591
+2017,Connecticut,Private,4-year,Fees/Tuition,38975
+2017,Connecticut,Private,4-year,Room/Board,14223
+2017,Connecticut,Public In-State,2-year,Fees/Tuition,4189
+2017,Connecticut,Public In-State,4-year,Fees/Tuition,11726
+2017,Connecticut,Public In-State,4-year,Room/Board,12448
+2017,Connecticut,Public Out-of-State,2-year,Fees/Tuition,12528
+2017,Connecticut,Public Out-of-State,4-year,Fees/Tuition,32836
+2017,Connecticut,Public Out-of-State,4-year,Room/Board,12448
+2017,Delaware,Private,4-year,Fees/Tuition,14383
+2017,Delaware,Private,4-year,Room/Board,11613
+2017,Delaware,Public In-State,4-year,Fees/Tuition,9578
+2017,Delaware,Public In-State,4-year,Room/Board,12121
+2017,Delaware,Public Out-of-State,4-year,Fees/Tuition,28497
+2017,Delaware,Public Out-of-State,4-year,Room/Board,12121
+2017,District of Columbia,Private,4-year,Fees/Tuition,40618
+2017,District of Columbia,Private,4-year,Room/Board,15051
+2017,District of Columbia,Public In-State,4-year,Fees/Tuition,5612
+2017,District of Columbia,Public Out-of-State,4-year,Fees/Tuition,11756
+2017,Florida,Private,4-year,Fees/Tuition,24360
+2017,Florida,Private,4-year,Room/Board,11515
+2017,Florida,Public In-State,2-year,Fees/Tuition,2552
+2017,Florida,Public In-State,4-year,Fees/Tuition,4435
+2017,Florida,Public In-State,4-year,Room/Board,10371
+2017,Florida,Public Out-of-State,2-year,Fees/Tuition,9122
+2017,Florida,Public Out-of-State,4-year,Fees/Tuition,18304
+2017,Florida,Public Out-of-State,4-year,Room/Board,10371
+2017,Georgia,Private,4-year,Fees/Tuition,27220
+2017,Georgia,Private,4-year,Room/Board,11897
+2017,Georgia,Public In-State,2-year,Fees/Tuition,2895
+2017,Georgia,Public In-State,4-year,Fees/Tuition,7010
+2017,Georgia,Public In-State,4-year,Room/Board,10343
+2017,Georgia,Public Out-of-State,2-year,Fees/Tuition,7958
+2017,Georgia,Public Out-of-State,4-year,Fees/Tuition,21377
+2017,Georgia,Public Out-of-State,4-year,Room/Board,10343
+2017,Hawaii,Private,4-year,Fees/Tuition,15949
+2017,Hawaii,Private,4-year,Room/Board,12443
+2017,Hawaii,Public In-State,2-year,Fees/Tuition,3080
+2017,Hawaii,Public In-State,4-year,Fees/Tuition,9712
+2017,Hawaii,Public In-State,4-year,Room/Board,11304
+2017,Hawaii,Public Out-of-State,2-year,Fees/Tuition,8216
+2017,Hawaii,Public Out-of-State,4-year,Fees/Tuition,30929
+2017,Hawaii,Public Out-of-State,4-year,Room/Board,11304
+2017,Idaho,Private,4-year,Fees/Tuition,5925
+2017,Idaho,Private,4-year,Room/Board,7085
+2017,Idaho,Public In-State,2-year,Fees/Tuition,3227
+2017,Idaho,Public In-State,4-year,Fees/Tuition,7005
+2017,Idaho,Public In-State,4-year,Room/Board,7452
+2017,Idaho,Public Out-of-State,2-year,Fees/Tuition,7589
+2017,Idaho,Public Out-of-State,4-year,Fees/Tuition,21370
+2017,Idaho,Public Out-of-State,4-year,Room/Board,7452
+2017,Illinois,Private,4-year,Fees/Tuition,31298
+2017,Illinois,Private,4-year,Room/Board,12084
+2017,Illinois,Public In-State,2-year,Fees/Tuition,3749
+2017,Illinois,Public In-State,4-year,Fees/Tuition,13636
+2017,Illinois,Public In-State,4-year,Room/Board,10905
+2017,Illinois,Public Out-of-State,2-year,Fees/Tuition,10748
+2017,Illinois,Public Out-of-State,4-year,Fees/Tuition,28167
+2017,Illinois,Public Out-of-State,4-year,Room/Board,10905
+2017,Indiana,Private,4-year,Fees/Tuition,30926
+2017,Indiana,Private,4-year,Room/Board,10922
+2017,Indiana,Public In-State,2-year,Fees/Tuition,4175
+2017,Indiana,Public In-State,4-year,Fees/Tuition,8876
+2017,Indiana,Public In-State,4-year,Room/Board,10124
+2017,Indiana,Public Out-of-State,2-year,Fees/Tuition,8052
+2017,Indiana,Public Out-of-State,4-year,Fees/Tuition,28315
+2017,Indiana,Public Out-of-State,4-year,Room/Board,10124
+2017,Iowa,Private,4-year,Fees/Tuition,26742
+2017,Iowa,Private,4-year,Room/Board,9039
+2017,Iowa,Public In-State,2-year,Fees/Tuition,4791
+2017,Iowa,Public In-State,4-year,Fees/Tuition,8361
+2017,Iowa,Public In-State,4-year,Room/Board,9243
+2017,Iowa,Public Out-of-State,2-year,Fees/Tuition,6406
+2017,Iowa,Public Out-of-State,4-year,Fees/Tuition,24912
+2017,Iowa,Public Out-of-State,4-year,Room/Board,9243
+2017,Kansas,Private,4-year,Fees/Tuition,20291
+2017,Kansas,Private,4-year,Room/Board,8455
+2017,Kansas,Public In-State,2-year,Fees/Tuition,3222
+2017,Kansas,Public In-State,4-year,Fees/Tuition,8489
+2017,Kansas,Public In-State,4-year,Room/Board,9072
+2017,Kansas,Public Out-of-State,2-year,Fees/Tuition,4548
+2017,Kansas,Public Out-of-State,4-year,Fees/Tuition,22000
+2017,Kansas,Public Out-of-State,4-year,Room/Board,9072
+2017,Kentucky,Private,4-year,Fees/Tuition,25845
+2017,Kentucky,Private,4-year,Room/Board,9049
+2017,Kentucky,Public In-State,2-year,Fees/Tuition,3962
+2017,Kentucky,Public In-State,4-year,Fees/Tuition,10014
+2017,Kentucky,Public In-State,4-year,Room/Board,9659
+2017,Kentucky,Public Out-of-State,2-year,Fees/Tuition,13321
+2017,Kentucky,Public Out-of-State,4-year,Fees/Tuition,23539
+2017,Kentucky,Public Out-of-State,4-year,Room/Board,9659
+2017,Louisiana,Private,4-year,Fees/Tuition,35190
+2017,Louisiana,Private,4-year,Room/Board,12369
+2017,Louisiana,Public In-State,2-year,Fees/Tuition,4031
+2017,Louisiana,Public In-State,4-year,Fees/Tuition,8813
+2017,Louisiana,Public In-State,4-year,Room/Board,9506
+2017,Louisiana,Public Out-of-State,2-year,Fees/Tuition,6496
+2017,Louisiana,Public Out-of-State,4-year,Fees/Tuition,22771
+2017,Louisiana,Public Out-of-State,4-year,Room/Board,9506
+2017,Maine,Private,4-year,Fees/Tuition,35547
+2017,Maine,Private,4-year,Room/Board,12560
+2017,Maine,Public In-State,2-year,Fees/Tuition,3673
+2017,Maine,Public In-State,4-year,Fees/Tuition,9219
+2017,Maine,Public In-State,4-year,Room/Board,9854
+2017,Maine,Public Out-of-State,2-year,Fees/Tuition,6494
+2017,Maine,Public Out-of-State,4-year,Fees/Tuition,26004
+2017,Maine,Public Out-of-State,4-year,Room/Board,9854
+2017,Maryland,Private,4-year,Fees/Tuition,40209
+2017,Maryland,Private,4-year,Room/Board,13566
+2017,Maryland,Public In-State,2-year,Fees/Tuition,3983
+2017,Maryland,Public In-State,4-year,Fees/Tuition,9083
+2017,Maryland,Public In-State,4-year,Room/Board,11564
+2017,Maryland,Public Out-of-State,2-year,Fees/Tuition,9170
+2017,Maryland,Public Out-of-State,4-year,Fees/Tuition,22437
+2017,Maryland,Public Out-of-State,4-year,Room/Board,11564
+2017,Massachusetts,Private,4-year,Fees/Tuition,42655
+2017,Massachusetts,Private,4-year,Room/Board,14708
+2017,Massachusetts,Public In-State,2-year,Fees/Tuition,4785
+2017,Massachusetts,Public In-State,4-year,Fees/Tuition,12331
+2017,Massachusetts,Public In-State,4-year,Room/Board,12142
+2017,Massachusetts,Public Out-of-State,2-year,Fees/Tuition,9785
+2017,Massachusetts,Public Out-of-State,4-year,Fees/Tuition,28740
+2017,Massachusetts,Public Out-of-State,4-year,Room/Board,12142
+2017,Michigan,Private,4-year,Fees/Tuition,24058
+2017,Michigan,Private,4-year,Room/Board,9440
+2017,Michigan,Public In-State,2-year,Fees/Tuition,3423
+2017,Michigan,Public In-State,4-year,Fees/Tuition,11890
+2017,Michigan,Public In-State,4-year,Room/Board,9942
+2017,Michigan,Public Out-of-State,2-year,Fees/Tuition,6474
+2017,Michigan,Public Out-of-State,4-year,Fees/Tuition,36714
+2017,Michigan,Public Out-of-State,4-year,Room/Board,9942
+2017,Minnesota,Private,4-year,Fees/Tuition,30925
+2017,Minnesota,Private,4-year,Room/Board,10014
+2017,Minnesota,Public In-State,2-year,Fees/Tuition,5310
+2017,Minnesota,Public In-State,4-year,Fees/Tuition,10883
+2017,Minnesota,Public In-State,4-year,Room/Board,8844
+2017,Minnesota,Public Out-of-State,2-year,Fees/Tuition,6053
+2017,Minnesota,Public Out-of-State,4-year,Fees/Tuition,19088
+2017,Minnesota,Public Out-of-State,4-year,Room/Board,8844
+2017,Mississippi,Private,4-year,Fees/Tuition,16949
+2017,Mississippi,Private,4-year,Room/Board,7749
+2017,Mississippi,Public In-State,2-year,Fees/Tuition,2830
+2017,Mississippi,Public In-State,4-year,Fees/Tuition,7472
+2017,Mississippi,Public In-State,4-year,Room/Board,9372
+2017,Mississippi,Public Out-of-State,2-year,Fees/Tuition,5176
+2017,Mississippi,Public Out-of-State,4-year,Fees/Tuition,19138
+2017,Mississippi,Public Out-of-State,4-year,Room/Board,9372
+2017,Missouri,Private,4-year,Fees/Tuition,23702
+2017,Missouri,Private,4-year,Room/Board,9731
+2017,Missouri,Public In-State,2-year,Fees/Tuition,3028
+2017,Missouri,Public In-State,4-year,Fees/Tuition,8176
+2017,Missouri,Public In-State,4-year,Room/Board,9463
+2017,Missouri,Public Out-of-State,2-year,Fees/Tuition,5737
+2017,Missouri,Public Out-of-State,4-year,Fees/Tuition,18940
+2017,Missouri,Public Out-of-State,4-year,Room/Board,9463
+2017,Montana,Private,4-year,Fees/Tuition,23657
+2017,Montana,Private,4-year,Room/Board,8718
+2017,Montana,Public In-State,2-year,Fees/Tuition,3381
+2017,Montana,Public In-State,4-year,Fees/Tuition,6503
+2017,Montana,Public In-State,4-year,Room/Board,8738
+2017,Montana,Public Out-of-State,2-year,Fees/Tuition,8210
+2017,Montana,Public Out-of-State,4-year,Fees/Tuition,22956
+2017,Montana,Public Out-of-State,4-year,Room/Board,8738
+2017,Nebraska,Private,4-year,Fees/Tuition,23109
+2017,Nebraska,Private,4-year,Room/Board,9091
+2017,Nebraska,Public In-State,2-year,Fees/Tuition,2991
+2017,Nebraska,Public In-State,4-year,Fees/Tuition,7732
+2017,Nebraska,Public In-State,4-year,Room/Board,9647
+2017,Nebraska,Public Out-of-State,2-year,Fees/Tuition,3941
+2017,Nebraska,Public Out-of-State,4-year,Fees/Tuition,19483
+2017,Nebraska,Public Out-of-State,4-year,Room/Board,9647
+2017,Nevada,Private,4-year,Fees/Tuition,21423
+2017,Nevada,Private,4-year,Room/Board,13630
+2017,Nevada,Public In-State,2-year,Fees/Tuition,2910
+2017,Nevada,Public In-State,4-year,Fees/Tuition,5520
+2017,Nevada,Public In-State,4-year,Room/Board,11625
+2017,Nevada,Public Out-of-State,2-year,Fees/Tuition,9555
+2017,Nevada,Public Out-of-State,4-year,Fees/Tuition,20672
+2017,Nevada,Public Out-of-State,4-year,Room/Board,11625
+2017,New Hampshire,Private,4-year,Fees/Tuition,33235
+2017,New Hampshire,Private,4-year,Room/Board,13298
+2017,New Hampshire,Public In-State,2-year,Fees/Tuition,7002
+2017,New Hampshire,Public In-State,4-year,Fees/Tuition,15491
+2017,New Hampshire,Public In-State,4-year,Room/Board,11477
+2017,New Hampshire,Public Out-of-State,2-year,Fees/Tuition,15157
+2017,New Hampshire,Public Out-of-State,4-year,Fees/Tuition,27201
+2017,New Hampshire,Public Out-of-State,4-year,Room/Board,11477
+2017,New Jersey,Private,4-year,Fees/Tuition,35224
+2017,New Jersey,Private,4-year,Room/Board,13215
+2017,New Jersey,Public In-State,2-year,Fees/Tuition,4366
+2017,New Jersey,Public In-State,4-year,Fees/Tuition,13297
+2017,New Jersey,Public In-State,4-year,Room/Board,12773
+2017,New Jersey,Public Out-of-State,2-year,Fees/Tuition,7692
+2017,New Jersey,Public Out-of-State,4-year,Fees/Tuition,28051
+2017,New Jersey,Public Out-of-State,4-year,Room/Board,12773
+2017,New Mexico,Private,4-year,Fees/Tuition,22535
+2017,New Mexico,Private,4-year,Room/Board,9838
+2017,New Mexico,Public In-State,2-year,Fees/Tuition,1590
+2017,New Mexico,Public In-State,4-year,Fees/Tuition,6825
+2017,New Mexico,Public In-State,4-year,Room/Board,8704
+2017,New Mexico,Public Out-of-State,2-year,Fees/Tuition,4749
+2017,New Mexico,Public Out-of-State,4-year,Fees/Tuition,17272
+2017,New Mexico,Public Out-of-State,4-year,Room/Board,8704
+2017,New York,Private,4-year,Fees/Tuition,37580
+2017,New York,Private,4-year,Room/Board,14210
+2017,New York,Public In-State,2-year,Fees/Tuition,5122
+2017,New York,Public In-State,4-year,Fees/Tuition,7709
+2017,New York,Public In-State,4-year,Room/Board,14042
+2017,New York,Public Out-of-State,2-year,Fees/Tuition,8857
+2017,New York,Public Out-of-State,4-year,Fees/Tuition,21454
+2017,New York,Public Out-of-State,4-year,Room/Board,14042
+2017,North Carolina,Private,4-year,Fees/Tuition,30701
+2017,North Carolina,Private,4-year,Room/Board,11611
+2017,North Carolina,Public In-State,2-year,Fees/Tuition,2470
+2017,North Carolina,Public In-State,4-year,Fees/Tuition,7218
+2017,North Carolina,Public In-State,4-year,Room/Board,9417
+2017,North Carolina,Public Out-of-State,2-year,Fees/Tuition,8481
+2017,North Carolina,Public Out-of-State,4-year,Fees/Tuition,23778
+2017,North Carolina,Public Out-of-State,4-year,Room/Board,9417
+2017,North Dakota,Private,4-year,Fees/Tuition,14290
+2017,North Dakota,Private,4-year,Room/Board,6674
+2017,North Dakota,Public In-State,2-year,Fees/Tuition,4562
+2017,North Dakota,Public In-State,4-year,Fees/Tuition,7376
+2017,North Dakota,Public In-State,4-year,Room/Board,8011
+2017,North Dakota,Public Out-of-State,2-year,Fees/Tuition,9484
+2017,North Dakota,Public Out-of-State,4-year,Fees/Tuition,18288
+2017,North Dakota,Public Out-of-State,4-year,Room/Board,8011
+2017,Ohio,Private,4-year,Fees/Tuition,30296
+2017,Ohio,Private,4-year,Room/Board,10685
+2017,Ohio,Public In-State,2-year,Fees/Tuition,3655
+2017,Ohio,Public In-State,4-year,Fees/Tuition,9827
+2017,Ohio,Public In-State,4-year,Room/Board,11133
+2017,Ohio,Public Out-of-State,2-year,Fees/Tuition,5721
+2017,Ohio,Public Out-of-State,4-year,Fees/Tuition,23434
+2017,Ohio,Public Out-of-State,4-year,Room/Board,11133
+2017,Oklahoma,Private,4-year,Fees/Tuition,24776
+2017,Oklahoma,Private,4-year,Room/Board,9108
+2017,Oklahoma,Public In-State,2-year,Fees/Tuition,3627
+2017,Oklahoma,Public In-State,4-year,Fees/Tuition,7219
+2017,Oklahoma,Public In-State,4-year,Room/Board,8536
+2017,Oklahoma,Public Out-of-State,2-year,Fees/Tuition,8582
+2017,Oklahoma,Public Out-of-State,4-year,Fees/Tuition,19174
+2017,Oklahoma,Public Out-of-State,4-year,Room/Board,8536
+2017,Oregon,Private,4-year,Fees/Tuition,37088
+2017,Oregon,Private,4-year,Room/Board,11614
+2017,Oregon,Public In-State,2-year,Fees/Tuition,4263
+2017,Oregon,Public In-State,4-year,Fees/Tuition,9739
+2017,Oregon,Public In-State,4-year,Room/Board,11585
+2017,Oregon,Public Out-of-State,2-year,Fees/Tuition,8410
+2017,Oregon,Public Out-of-State,4-year,Fees/Tuition,29330
+2017,Oregon,Public Out-of-State,4-year,Room/Board,11585
+2017,Pennsylvania,Private,4-year,Fees/Tuition,39185
+2017,Pennsylvania,Private,4-year,Room/Board,12947
+2017,Pennsylvania,Public In-State,2-year,Fees/Tuition,5048
+2017,Pennsylvania,Public In-State,4-year,Fees/Tuition,14068
+2017,Pennsylvania,Public In-State,4-year,Room/Board,11264
+2017,Pennsylvania,Public Out-of-State,2-year,Fees/Tuition,12833
+2017,Pennsylvania,Public Out-of-State,4-year,Fees/Tuition,26328
+2017,Pennsylvania,Public Out-of-State,4-year,Room/Board,11264
+2017,Rhode Island,Private,4-year,Fees/Tuition,38855
+2017,Rhode Island,Private,4-year,Room/Board,14018
+2017,Rhode Island,Public In-State,2-year,Fees/Tuition,4266
+2017,Rhode Island,Public In-State,4-year,Fees/Tuition,11386
+2017,Rhode Island,Public In-State,4-year,Room/Board,11749
+2017,Rhode Island,Public Out-of-State,2-year,Fees/Tuition,11496
+2017,Rhode Island,Public Out-of-State,4-year,Fees/Tuition,27815
+2017,Rhode Island,Public Out-of-State,4-year,Room/Board,11749
+2017,South Carolina,Private,4-year,Fees/Tuition,24523
+2017,South Carolina,Private,4-year,Room/Board,9225
+2017,South Carolina,Public In-State,2-year,Fees/Tuition,4418
+2017,South Carolina,Public In-State,4-year,Fees/Tuition,12153
+2017,South Carolina,Public In-State,4-year,Room/Board,9355
+2017,South Carolina,Public Out-of-State,2-year,Fees/Tuition,9730
+2017,South Carolina,Public Out-of-State,4-year,Fees/Tuition,29888
+2017,South Carolina,Public Out-of-State,4-year,Room/Board,9355
+2017,South Dakota,Private,4-year,Fees/Tuition,23147
+2017,South Dakota,Private,4-year,Room/Board,7779
+2017,South Dakota,Public In-State,2-year,Fees/Tuition,5803
+2017,South Dakota,Public In-State,4-year,Fees/Tuition,8301
+2017,South Dakota,Public In-State,4-year,Room/Board,7753
+2017,South Dakota,Public Out-of-State,2-year,Fees/Tuition,5660
+2017,South Dakota,Public Out-of-State,4-year,Fees/Tuition,11845
+2017,South Dakota,Public Out-of-State,4-year,Room/Board,7753
+2017,Tennessee,Private,4-year,Fees/Tuition,25985
+2017,Tennessee,Private,4-year,Room/Board,9944
+2017,Tennessee,Public In-State,2-year,Fees/Tuition,4048
+2017,Tennessee,Public In-State,4-year,Fees/Tuition,9287
+2017,Tennessee,Public In-State,4-year,Room/Board,9053
+2017,Tennessee,Public Out-of-State,2-year,Fees/Tuition,15540
+2017,Tennessee,Public Out-of-State,4-year,Fees/Tuition,24802
+2017,Tennessee,Public Out-of-State,4-year,Room/Board,9053
+2017,Texas,Private,4-year,Fees/Tuition,31009
+2017,Texas,Private,4-year,Room/Board,10970
+2017,Texas,Public In-State,2-year,Fees/Tuition,2099
+2017,Texas,Public In-State,4-year,Fees/Tuition,8375
+2017,Texas,Public In-State,4-year,Room/Board,9424
+2017,Texas,Public Out-of-State,2-year,Fees/Tuition,6100
+2017,Texas,Public Out-of-State,4-year,Fees/Tuition,23511
+2017,Texas,Public Out-of-State,4-year,Room/Board,9424
+2017,Utah,Private,4-year,Fees/Tuition,7445
+2017,Utah,Private,4-year,Room/Board,7766
+2017,Utah,Public In-State,2-year,Fees/Tuition,3690
+2017,Utah,Public In-State,4-year,Fees/Tuition,6334
+2017,Utah,Public In-State,4-year,Room/Board,7376
+2017,Utah,Public Out-of-State,2-year,Fees/Tuition,11728
+2017,Utah,Public Out-of-State,4-year,Fees/Tuition,19407
+2017,Utah,Public Out-of-State,4-year,Room/Board,7376
+2017,Vermont,Private,4-year,Fees/Tuition,41063
+2017,Vermont,Private,4-year,Room/Board,12940
+2017,Vermont,Public In-State,2-year,Fees/Tuition,6222
+2017,Vermont,Public In-State,4-year,Fees/Tuition,15537
+2017,Vermont,Public In-State,4-year,Room/Board,11249
+2017,Vermont,Public Out-of-State,2-year,Fees/Tuition,12294
+2017,Vermont,Public Out-of-State,4-year,Fees/Tuition,37991
+2017,Vermont,Public Out-of-State,4-year,Room/Board,11249
+2017,Virginia,Private,4-year,Fees/Tuition,22286
+2017,Virginia,Private,4-year,Room/Board,10330
+2017,Virginia,Public In-State,2-year,Fees/Tuition,4962
+2017,Virginia,Public In-State,4-year,Fees/Tuition,12126
+2017,Virginia,Public In-State,4-year,Room/Board,10442
+2017,Virginia,Public Out-of-State,2-year,Fees/Tuition,11080
+2017,Virginia,Public Out-of-State,4-year,Fees/Tuition,32250
+2017,Virginia,Public Out-of-State,4-year,Room/Board,10442
+2017,Washington,Private,4-year,Fees/Tuition,35288
+2017,Washington,Private,4-year,Room/Board,11458
+2017,Washington,Public In-State,2-year,Fees/Tuition,3848
+2017,Washington,Public In-State,4-year,Fees/Tuition,6903
+2017,Washington,Public In-State,4-year,Room/Board,11150
+2017,Washington,Public Out-of-State,2-year,Fees/Tuition,6647
+2017,Washington,Public Out-of-State,4-year,Fees/Tuition,28128
+2017,Washington,Public Out-of-State,4-year,Room/Board,11150
+2017,West Virginia,Private,4-year,Fees/Tuition,12206
+2017,West Virginia,Private,4-year,Room/Board,8692
+2017,West Virginia,Public In-State,2-year,Fees/Tuition,4009
+2017,West Virginia,Public In-State,4-year,Fees/Tuition,7241
+2017,West Virginia,Public In-State,4-year,Room/Board,9855
+2017,West Virginia,Public Out-of-State,2-year,Fees/Tuition,9241
+2017,West Virginia,Public Out-of-State,4-year,Fees/Tuition,20030
+2017,West Virginia,Public Out-of-State,4-year,Room/Board,9855
+2017,Wisconsin,Private,4-year,Fees/Tuition,31662
+2017,Wisconsin,Private,4-year,Room/Board,9841
+2017,Wisconsin,Public In-State,2-year,Fees/Tuition,4292
+2017,Wisconsin,Public In-State,4-year,Fees/Tuition,8419
+2017,Wisconsin,Public In-State,4-year,Room/Board,7827
+2017,Wisconsin,Public Out-of-State,2-year,Fees/Tuition,6223
+2017,Wisconsin,Public Out-of-State,4-year,Fees/Tuition,22574
+2017,Wisconsin,Public Out-of-State,4-year,Room/Board,7827
+2017,Wyoming,Private,4-year,Fees/Tuition,18021
+2017,Wyoming,Public In-State,2-year,Fees/Tuition,2987
+2017,Wyoming,Public In-State,4-year,Fees/Tuition,4311
+2017,Wyoming,Public In-State,4-year,Room/Board,10043
+2017,Wyoming,Public Out-of-State,2-year,Fees/Tuition,7292
+2017,Wyoming,Public Out-of-State,4-year,Fees/Tuition,13239
+2017,Wyoming,Public Out-of-State,4-year,Room/Board,10043
+2018,Alabama,Private,4-year,Fees/Tuition,16321
+2018,Alabama,Private,4-year,Room/Board,9843
+2018,Alabama,Public In-State,2-year,Fees/Tuition,4403
+2018,Alabama,Public In-State,4-year,Fees/Tuition,9827
+2018,Alabama,Public In-State,4-year,Room/Board,9846
+2018,Alabama,Public Out-of-State,2-year,Fees/Tuition,9133
+2018,Alabama,Public Out-of-State,4-year,Fees/Tuition,24939
+2018,Alabama,Public Out-of-State,4-year,Room/Board,9846
+2018,Alaska,Private,4-year,Fees/Tuition,19360
+2018,Alaska,Private,4-year,Room/Board,7527
+2018,Alaska,Public In-State,4-year,Fees/Tuition,7221
+2018,Alaska,Public In-State,4-year,Room/Board,11152
+2018,Alaska,Public Out-of-State,4-year,Fees/Tuition,21284
+2018,Alaska,Public Out-of-State,4-year,Room/Board,11152
+2018,Arizona,Private,4-year,Fees/Tuition,13487
+2018,Arizona,Private,4-year,Room/Board,9451
+2018,Arizona,Public In-State,2-year,Fees/Tuition,2152
+2018,Arizona,Public In-State,4-year,Fees/Tuition,10557
+2018,Arizona,Public In-State,4-year,Room/Board,12072
+2018,Arizona,Public Out-of-State,2-year,Fees/Tuition,8067
+2018,Arizona,Public Out-of-State,4-year,Fees/Tuition,26067
+2018,Arizona,Public Out-of-State,4-year,Room/Board,12072
+2018,Arkansas,Private,4-year,Fees/Tuition,22610
+2018,Arkansas,Private,4-year,Room/Board,8218
+2018,Arkansas,Public In-State,2-year,Fees/Tuition,3291
+2018,Arkansas,Public In-State,4-year,Fees/Tuition,8187
+2018,Arkansas,Public In-State,4-year,Room/Board,9292
+2018,Arkansas,Public Out-of-State,2-year,Fees/Tuition,4762
+2018,Arkansas,Public Out-of-State,4-year,Fees/Tuition,20061
+2018,Arkansas,Public Out-of-State,4-year,Room/Board,9292
+2018,California,Private,4-year,Fees/Tuition,33483
+2018,California,Private,4-year,Room/Board,13927
+2018,California,Public In-State,2-year,Fees/Tuition,1268
+2018,California,Public In-State,4-year,Fees/Tuition,8020
+2018,California,Public In-State,4-year,Room/Board,14061
+2018,California,Public Out-of-State,2-year,Fees/Tuition,7504
+2018,California,Public Out-of-State,4-year,Fees/Tuition,29173
+2018,California,Public Out-of-State,4-year,Room/Board,14061
+2018,Colorado,Private,4-year,Fees/Tuition,22873
+2018,Colorado,Private,4-year,Room/Board,12280
+2018,Colorado,Public In-State,2-year,Fees/Tuition,3638
+2018,Colorado,Public In-State,4-year,Fees/Tuition,9540
+2018,Colorado,Public In-State,4-year,Room/Board,11974
+2018,Colorado,Public Out-of-State,2-year,Fees/Tuition,10354
+2018,Colorado,Public Out-of-State,4-year,Fees/Tuition,29846
+2018,Colorado,Public Out-of-State,4-year,Room/Board,11974
+2018,Connecticut,Private,4-year,Fees/Tuition,40410
+2018,Connecticut,Private,4-year,Room/Board,14409
+2018,Connecticut,Public In-State,2-year,Fees/Tuition,4312
+2018,Connecticut,Public In-State,4-year,Fees/Tuition,12355
+2018,Connecticut,Public In-State,4-year,Room/Board,12827
+2018,Connecticut,Public Out-of-State,2-year,Fees/Tuition,12879
+2018,Connecticut,Public Out-of-State,4-year,Fees/Tuition,33741
+2018,Connecticut,Public Out-of-State,4-year,Room/Board,12827
+2018,Delaware,Private,4-year,Fees/Tuition,15096
+2018,Delaware,Private,4-year,Room/Board,11831
+2018,Delaware,Public In-State,4-year,Fees/Tuition,9999
+2018,Delaware,Public In-State,4-year,Room/Board,12372
+2018,Delaware,Public Out-of-State,4-year,Fees/Tuition,29356
+2018,Delaware,Public Out-of-State,4-year,Room/Board,12372
+2018,District of Columbia,Private,4-year,Fees/Tuition,41775
+2018,District of Columbia,Private,4-year,Room/Board,15835
+2018,District of Columbia,Public In-State,4-year,Fees/Tuition,5756
+2018,District of Columbia,Public Out-of-State,4-year,Fees/Tuition,12092
+2018,Florida,Private,4-year,Fees/Tuition,25531
+2018,Florida,Private,4-year,Room/Board,11804
+2018,Florida,Public In-State,2-year,Fees/Tuition,2506
+2018,Florida,Public In-State,4-year,Fees/Tuition,4455
+2018,Florida,Public In-State,4-year,Room/Board,10441
+2018,Florida,Public Out-of-State,2-year,Fees/Tuition,9111
+2018,Florida,Public Out-of-State,4-year,Fees/Tuition,18241
+2018,Florida,Public Out-of-State,4-year,Room/Board,10441
+2018,Georgia,Private,4-year,Fees/Tuition,27813
+2018,Georgia,Private,4-year,Room/Board,12600
+2018,Georgia,Public In-State,2-year,Fees/Tuition,2901
+2018,Georgia,Public In-State,4-year,Fees/Tuition,7206
+2018,Georgia,Public In-State,4-year,Room/Board,10499
+2018,Georgia,Public Out-of-State,2-year,Fees/Tuition,8090
+2018,Georgia,Public Out-of-State,4-year,Fees/Tuition,21957
+2018,Georgia,Public Out-of-State,4-year,Room/Board,10499
+2018,Hawaii,Private,4-year,Fees/Tuition,16447
+2018,Hawaii,Private,4-year,Room/Board,12411
+2018,Hawaii,Public In-State,2-year,Fees/Tuition,3080
+2018,Hawaii,Public In-State,4-year,Fees/Tuition,9709
+2018,Hawaii,Public In-State,4-year,Room/Board,11492
+2018,Hawaii,Public Out-of-State,2-year,Fees/Tuition,8216
+2018,Hawaii,Public Out-of-State,4-year,Fees/Tuition,31019
+2018,Hawaii,Public Out-of-State,4-year,Room/Board,11492
+2018,Idaho,Private,4-year,Fees/Tuition,5833
+2018,Idaho,Private,4-year,Room/Board,7655
+2018,Idaho,Public In-State,2-year,Fees/Tuition,3282
+2018,Idaho,Public In-State,4-year,Fees/Tuition,7247
+2018,Idaho,Public In-State,4-year,Room/Board,8208
+2018,Idaho,Public Out-of-State,2-year,Fees/Tuition,7732
+2018,Idaho,Public Out-of-State,4-year,Fees/Tuition,22601
+2018,Idaho,Public Out-of-State,4-year,Room/Board,8208
+2018,Illinois,Private,4-year,Fees/Tuition,32491
+2018,Illinois,Private,4-year,Room/Board,12554
+2018,Illinois,Public In-State,2-year,Fees/Tuition,3891
+2018,Illinois,Public In-State,4-year,Fees/Tuition,13971
+2018,Illinois,Public In-State,4-year,Room/Board,11118
+2018,Illinois,Public Out-of-State,2-year,Fees/Tuition,10989
+2018,Illinois,Public Out-of-State,4-year,Fees/Tuition,28618
+2018,Illinois,Public Out-of-State,4-year,Room/Board,11118
+2018,Indiana,Private,4-year,Fees/Tuition,32338
+2018,Indiana,Private,4-year,Room/Board,11425
+2018,Indiana,Public In-State,2-year,Fees/Tuition,4255
+2018,Indiana,Public In-State,4-year,Fees/Tuition,9038
+2018,Indiana,Public In-State,4-year,Room/Board,10259
+2018,Indiana,Public Out-of-State,2-year,Fees/Tuition,8211
+2018,Indiana,Public Out-of-State,4-year,Fees/Tuition,28805
+2018,Indiana,Public Out-of-State,4-year,Room/Board,10259
+2018,Iowa,Private,4-year,Fees/Tuition,27991
+2018,Iowa,Private,4-year,Room/Board,9389
+2018,Iowa,Public In-State,2-year,Fees/Tuition,4923
+2018,Iowa,Public In-State,4-year,Fees/Tuition,8766
+2018,Iowa,Public In-State,4-year,Room/Board,9660
+2018,Iowa,Public Out-of-State,2-year,Fees/Tuition,6581
+2018,Iowa,Public Out-of-State,4-year,Fees/Tuition,26214
+2018,Iowa,Public Out-of-State,4-year,Room/Board,9660
+2018,Kansas,Private,4-year,Fees/Tuition,21316
+2018,Kansas,Private,4-year,Room/Board,8924
+2018,Kansas,Public In-State,2-year,Fees/Tuition,3382
+2018,Kansas,Public In-State,4-year,Fees/Tuition,8737
+2018,Kansas,Public In-State,4-year,Room/Board,9227
+2018,Kansas,Public Out-of-State,2-year,Fees/Tuition,4611
+2018,Kansas,Public Out-of-State,4-year,Fees/Tuition,22615
+2018,Kansas,Public Out-of-State,4-year,Room/Board,9227
+2018,Kentucky,Private,4-year,Fees/Tuition,26719
+2018,Kentucky,Private,4-year,Room/Board,9229
+2018,Kentucky,Public In-State,2-year,Fees/Tuition,4106
+2018,Kentucky,Public In-State,4-year,Fees/Tuition,10365
+2018,Kentucky,Public In-State,4-year,Room/Board,10380
+2018,Kentucky,Public Out-of-State,2-year,Fees/Tuition,13825
+2018,Kentucky,Public Out-of-State,4-year,Fees/Tuition,24632
+2018,Kentucky,Public Out-of-State,4-year,Room/Board,10380
+2018,Louisiana,Private,4-year,Fees/Tuition,36715
+2018,Louisiana,Private,4-year,Room/Board,12737
+2018,Louisiana,Public In-State,2-year,Fees/Tuition,4092
+2018,Louisiana,Public In-State,4-year,Fees/Tuition,9165
+2018,Louisiana,Public In-State,4-year,Room/Board,9671
+2018,Louisiana,Public Out-of-State,2-year,Fees/Tuition,7057
+2018,Louisiana,Public Out-of-State,4-year,Fees/Tuition,21632
+2018,Louisiana,Public Out-of-State,4-year,Room/Board,9671
+2018,Maine,Private,4-year,Fees/Tuition,37043
+2018,Maine,Private,4-year,Room/Board,12951
+2018,Maine,Public In-State,2-year,Fees/Tuition,3698
+2018,Maine,Public In-State,4-year,Fees/Tuition,9664
+2018,Maine,Public In-State,4-year,Room/Board,9836
+2018,Maine,Public Out-of-State,2-year,Fees/Tuition,6498
+2018,Maine,Public Out-of-State,4-year,Fees/Tuition,26939
+2018,Maine,Public Out-of-State,4-year,Room/Board,9836
+2018,Maryland,Private,4-year,Fees/Tuition,41859
+2018,Maryland,Private,4-year,Room/Board,13826
+2018,Maryland,Public In-State,2-year,Fees/Tuition,4090
+2018,Maryland,Public In-State,4-year,Fees/Tuition,9289
+2018,Maryland,Public In-State,4-year,Room/Board,11888
+2018,Maryland,Public Out-of-State,2-year,Fees/Tuition,9467
+2018,Maryland,Public Out-of-State,4-year,Fees/Tuition,24353
+2018,Maryland,Public Out-of-State,4-year,Room/Board,11888
+2018,Massachusetts,Private,4-year,Fees/Tuition,44384
+2018,Massachusetts,Private,4-year,Room/Board,15175
+2018,Massachusetts,Public In-State,2-year,Fees/Tuition,4991
+2018,Massachusetts,Public In-State,4-year,Fees/Tuition,12778
+2018,Massachusetts,Public In-State,4-year,Room/Board,12451
+2018,Massachusetts,Public Out-of-State,2-year,Fees/Tuition,10006
+2018,Massachusetts,Public Out-of-State,4-year,Fees/Tuition,29774
+2018,Massachusetts,Public Out-of-State,4-year,Room/Board,12451
+2018,Michigan,Private,4-year,Fees/Tuition,26964
+2018,Michigan,Private,4-year,Room/Board,9700
+2018,Michigan,Public In-State,2-year,Fees/Tuition,3469
+2018,Michigan,Public In-State,4-year,Fees/Tuition,12435
+2018,Michigan,Public In-State,4-year,Room/Board,10230
+2018,Michigan,Public Out-of-State,2-year,Fees/Tuition,6552
+2018,Michigan,Public Out-of-State,4-year,Fees/Tuition,37600
+2018,Michigan,Public Out-of-State,4-year,Room/Board,10230
+2018,Minnesota,Private,4-year,Fees/Tuition,32416
+2018,Minnesota,Private,4-year,Room/Board,10300
+2018,Minnesota,Public In-State,2-year,Fees/Tuition,5381
+2018,Minnesota,Public In-State,4-year,Fees/Tuition,11226
+2018,Minnesota,Public In-State,4-year,Room/Board,9194
+2018,Minnesota,Public Out-of-State,2-year,Fees/Tuition,6113
+2018,Minnesota,Public Out-of-State,4-year,Fees/Tuition,20736
+2018,Minnesota,Public Out-of-State,4-year,Room/Board,9194
+2018,Mississippi,Private,4-year,Fees/Tuition,17625
+2018,Mississippi,Private,4-year,Room/Board,8149
+2018,Mississippi,Public In-State,2-year,Fees/Tuition,3182
+2018,Mississippi,Public In-State,4-year,Fees/Tuition,7980
+2018,Mississippi,Public In-State,4-year,Room/Board,9739
+2018,Mississippi,Public Out-of-State,2-year,Fees/Tuition,5626
+2018,Mississippi,Public Out-of-State,4-year,Fees/Tuition,19691
+2018,Mississippi,Public Out-of-State,4-year,Room/Board,9739
+2018,Missouri,Private,4-year,Fees/Tuition,24615
+2018,Missouri,Private,4-year,Room/Board,10008
+2018,Missouri,Public In-State,2-year,Fees/Tuition,3273
+2018,Missouri,Public In-State,4-year,Fees/Tuition,8387
+2018,Missouri,Public In-State,4-year,Room/Board,9719
+2018,Missouri,Public Out-of-State,2-year,Fees/Tuition,6157
+2018,Missouri,Public Out-of-State,4-year,Fees/Tuition,19519
+2018,Missouri,Public Out-of-State,4-year,Room/Board,9719
+2018,Montana,Private,4-year,Fees/Tuition,24953
+2018,Montana,Private,4-year,Room/Board,8786
+2018,Montana,Public In-State,2-year,Fees/Tuition,3631
+2018,Montana,Public In-State,4-year,Fees/Tuition,6783
+2018,Montana,Public In-State,4-year,Room/Board,9018
+2018,Montana,Public Out-of-State,2-year,Fees/Tuition,8482
+2018,Montana,Public Out-of-State,4-year,Fees/Tuition,23678
+2018,Montana,Public Out-of-State,4-year,Room/Board,9018
+2018,Nebraska,Private,4-year,Fees/Tuition,23659
+2018,Nebraska,Private,4-year,Room/Board,10939
+2018,Nebraska,Public In-State,2-year,Fees/Tuition,3212
+2018,Nebraska,Public In-State,4-year,Fees/Tuition,8188
+2018,Nebraska,Public In-State,4-year,Room/Board,10260
+2018,Nebraska,Public Out-of-State,2-year,Fees/Tuition,4101
+2018,Nebraska,Public Out-of-State,4-year,Fees/Tuition,20555
+2018,Nebraska,Public Out-of-State,4-year,Room/Board,10260
+2018,Nevada,Private,4-year,Fees/Tuition,23261
+2018,Nevada,Private,4-year,Room/Board,12902
+2018,Nevada,Public In-State,2-year,Fees/Tuition,3075
+2018,Nevada,Public In-State,4-year,Fees/Tuition,5920
+2018,Nevada,Public In-State,4-year,Room/Board,10890
+2018,Nevada,Public Out-of-State,2-year,Fees/Tuition,9853
+2018,Nevada,Public Out-of-State,4-year,Fees/Tuition,21176
+2018,Nevada,Public Out-of-State,4-year,Room/Board,10890
+2018,New Hampshire,Private,4-year,Fees/Tuition,33322
+2018,New Hampshire,Private,4-year,Room/Board,13709
+2018,New Hampshire,Public In-State,2-year,Fees/Tuition,7337
+2018,New Hampshire,Public In-State,4-year,Fees/Tuition,15949
+2018,New Hampshire,Public In-State,4-year,Room/Board,11621
+2018,New Hampshire,Public Out-of-State,2-year,Fees/Tuition,15906
+2018,New Hampshire,Public Out-of-State,4-year,Fees/Tuition,28130
+2018,New Hampshire,Public Out-of-State,4-year,Room/Board,11621
+2018,New Jersey,Private,4-year,Fees/Tuition,36589
+2018,New Jersey,Private,4-year,Room/Board,13732
+2018,New Jersey,Public In-State,2-year,Fees/Tuition,4536
+2018,New Jersey,Public In-State,4-year,Fees/Tuition,13633
+2018,New Jersey,Public In-State,4-year,Room/Board,12908
+2018,New Jersey,Public Out-of-State,2-year,Fees/Tuition,8049
+2018,New Jersey,Public Out-of-State,4-year,Fees/Tuition,28649
+2018,New Jersey,Public Out-of-State,4-year,Room/Board,12908
+2018,New Mexico,Private,4-year,Fees/Tuition,23865
+2018,New Mexico,Private,4-year,Room/Board,9755
+2018,New Mexico,Public In-State,2-year,Fees/Tuition,1666
+2018,New Mexico,Public In-State,4-year,Fees/Tuition,6718
+2018,New Mexico,Public In-State,4-year,Room/Board,9085
+2018,New Mexico,Public Out-of-State,2-year,Fees/Tuition,5318
+2018,New Mexico,Public Out-of-State,4-year,Fees/Tuition,17533
+2018,New Mexico,Public Out-of-State,4-year,Room/Board,9085
+2018,New York,Private,4-year,Fees/Tuition,39007
+2018,New York,Private,4-year,Room/Board,14653
+2018,New York,Public In-State,2-year,Fees/Tuition,5229
+2018,New York,Public In-State,4-year,Fees/Tuition,7938
+2018,New York,Public In-State,4-year,Room/Board,14405
+2018,New York,Public Out-of-State,2-year,Fees/Tuition,9151
+2018,New York,Public Out-of-State,4-year,Fees/Tuition,21662
+2018,New York,Public Out-of-State,4-year,Room/Board,14405
+2018,North Carolina,Private,4-year,Fees/Tuition,32140
+2018,North Carolina,Private,4-year,Room/Board,11910
+2018,North Carolina,Public In-State,2-year,Fees/Tuition,2499
+2018,North Carolina,Public In-State,4-year,Fees/Tuition,7354
+2018,North Carolina,Public In-State,4-year,Room/Board,9989
+2018,North Carolina,Public Out-of-State,2-year,Fees/Tuition,8496
+2018,North Carolina,Public Out-of-State,4-year,Fees/Tuition,24274
+2018,North Carolina,Public Out-of-State,4-year,Room/Board,9989
+2018,North Dakota,Private,4-year,Fees/Tuition,15256
+2018,North Dakota,Private,4-year,Room/Board,7255
+2018,North Dakota,Public In-State,2-year,Fees/Tuition,4700
+2018,North Dakota,Public In-State,4-year,Fees/Tuition,7687
+2018,North Dakota,Public In-State,4-year,Room/Board,8311
+2018,North Dakota,Public Out-of-State,2-year,Fees/Tuition,9429
+2018,North Dakota,Public Out-of-State,4-year,Fees/Tuition,19021
+2018,North Dakota,Public Out-of-State,4-year,Room/Board,8311
+2018,Ohio,Private,4-year,Fees/Tuition,31242
+2018,Ohio,Private,4-year,Room/Board,11012
+2018,Ohio,Public In-State,2-year,Fees/Tuition,3672
+2018,Ohio,Public In-State,4-year,Fees/Tuition,10026
+2018,Ohio,Public In-State,4-year,Room/Board,11648
+2018,Ohio,Public Out-of-State,2-year,Fees/Tuition,7456
+2018,Ohio,Public Out-of-State,4-year,Fees/Tuition,24098
+2018,Ohio,Public Out-of-State,4-year,Room/Board,11648
+2018,Oklahoma,Private,4-year,Fees/Tuition,26240
+2018,Oklahoma,Private,4-year,Room/Board,9302
+2018,Oklahoma,Public In-State,2-year,Fees/Tuition,3876
+2018,Oklahoma,Public In-State,4-year,Fees/Tuition,7623
+2018,Oklahoma,Public In-State,4-year,Room/Board,8641
+2018,Oklahoma,Public Out-of-State,2-year,Fees/Tuition,9059
+2018,Oklahoma,Public Out-of-State,4-year,Fees/Tuition,20200
+2018,Oklahoma,Public Out-of-State,4-year,Room/Board,8641
+2018,Oregon,Private,4-year,Fees/Tuition,38674
+2018,Oregon,Private,4-year,Room/Board,11943
+2018,Oregon,Public In-State,2-year,Fees/Tuition,4487
+2018,Oregon,Public In-State,4-year,Fees/Tuition,10363
+2018,Oregon,Public In-State,4-year,Room/Board,12347
+2018,Oregon,Public Out-of-State,2-year,Fees/Tuition,8503
+2018,Oregon,Public Out-of-State,4-year,Fees/Tuition,30487
+2018,Oregon,Public Out-of-State,4-year,Room/Board,12347
+2018,Pennsylvania,Private,4-year,Fees/Tuition,40068
+2018,Pennsylvania,Private,4-year,Room/Board,13171
+2018,Pennsylvania,Public In-State,2-year,Fees/Tuition,5173
+2018,Pennsylvania,Public In-State,4-year,Fees/Tuition,14534
+2018,Pennsylvania,Public In-State,4-year,Room/Board,11261
+2018,Pennsylvania,Public Out-of-State,2-year,Fees/Tuition,13679
+2018,Pennsylvania,Public Out-of-State,4-year,Fees/Tuition,27129
+2018,Pennsylvania,Public Out-of-State,4-year,Room/Board,11261
+2018,Rhode Island,Private,4-year,Fees/Tuition,40361
+2018,Rhode Island,Private,4-year,Room/Board,14516
+2018,Rhode Island,Public In-State,2-year,Fees/Tuition,4564
+2018,Rhode Island,Public In-State,4-year,Fees/Tuition,12239
+2018,Rhode Island,Public In-State,4-year,Room/Board,12041
+2018,Rhode Island,Public Out-of-State,2-year,Fees/Tuition,12156
+2018,Rhode Island,Public Out-of-State,4-year,Fees/Tuition,29013
+2018,Rhode Island,Public Out-of-State,4-year,Room/Board,12041
+2018,South Carolina,Private,4-year,Fees/Tuition,24931
+2018,South Carolina,Private,4-year,Room/Board,9490
+2018,South Carolina,Public In-State,2-year,Fees/Tuition,4502
+2018,South Carolina,Public In-State,4-year,Fees/Tuition,12579
+2018,South Carolina,Public In-State,4-year,Room/Board,9553
+2018,South Carolina,Public Out-of-State,2-year,Fees/Tuition,9480
+2018,South Carolina,Public Out-of-State,4-year,Fees/Tuition,30919
+2018,South Carolina,Public Out-of-State,4-year,Room/Board,9553
+2018,South Dakota,Private,4-year,Fees/Tuition,24219
+2018,South Dakota,Private,4-year,Room/Board,7938
+2018,South Dakota,Public In-State,2-year,Fees/Tuition,6026
+2018,South Dakota,Public In-State,4-year,Fees/Tuition,8540
+2018,South Dakota,Public In-State,4-year,Room/Board,7881
+2018,South Dakota,Public Out-of-State,2-year,Fees/Tuition,5853
+2018,South Dakota,Public Out-of-State,4-year,Fees/Tuition,12060
+2018,South Dakota,Public Out-of-State,4-year,Room/Board,7881
+2018,Tennessee,Private,4-year,Fees/Tuition,26939
+2018,Tennessee,Private,4-year,Room/Board,10223
+2018,Tennessee,Public In-State,2-year,Fees/Tuition,4148
+2018,Tennessee,Public In-State,4-year,Fees/Tuition,9574
+2018,Tennessee,Public In-State,4-year,Room/Board,9376
+2018,Tennessee,Public Out-of-State,2-year,Fees/Tuition,16140
+2018,Tennessee,Public Out-of-State,4-year,Fees/Tuition,25378
+2018,Tennessee,Public Out-of-State,4-year,Room/Board,9376
+2018,Texas,Private,4-year,Fees/Tuition,32482
+2018,Texas,Private,4-year,Room/Board,11384
+2018,Texas,Public In-State,2-year,Fees/Tuition,2209
+2018,Texas,Public In-State,4-year,Fees/Tuition,8645
+2018,Texas,Public In-State,4-year,Room/Board,9626
+2018,Texas,Public Out-of-State,2-year,Fees/Tuition,6418
+2018,Texas,Public Out-of-State,4-year,Fees/Tuition,24937
+2018,Texas,Public Out-of-State,4-year,Room/Board,9626
+2018,Utah,Private,4-year,Fees/Tuition,7548
+2018,Utah,Private,4-year,Room/Board,7841
+2018,Utah,Public In-State,2-year,Fees/Tuition,3781
+2018,Utah,Public In-State,4-year,Fees/Tuition,6557
+2018,Utah,Public In-State,4-year,Room/Board,7617
+2018,Utah,Public Out-of-State,2-year,Fees/Tuition,12020
+2018,Utah,Public Out-of-State,4-year,Fees/Tuition,20168
+2018,Utah,Public Out-of-State,4-year,Room/Board,7617
+2018,Vermont,Private,4-year,Fees/Tuition,42637
+2018,Vermont,Private,4-year,Room/Board,13536
+2018,Vermont,Public In-State,2-year,Fees/Tuition,6414
+2018,Vermont,Public In-State,4-year,Fees/Tuition,16103
+2018,Vermont,Public In-State,4-year,Room/Board,11679
+2018,Vermont,Public Out-of-State,2-year,Fees/Tuition,12678
+2018,Vermont,Public Out-of-State,4-year,Fees/Tuition,38968
+2018,Vermont,Public Out-of-State,4-year,Room/Board,11679
+2018,Virginia,Private,4-year,Fees/Tuition,23014
+2018,Virginia,Private,4-year,Room/Board,10644
+2018,Virginia,Public In-State,2-year,Fees/Tuition,5118
+2018,Virginia,Public In-State,4-year,Fees/Tuition,12637
+2018,Virginia,Public In-State,4-year,Room/Board,10790
+2018,Virginia,Public Out-of-State,2-year,Fees/Tuition,11275
+2018,Virginia,Public Out-of-State,4-year,Fees/Tuition,33428
+2018,Virginia,Public Out-of-State,4-year,Room/Board,10790
+2018,Washington,Private,4-year,Fees/Tuition,36807
+2018,Washington,Private,4-year,Room/Board,11711
+2018,Washington,Public In-State,2-year,Fees/Tuition,4078
+2018,Washington,Public In-State,4-year,Fees/Tuition,6830
+2018,Washington,Public In-State,4-year,Room/Board,11492
+2018,Washington,Public Out-of-State,2-year,Fees/Tuition,5976
+2018,Washington,Public Out-of-State,4-year,Fees/Tuition,28263
+2018,Washington,Public Out-of-State,4-year,Room/Board,11492
+2018,West Virginia,Private,4-year,Fees/Tuition,12341
+2018,West Virginia,Private,4-year,Room/Board,8959
+2018,West Virginia,Public In-State,2-year,Fees/Tuition,4076
+2018,West Virginia,Public In-State,4-year,Fees/Tuition,7619
+2018,West Virginia,Public In-State,4-year,Room/Board,10184
+2018,West Virginia,Public Out-of-State,2-year,Fees/Tuition,9410
+2018,West Virginia,Public Out-of-State,4-year,Fees/Tuition,21032
+2018,West Virginia,Public Out-of-State,4-year,Room/Board,10184
+2018,Wisconsin,Private,4-year,Fees/Tuition,33156
+2018,Wisconsin,Private,4-year,Room/Board,10176
+2018,Wisconsin,Public In-State,2-year,Fees/Tuition,4337
+2018,Wisconsin,Public In-State,4-year,Fees/Tuition,8475
+2018,Wisconsin,Public In-State,4-year,Room/Board,8069
+2018,Wisconsin,Public Out-of-State,2-year,Fees/Tuition,6257
+2018,Wisconsin,Public Out-of-State,4-year,Fees/Tuition,23500
+2018,Wisconsin,Public Out-of-State,4-year,Room/Board,8069
+2018,Wyoming,Public In-State,2-year,Fees/Tuition,3142
+2018,Wyoming,Public In-State,4-year,Fees/Tuition,4443
+2018,Wyoming,Public In-State,4-year,Room/Board,10043
+2018,Wyoming,Public Out-of-State,2-year,Fees/Tuition,7678
+2018,Wyoming,Public Out-of-State,4-year,Fees/Tuition,13731
+2018,Wyoming,Public Out-of-State,4-year,Room/Board,10043
+2019,Alabama,Private,4-year,Fees/Tuition,16119
+2019,Alabama,Private,4-year,Room/Board,10076
+2019,Alabama,Public In-State,2-year,Fees/Tuition,4770
+2019,Alabama,Public In-State,4-year,Fees/Tuition,10138
+2019,Alabama,Public In-State,4-year,Room/Board,9845
+2019,Alabama,Public Out-of-State,2-year,Fees/Tuition,9612
+2019,Alabama,Public Out-of-State,4-year,Fees/Tuition,25782
+2019,Alabama,Public Out-of-State,4-year,Room/Board,9845
+2019,Alaska,Private,4-year,Fees/Tuition,19315
+2019,Alaska,Private,4-year,Room/Board,7473
+2019,Alaska,Public In-State,4-year,Fees/Tuition,8396
+2019,Alaska,Public In-State,4-year,Room/Board,11167
+2019,Alaska,Public Out-of-State,4-year,Fees/Tuition,24454
+2019,Alaska,Public Out-of-State,4-year,Room/Board,11167
+2019,Arizona,Private,4-year,Fees/Tuition,12711
+2019,Arizona,Private,4-year,Room/Board,9708
+2019,Arizona,Public In-State,2-year,Fees/Tuition,2161
+2019,Arizona,Public In-State,4-year,Fees/Tuition,10666
+2019,Arizona,Public In-State,4-year,Room/Board,12439
+2019,Arizona,Public Out-of-State,2-year,Fees/Tuition,8516
+2019,Arizona,Public Out-of-State,4-year,Fees/Tuition,26383
+2019,Arizona,Public Out-of-State,4-year,Room/Board,12439
+2019,Arkansas,Private,4-year,Fees/Tuition,23179
+2019,Arkansas,Private,4-year,Room/Board,8385
+2019,Arkansas,Public In-State,2-year,Fees/Tuition,3291
+2019,Arkansas,Public In-State,4-year,Fees/Tuition,8391
+2019,Arkansas,Public In-State,4-year,Room/Board,9586
+2019,Arkansas,Public Out-of-State,2-year,Fees/Tuition,4698
+2019,Arkansas,Public Out-of-State,4-year,Fees/Tuition,20825
+2019,Arkansas,Public Out-of-State,4-year,Room/Board,9586
+2019,California,Private,4-year,Fees/Tuition,35524
+2019,California,Private,4-year,Room/Board,14336
+2019,California,Public In-State,2-year,Fees/Tuition,1271
+2019,California,Public In-State,4-year,Fees/Tuition,8118
+2019,California,Public In-State,4-year,Room/Board,14546
+2019,California,Public Out-of-State,2-year,Fees/Tuition,7849
+2019,California,Public Out-of-State,4-year,Fees/Tuition,31423
+2019,California,Public Out-of-State,4-year,Room/Board,14546
+2019,Colorado,Private,4-year,Fees/Tuition,23560
+2019,Colorado,Private,4-year,Room/Board,12725
+2019,Colorado,Public In-State,2-year,Fees/Tuition,3655
+2019,Colorado,Public In-State,4-year,Fees/Tuition,9394
+2019,Colorado,Public In-State,4-year,Room/Board,12472
+2019,Colorado,Public Out-of-State,2-year,Fees/Tuition,7967
+2019,Colorado,Public Out-of-State,4-year,Fees/Tuition,30140
+2019,Colorado,Public Out-of-State,4-year,Room/Board,12472
+2019,Connecticut,Private,4-year,Fees/Tuition,41807
+2019,Connecticut,Private,4-year,Room/Board,14742
+2019,Connecticut,Public In-State,2-year,Fees/Tuition,4434
+2019,Connecticut,Public In-State,4-year,Fees/Tuition,12959
+2019,Connecticut,Public In-State,4-year,Room/Board,13244
+2019,Connecticut,Public Out-of-State,2-year,Fees/Tuition,13202
+2019,Connecticut,Public Out-of-State,4-year,Fees/Tuition,33709
+2019,Connecticut,Public Out-of-State,4-year,Room/Board,13244
+2019,Delaware,Private,4-year,Fees/Tuition,14758
+2019,Delaware,Private,4-year,Room/Board,11952
+2019,Delaware,Public In-State,4-year,Fees/Tuition,10607
+2019,Delaware,Public In-State,4-year,Room/Board,12839
+2019,Delaware,Public Out-of-State,4-year,Fees/Tuition,30405
+2019,Delaware,Public Out-of-State,4-year,Room/Board,12839
+2019,District of Columbia,Private,4-year,Fees/Tuition,43143
+2019,District of Columbia,Private,4-year,Room/Board,16090
+2019,District of Columbia,Public In-State,4-year,Fees/Tuition,5888
+2019,District of Columbia,Public Out-of-State,4-year,Fees/Tuition,12416
+2019,Florida,Private,4-year,Fees/Tuition,26317
+2019,Florida,Private,4-year,Room/Board,12121
+2019,Florida,Public In-State,2-year,Fees/Tuition,2506
+2019,Florida,Public In-State,4-year,Fees/Tuition,4443
+2019,Florida,Public In-State,4-year,Room/Board,10616
+2019,Florida,Public Out-of-State,2-year,Fees/Tuition,9111
+2019,Florida,Public Out-of-State,4-year,Fees/Tuition,18456
+2019,Florida,Public Out-of-State,4-year,Room/Board,10616
+2019,Georgia,Private,4-year,Fees/Tuition,28839
+2019,Georgia,Private,4-year,Room/Board,12681
+2019,Georgia,Public In-State,2-year,Fees/Tuition,2916
+2019,Georgia,Public In-State,4-year,Fees/Tuition,7319
+2019,Georgia,Public In-State,4-year,Room/Board,10683
+2019,Georgia,Public Out-of-State,2-year,Fees/Tuition,8038
+2019,Georgia,Public Out-of-State,4-year,Fees/Tuition,22751
+2019,Georgia,Public Out-of-State,4-year,Room/Board,10683
+2019,Hawaii,Private,4-year,Fees/Tuition,17098
+2019,Hawaii,Private,4-year,Room/Board,12683
+2019,Hawaii,Public In-State,2-year,Fees/Tuition,3140
+2019,Hawaii,Public In-State,4-year,Fees/Tuition,9952
+2019,Hawaii,Public In-State,4-year,Room/Board,11914
+2019,Hawaii,Public Out-of-State,2-year,Fees/Tuition,8277
+2019,Hawaii,Public Out-of-State,4-year,Fees/Tuition,31581
+2019,Hawaii,Public Out-of-State,4-year,Room/Board,11914
+2019,Idaho,Private,4-year,Fees/Tuition,6139
+2019,Idaho,Private,4-year,Room/Board,7019
+2019,Idaho,Public In-State,2-year,Fees/Tuition,3345
+2019,Idaho,Public In-State,4-year,Fees/Tuition,7586
+2019,Idaho,Public In-State,4-year,Room/Board,8549
+2019,Idaho,Public Out-of-State,2-year,Fees/Tuition,7971
+2019,Idaho,Public Out-of-State,4-year,Fees/Tuition,23850
+2019,Idaho,Public Out-of-State,4-year,Room/Board,8549
+2019,Illinois,Private,4-year,Fees/Tuition,33454
+2019,Illinois,Private,4-year,Room/Board,13098
+2019,Illinois,Public In-State,2-year,Fees/Tuition,3966
+2019,Illinois,Public In-State,4-year,Fees/Tuition,14259
+2019,Illinois,Public In-State,4-year,Room/Board,11209
+2019,Illinois,Public Out-of-State,2-year,Fees/Tuition,11480
+2019,Illinois,Public Out-of-State,4-year,Fees/Tuition,28522
+2019,Illinois,Public Out-of-State,4-year,Room/Board,11209
+2019,Indiana,Private,4-year,Fees/Tuition,33402
+2019,Indiana,Private,4-year,Room/Board,11980
+2019,Indiana,Public In-State,2-year,Fees/Tuition,4368
+2019,Indiana,Public In-State,4-year,Fees/Tuition,9225
+2019,Indiana,Public In-State,4-year,Room/Board,10530
+2019,Indiana,Public Out-of-State,2-year,Fees/Tuition,8402
+2019,Indiana,Public Out-of-State,4-year,Fees/Tuition,29092
+2019,Indiana,Public Out-of-State,4-year,Room/Board,10530
+2019,Iowa,Private,4-year,Fees/Tuition,33821
+2019,Iowa,Private,4-year,Room/Board,9543
+2019,Iowa,Public In-State,2-year,Fees/Tuition,5137
+2019,Iowa,Public In-State,4-year,Fees/Tuition,9966
+2019,Iowa,Public In-State,4-year,Room/Board,10156
+2019,Iowa,Public Out-of-State,2-year,Fees/Tuition,6449
+2019,Iowa,Public Out-of-State,4-year,Fees/Tuition,24521
+2019,Iowa,Public Out-of-State,4-year,Room/Board,10156
+2019,Kansas,Private,4-year,Fees/Tuition,22571
+2019,Kansas,Private,4-year,Room/Board,9130
+2019,Kansas,Public In-State,2-year,Fees/Tuition,3435
+2019,Kansas,Public In-State,4-year,Fees/Tuition,8941
+2019,Kansas,Public In-State,4-year,Room/Board,9678
+2019,Kansas,Public Out-of-State,2-year,Fees/Tuition,4491
+2019,Kansas,Public Out-of-State,4-year,Fees/Tuition,23302
+2019,Kansas,Public Out-of-State,4-year,Room/Board,9678
+2019,Kentucky,Private,4-year,Fees/Tuition,27648
+2019,Kentucky,Private,4-year,Room/Board,9433
+2019,Kentucky,Public In-State,2-year,Fees/Tuition,4274
+2019,Kentucky,Public In-State,4-year,Fees/Tuition,10674
+2019,Kentucky,Public In-State,4-year,Room/Board,10639
+2019,Kentucky,Public Out-of-State,2-year,Fees/Tuition,14418
+2019,Kentucky,Public Out-of-State,4-year,Fees/Tuition,25430
+2019,Kentucky,Public Out-of-State,4-year,Room/Board,10639
+2019,Louisiana,Private,4-year,Fees/Tuition,37830
+2019,Louisiana,Private,4-year,Room/Board,13195
+2019,Louisiana,Public In-State,2-year,Fees/Tuition,4143
+2019,Louisiana,Public In-State,4-year,Fees/Tuition,9358
+2019,Louisiana,Public In-State,4-year,Room/Board,9847
+2019,Louisiana,Public Out-of-State,2-year,Fees/Tuition,8034
+2019,Louisiana,Public Out-of-State,4-year,Fees/Tuition,22208
+2019,Louisiana,Public Out-of-State,4-year,Room/Board,9847
+2019,Maine,Private,4-year,Fees/Tuition,38972
+2019,Maine,Private,4-year,Room/Board,13555
+2019,Maine,Public In-State,2-year,Fees/Tuition,3753
+2019,Maine,Public In-State,4-year,Fees/Tuition,9930
+2019,Maine,Public In-State,4-year,Room/Board,10265
+2019,Maine,Public Out-of-State,2-year,Fees/Tuition,6614
+2019,Maine,Public Out-of-State,4-year,Fees/Tuition,27735
+2019,Maine,Public Out-of-State,4-year,Room/Board,10265
+2019,Maryland,Private,4-year,Fees/Tuition,43141
+2019,Maryland,Private,4-year,Room/Board,14081
+2019,Maryland,Public In-State,2-year,Fees/Tuition,4225
+2019,Maryland,Public In-State,4-year,Fees/Tuition,9521
+2019,Maryland,Public In-State,4-year,Room/Board,12374
+2019,Maryland,Public Out-of-State,2-year,Fees/Tuition,9990
+2019,Maryland,Public Out-of-State,4-year,Fees/Tuition,26883
+2019,Maryland,Public Out-of-State,4-year,Room/Board,12374
+2019,Massachusetts,Private,4-year,Fees/Tuition,46016
+2019,Massachusetts,Private,4-year,Room/Board,15732
+2019,Massachusetts,Public In-State,2-year,Fees/Tuition,5192
+2019,Massachusetts,Public In-State,4-year,Fees/Tuition,13286
+2019,Massachusetts,Public In-State,4-year,Room/Board,13501
+2019,Massachusetts,Public Out-of-State,2-year,Fees/Tuition,10606
+2019,Massachusetts,Public Out-of-State,4-year,Fees/Tuition,30966
+2019,Massachusetts,Public Out-of-State,4-year,Room/Board,13501
+2019,Michigan,Private,4-year,Fees/Tuition,27936
+2019,Michigan,Private,4-year,Room/Board,10139
+2019,Michigan,Public In-State,2-year,Fees/Tuition,3582
+2019,Michigan,Public In-State,4-year,Fees/Tuition,12888
+2019,Michigan,Public In-State,4-year,Room/Board,10488
+2019,Michigan,Public Out-of-State,2-year,Fees/Tuition,6372
+2019,Michigan,Public Out-of-State,4-year,Fees/Tuition,35844
+2019,Michigan,Public Out-of-State,4-year,Room/Board,10488
+2019,Minnesota,Private,4-year,Fees/Tuition,33212
+2019,Minnesota,Private,4-year,Room/Board,10465
+2019,Minnesota,Public In-State,2-year,Fees/Tuition,5389
+2019,Minnesota,Public In-State,4-year,Fees/Tuition,11381
+2019,Minnesota,Public In-State,4-year,Room/Board,9479
+2019,Minnesota,Public Out-of-State,2-year,Fees/Tuition,5947
+2019,Minnesota,Public Out-of-State,4-year,Fees/Tuition,22780
+2019,Minnesota,Public Out-of-State,4-year,Room/Board,9479
+2019,Mississippi,Private,4-year,Fees/Tuition,17953
+2019,Mississippi,Private,4-year,Room/Board,8399
+2019,Mississippi,Public In-State,2-year,Fees/Tuition,3262
+2019,Mississippi,Public In-State,4-year,Fees/Tuition,8340
+2019,Mississippi,Public In-State,4-year,Room/Board,10051
+2019,Mississippi,Public Out-of-State,2-year,Fees/Tuition,5709
+2019,Mississippi,Public Out-of-State,4-year,Fees/Tuition,19942
+2019,Mississippi,Public Out-of-State,4-year,Room/Board,10051
+2019,Missouri,Private,4-year,Fees/Tuition,25417
+2019,Missouri,Private,4-year,Room/Board,10386
+2019,Missouri,Public In-State,2-year,Fees/Tuition,3358
+2019,Missouri,Public In-State,4-year,Fees/Tuition,8554
+2019,Missouri,Public In-State,4-year,Room/Board,9567
+2019,Missouri,Public Out-of-State,2-year,Fees/Tuition,6558
+2019,Missouri,Public Out-of-State,4-year,Fees/Tuition,19914
+2019,Missouri,Public Out-of-State,4-year,Room/Board,9567
+2019,Montana,Private,4-year,Fees/Tuition,25918
+2019,Montana,Private,4-year,Room/Board,9070
+2019,Montana,Public In-State,2-year,Fees/Tuition,3756
+2019,Montana,Public In-State,4-year,Fees/Tuition,6972
+2019,Montana,Public In-State,4-year,Room/Board,9632
+2019,Montana,Public Out-of-State,2-year,Fees/Tuition,8394
+2019,Montana,Public Out-of-State,4-year,Fees/Tuition,24481
+2019,Montana,Public Out-of-State,4-year,Room/Board,9632
+2019,Nebraska,Private,4-year,Fees/Tuition,25075
+2019,Nebraska,Private,4-year,Room/Board,9551
+2019,Nebraska,Public In-State,2-year,Fees/Tuition,3174
+2019,Nebraska,Public In-State,4-year,Fees/Tuition,8467
+2019,Nebraska,Public In-State,4-year,Room/Board,11084
+2019,Nebraska,Public Out-of-State,2-year,Fees/Tuition,3985
+2019,Nebraska,Public Out-of-State,4-year,Fees/Tuition,21516
+2019,Nebraska,Public Out-of-State,4-year,Room/Board,11084
+2019,Nevada,Private,4-year,Fees/Tuition,24423
+2019,Nevada,Private,4-year,Room/Board,13707
+2019,Nevada,Public In-State,4-year,Fees/Tuition,5845
+2019,Nevada,Public In-State,4-year,Room/Board,11659
+2019,Nevada,Public Out-of-State,4-year,Fees/Tuition,21125
+2019,Nevada,Public Out-of-State,4-year,Room/Board,11659
+2019,New Hampshire,Private,4-year,Fees/Tuition,33364
+2019,New Hampshire,Private,4-year,Room/Board,13588
+2019,New Hampshire,Public In-State,2-year,Fees/Tuition,7599
+2019,New Hampshire,Public In-State,4-year,Fees/Tuition,16329
+2019,New Hampshire,Public In-State,4-year,Room/Board,11816
+2019,New Hampshire,Public Out-of-State,2-year,Fees/Tuition,16429
+2019,New Hampshire,Public Out-of-State,4-year,Fees/Tuition,29447
+2019,New Hampshire,Public Out-of-State,4-year,Room/Board,11816
+2019,New Jersey,Private,4-year,Fees/Tuition,37329
+2019,New Jersey,Private,4-year,Room/Board,13716
+2019,New Jersey,Public In-State,2-year,Fees/Tuition,4715
+2019,New Jersey,Public In-State,4-year,Fees/Tuition,13963
+2019,New Jersey,Public In-State,4-year,Room/Board,13518
+2019,New Jersey,Public Out-of-State,2-year,Fees/Tuition,8257
+2019,New Jersey,Public Out-of-State,4-year,Fees/Tuition,28669
+2019,New Jersey,Public Out-of-State,4-year,Room/Board,13518
+2019,New Mexico,Private,4-year,Fees/Tuition,30137
+2019,New Mexico,Private,4-year,Room/Board,10069
+2019,New Mexico,Public In-State,2-year,Fees/Tuition,1705
+2019,New Mexico,Public In-State,4-year,Fees/Tuition,6902
+2019,New Mexico,Public In-State,4-year,Room/Board,9354
+2019,New Mexico,Public Out-of-State,2-year,Fees/Tuition,6698
+2019,New Mexico,Public Out-of-State,4-year,Fees/Tuition,18350
+2019,New Mexico,Public Out-of-State,4-year,Room/Board,9354
+2019,New York,Private,4-year,Fees/Tuition,40527
+2019,New York,Private,4-year,Room/Board,15214
+2019,New York,Public In-State,2-year,Fees/Tuition,5367
+2019,New York,Public In-State,4-year,Fees/Tuition,8184
+2019,New York,Public In-State,4-year,Room/Board,14869
+2019,New York,Public Out-of-State,2-year,Fees/Tuition,9197
+2019,New York,Public Out-of-State,4-year,Fees/Tuition,22083
+2019,New York,Public Out-of-State,4-year,Room/Board,14869
+2019,North Carolina,Private,4-year,Fees/Tuition,33990
+2019,North Carolina,Private,4-year,Room/Board,12278
+2019,North Carolina,Public In-State,2-year,Fees/Tuition,2504
+2019,North Carolina,Public In-State,4-year,Fees/Tuition,7174
+2019,North Carolina,Public In-State,4-year,Room/Board,10129
+2019,North Carolina,Public Out-of-State,2-year,Fees/Tuition,8655
+2019,North Carolina,Public Out-of-State,4-year,Fees/Tuition,22968
+2019,North Carolina,Public Out-of-State,4-year,Room/Board,10129
+2019,North Dakota,Private,4-year,Fees/Tuition,15206
+2019,North Dakota,Private,4-year,Room/Board,7650
+2019,North Dakota,Public In-State,2-year,Fees/Tuition,4895
+2019,North Dakota,Public In-State,4-year,Fees/Tuition,8091
+2019,North Dakota,Public In-State,4-year,Room/Board,8577
+2019,North Dakota,Public Out-of-State,2-year,Fees/Tuition,9293
+2019,North Dakota,Public Out-of-State,4-year,Fees/Tuition,15565
+2019,North Dakota,Public Out-of-State,4-year,Room/Board,8577
+2019,Ohio,Private,4-year,Fees/Tuition,32597
+2019,Ohio,Private,4-year,Room/Board,11438
+2019,Ohio,Public In-State,2-year,Fees/Tuition,4082
+2019,Ohio,Public In-State,4-year,Fees/Tuition,10068
+2019,Ohio,Public In-State,4-year,Room/Board,12085
+2019,Ohio,Public Out-of-State,2-year,Fees/Tuition,7300
+2019,Ohio,Public Out-of-State,4-year,Fees/Tuition,24454
+2019,Ohio,Public Out-of-State,4-year,Room/Board,12085
+2019,Oklahoma,Private,4-year,Fees/Tuition,27694
+2019,Oklahoma,Private,4-year,Room/Board,9754
+2019,Oklahoma,Public In-State,2-year,Fees/Tuition,4112
+2019,Oklahoma,Public In-State,4-year,Fees/Tuition,7866
+2019,Oklahoma,Public In-State,4-year,Room/Board,8866
+2019,Oklahoma,Public Out-of-State,2-year,Fees/Tuition,9393
+2019,Oklahoma,Public Out-of-State,4-year,Fees/Tuition,21526
+2019,Oklahoma,Public Out-of-State,4-year,Room/Board,8866
+2019,Oregon,Private,4-year,Fees/Tuition,40597
+2019,Oregon,Private,4-year,Room/Board,12439
+2019,Oregon,Public In-State,2-year,Fees/Tuition,4709
+2019,Oregon,Public In-State,4-year,Fees/Tuition,10286
+2019,Oregon,Public In-State,4-year,Room/Board,12299
+2019,Oregon,Public Out-of-State,2-year,Fees/Tuition,8779
+2019,Oregon,Public Out-of-State,4-year,Fees/Tuition,30929
+2019,Oregon,Public Out-of-State,4-year,Room/Board,12299
+2019,Pennsylvania,Private,4-year,Fees/Tuition,41703
+2019,Pennsylvania,Private,4-year,Room/Board,13545
+2019,Pennsylvania,Public In-State,2-year,Fees/Tuition,5284
+2019,Pennsylvania,Public In-State,4-year,Fees/Tuition,14812
+2019,Pennsylvania,Public In-State,4-year,Room/Board,11475
+2019,Pennsylvania,Public Out-of-State,2-year,Fees/Tuition,14111
+2019,Pennsylvania,Public Out-of-State,4-year,Fees/Tuition,28527
+2019,Pennsylvania,Public Out-of-State,4-year,Room/Board,11475
+2019,Rhode Island,Private,4-year,Fees/Tuition,42108
+2019,Rhode Island,Private,4-year,Room/Board,15068
+2019,Rhode Island,Public In-State,2-year,Fees/Tuition,4564
+2019,Rhode Island,Public In-State,4-year,Fees/Tuition,12576
+2019,Rhode Island,Public In-State,4-year,Room/Board,12250
+2019,Rhode Island,Public Out-of-State,2-year,Fees/Tuition,12156
+2019,Rhode Island,Public Out-of-State,4-year,Fees/Tuition,29998
+2019,Rhode Island,Public Out-of-State,4-year,Room/Board,12250
+2019,South Carolina,Private,4-year,Fees/Tuition,25621
+2019,South Carolina,Private,4-year,Room/Board,9553
+2019,South Carolina,Public In-State,2-year,Fees/Tuition,4728
+2019,South Carolina,Public In-State,4-year,Fees/Tuition,13013
+2019,South Carolina,Public In-State,4-year,Room/Board,10100
+2019,South Carolina,Public Out-of-State,2-year,Fees/Tuition,9874
+2019,South Carolina,Public Out-of-State,4-year,Fees/Tuition,32174
+2019,South Carolina,Public Out-of-State,4-year,Room/Board,10100
+2019,South Dakota,Private,4-year,Fees/Tuition,23252
+2019,South Dakota,Private,4-year,Room/Board,8107
+2019,South Dakota,Public In-State,2-year,Fees/Tuition,6170
+2019,South Dakota,Public In-State,4-year,Fees/Tuition,8772
+2019,South Dakota,Public In-State,4-year,Room/Board,8076
+2019,South Dakota,Public Out-of-State,2-year,Fees/Tuition,5839
+2019,South Dakota,Public Out-of-State,4-year,Fees/Tuition,12465
+2019,South Dakota,Public Out-of-State,4-year,Room/Board,8076
+2019,Tennessee,Private,4-year,Fees/Tuition,28080
+2019,Tennessee,Private,4-year,Room/Board,10491
+2019,Tennessee,Public In-State,2-year,Fees/Tuition,4287
+2019,Tennessee,Public In-State,4-year,Fees/Tuition,9789
+2019,Tennessee,Public In-State,4-year,Room/Board,9924
+2019,Tennessee,Public Out-of-State,2-year,Fees/Tuition,16582
+2019,Tennessee,Public Out-of-State,4-year,Fees/Tuition,26068
+2019,Tennessee,Public Out-of-State,4-year,Room/Board,9924
+2019,Texas,Private,4-year,Fees/Tuition,34476
+2019,Texas,Private,4-year,Room/Board,11792
+2019,Texas,Public In-State,2-year,Fees/Tuition,2259
+2019,Texas,Public In-State,4-year,Fees/Tuition,8678
+2019,Texas,Public In-State,4-year,Room/Board,10101
+2019,Texas,Public Out-of-State,2-year,Fees/Tuition,5920
+2019,Texas,Public Out-of-State,4-year,Fees/Tuition,25031
+2019,Texas,Public Out-of-State,4-year,Room/Board,10101
+2019,Utah,Private,4-year,Fees/Tuition,7852
+2019,Utah,Private,4-year,Room/Board,7952
+2019,Utah,Public In-State,2-year,Fees/Tuition,3843
+2019,Utah,Public In-State,4-year,Fees/Tuition,6731
+2019,Utah,Public In-State,4-year,Room/Board,7658
+2019,Utah,Public Out-of-State,2-year,Fees/Tuition,12206
+2019,Utah,Public Out-of-State,4-year,Fees/Tuition,21557
+2019,Utah,Public Out-of-State,4-year,Room/Board,7658
+2019,Vermont,Private,4-year,Fees/Tuition,44068
+2019,Vermont,Private,4-year,Room/Board,14069
+2019,Vermont,Public In-State,2-year,Fees/Tuition,7120
+2019,Vermont,Public In-State,4-year,Fees/Tuition,16604
+2019,Vermont,Public In-State,4-year,Room/Board,12077
+2019,Vermont,Public Out-of-State,2-year,Fees/Tuition,14090
+2019,Vermont,Public Out-of-State,4-year,Fees/Tuition,39947
+2019,Vermont,Public Out-of-State,4-year,Room/Board,12077
+2019,Virginia,Private,4-year,Fees/Tuition,23380
+2019,Virginia,Private,4-year,Room/Board,11089
+2019,Virginia,Public In-State,2-year,Fees/Tuition,5241
+2019,Virginia,Public In-State,4-year,Fees/Tuition,13413
+2019,Virginia,Public In-State,4-year,Room/Board,11080
+2019,Virginia,Public Out-of-State,2-year,Fees/Tuition,11455
+2019,Virginia,Public Out-of-State,4-year,Fees/Tuition,34890
+2019,Virginia,Public Out-of-State,4-year,Room/Board,11080
+2019,Washington,Private,4-year,Fees/Tuition,38754
+2019,Washington,Private,4-year,Room/Board,12120
+2019,Washington,Public In-State,2-year,Fees/Tuition,4169
+2019,Washington,Public In-State,4-year,Fees/Tuition,7036
+2019,Washington,Public In-State,4-year,Room/Board,12236
+2019,Washington,Public Out-of-State,2-year,Fees/Tuition,5691
+2019,Washington,Public Out-of-State,4-year,Fees/Tuition,29228
+2019,Washington,Public Out-of-State,4-year,Room/Board,12236
+2019,West Virginia,Private,4-year,Fees/Tuition,12513
+2019,West Virginia,Private,4-year,Room/Board,9379
+2019,West Virginia,Public In-State,2-year,Fees/Tuition,4276
+2019,West Virginia,Public In-State,4-year,Fees/Tuition,8016
+2019,West Virginia,Public In-State,4-year,Room/Board,10446
+2019,West Virginia,Public Out-of-State,2-year,Fees/Tuition,9834
+2019,West Virginia,Public Out-of-State,4-year,Fees/Tuition,21996
+2019,West Virginia,Public Out-of-State,4-year,Room/Board,10446
+2019,Wisconsin,Private,4-year,Fees/Tuition,34424
+2019,Wisconsin,Private,4-year,Room/Board,10845
+2019,Wisconsin,Public In-State,2-year,Fees/Tuition,4411
+2019,Wisconsin,Public In-State,4-year,Fees/Tuition,8697
+2019,Wisconsin,Public In-State,4-year,Room/Board,8475
+2019,Wisconsin,Public Out-of-State,2-year,Fees/Tuition,6408
+2019,Wisconsin,Public Out-of-State,4-year,Fees/Tuition,25063
+2019,Wisconsin,Public Out-of-State,4-year,Room/Board,8475
+2019,Wyoming,Public In-State,2-year,Fees/Tuition,3219
+2019,Wyoming,Public In-State,4-year,Fees/Tuition,4596
+2019,Wyoming,Public In-State,4-year,Room/Board,10043
+2019,Wyoming,Public Out-of-State,2-year,Fees/Tuition,7752
+2019,Wyoming,Public Out-of-State,4-year,Fees/Tuition,14268
+2019,Wyoming,Public Out-of-State,4-year,Room/Board,10043
+2020,Alabama,Private,4-year,Fees/Tuition,16743
+2020,Alabama,Private,4-year,Room/Board,10344
+2020,Alabama,Public In-State,2-year,Fees/Tuition,4854
+2020,Alabama,Public In-State,4-year,Fees/Tuition,10323
+2020,Alabama,Public In-State,4-year,Room/Board,10175
+2020,Alabama,Public Out-of-State,2-year,Fees/Tuition,9707
+2020,Alabama,Public Out-of-State,4-year,Fees/Tuition,26517
+2020,Alabama,Public Out-of-State,4-year,Room/Board,10175
+2020,Alaska,Private,4-year,Fees/Tuition,19682
+2020,Alaska,Private,4-year,Room/Board,8092
+2020,Alaska,Public In-State,4-year,Fees/Tuition,8297
+2020,Alaska,Public In-State,4-year,Room/Board,11322
+2020,Alaska,Public Out-of-State,4-year,Fees/Tuition,26767
+2020,Alaska,Public Out-of-State,4-year,Room/Board,11322
+2020,Arizona,Private,4-year,Fees/Tuition,12895
+2020,Arizona,Private,4-year,Room/Board,9757
+2020,Arizona,Public In-State,2-year,Fees/Tuition,2151
+2020,Arizona,Public In-State,4-year,Fees/Tuition,11072
+2020,Arizona,Public In-State,4-year,Room/Board,12944
+2020,Arizona,Public Out-of-State,2-year,Fees/Tuition,7642
+2020,Arizona,Public Out-of-State,4-year,Fees/Tuition,27417
+2020,Arizona,Public Out-of-State,4-year,Room/Board,12944
+2020,Arkansas,Private,4-year,Fees/Tuition,23875
+2020,Arkansas,Private,4-year,Room/Board,8513
+2020,Arkansas,Public In-State,2-year,Fees/Tuition,3398
+2020,Arkansas,Public In-State,4-year,Fees/Tuition,8689
+2020,Arkansas,Public In-State,4-year,Room/Board,9535
+2020,Arkansas,Public Out-of-State,2-year,Fees/Tuition,4688
+2020,Arkansas,Public Out-of-State,4-year,Fees/Tuition,21460
+2020,Arkansas,Public Out-of-State,4-year,Room/Board,9535
+2020,California,Private,4-year,Fees/Tuition,37009
+2020,California,Private,4-year,Room/Board,14741
+2020,California,Public In-State,2-year,Fees/Tuition,1270
+2020,California,Public In-State,4-year,Fees/Tuition,8192
+2020,California,Public In-State,4-year,Room/Board,14845
+2020,California,Public Out-of-State,2-year,Fees/Tuition,8194
+2020,California,Public Out-of-State,4-year,Fees/Tuition,32177
+2020,California,Public Out-of-State,4-year,Room/Board,14845
+2020,Colorado,Private,4-year,Fees/Tuition,23791
+2020,Colorado,Private,4-year,Room/Board,13229
+2020,Colorado,Public In-State,2-year,Fees/Tuition,3355
+2020,Colorado,Public In-State,4-year,Fees/Tuition,9144
+2020,Colorado,Public In-State,4-year,Room/Board,13041
+2020,Colorado,Public Out-of-State,2-year,Fees/Tuition,7103
+2020,Colorado,Public Out-of-State,4-year,Fees/Tuition,30773
+2020,Colorado,Public Out-of-State,4-year,Room/Board,13041
+2020,Connecticut,Private,4-year,Fees/Tuition,43242
+2020,Connecticut,Private,4-year,Room/Board,15332
+2020,Connecticut,Public In-State,2-year,Fees/Tuition,4516
+2020,Connecticut,Public In-State,4-year,Fees/Tuition,13886
+2020,Connecticut,Public In-State,4-year,Room/Board,13677
+2020,Connecticut,Public Out-of-State,2-year,Fees/Tuition,13490
+2020,Connecticut,Public Out-of-State,4-year,Fees/Tuition,35197
+2020,Connecticut,Public Out-of-State,4-year,Room/Board,13677
+2020,Delaware,Private,4-year,Fees/Tuition,14858
+2020,Delaware,Private,4-year,Room/Board,12548
+2020,Delaware,Public In-State,4-year,Fees/Tuition,11091
+2020,Delaware,Public In-State,4-year,Room/Board,13267
+2020,Delaware,Public Out-of-State,4-year,Fees/Tuition,31582
+2020,Delaware,Public Out-of-State,4-year,Room/Board,13267
+2020,District of Columbia,Private,4-year,Fees/Tuition,44134
+2020,District of Columbia,Private,4-year,Room/Board,16697
+2020,District of Columbia,Public In-State,4-year,Fees/Tuition,6020
+2020,District of Columbia,Public Out-of-State,4-year,Fees/Tuition,12704
+2020,Florida,Private,4-year,Fees/Tuition,27381
+2020,Florida,Private,4-year,Room/Board,12469
+2020,Florida,Public In-State,2-year,Fees/Tuition,2506
+2020,Florida,Public In-State,4-year,Fees/Tuition,4463
+2020,Florida,Public In-State,4-year,Room/Board,10774
+2020,Florida,Public Out-of-State,2-year,Fees/Tuition,9111
+2020,Florida,Public Out-of-State,4-year,Fees/Tuition,18514
+2020,Florida,Public Out-of-State,4-year,Room/Board,10774
+2020,Georgia,Private,4-year,Fees/Tuition,29752
+2020,Georgia,Private,4-year,Room/Board,13050
+2020,Georgia,Public In-State,2-year,Fees/Tuition,3156
+2020,Georgia,Public In-State,4-year,Fees/Tuition,7457
+2020,Georgia,Public In-State,4-year,Room/Board,11096
+2020,Georgia,Public Out-of-State,2-year,Fees/Tuition,8398
+2020,Georgia,Public Out-of-State,4-year,Fees/Tuition,23167
+2020,Georgia,Public Out-of-State,4-year,Room/Board,11096
+2020,Hawaii,Private,4-year,Fees/Tuition,17977
+2020,Hawaii,Private,4-year,Room/Board,14148
+2020,Hawaii,Public In-State,2-year,Fees/Tuition,3225
+2020,Hawaii,Public In-State,4-year,Fees/Tuition,10109
+2020,Hawaii,Public In-State,4-year,Room/Board,11745
+2020,Hawaii,Public Out-of-State,2-year,Fees/Tuition,8391
+2020,Hawaii,Public Out-of-State,4-year,Fees/Tuition,31774
+2020,Hawaii,Public Out-of-State,4-year,Room/Board,11745
+2020,Idaho,Private,4-year,Fees/Tuition,6429
+2020,Idaho,Private,4-year,Room/Board,7951
+2020,Idaho,Public In-State,2-year,Fees/Tuition,3335
+2020,Idaho,Public In-State,4-year,Fees/Tuition,7518
+2020,Idaho,Public In-State,4-year,Room/Board,8820
+2020,Idaho,Public Out-of-State,2-year,Fees/Tuition,8295
+2020,Idaho,Public Out-of-State,4-year,Fees/Tuition,24845
+2020,Idaho,Public Out-of-State,4-year,Room/Board,8820
+2020,Illinois,Private,4-year,Fees/Tuition,35570
+2020,Illinois,Private,4-year,Room/Board,13506
+2020,Illinois,Public In-State,2-year,Fees/Tuition,4035
+2020,Illinois,Public In-State,4-year,Fees/Tuition,14455
+2020,Illinois,Public In-State,4-year,Room/Board,11351
+2020,Illinois,Public Out-of-State,2-year,Fees/Tuition,11450
+2020,Illinois,Public Out-of-State,4-year,Fees/Tuition,29515
+2020,Illinois,Public Out-of-State,4-year,Room/Board,11351
+2020,Indiana,Private,4-year,Fees/Tuition,34263
+2020,Indiana,Private,4-year,Room/Board,12241
+2020,Indiana,Public In-State,2-year,Fees/Tuition,4500
+2020,Indiana,Public In-State,4-year,Fees/Tuition,9268
+2020,Indiana,Public In-State,4-year,Room/Board,10718
+2020,Indiana,Public Out-of-State,2-year,Fees/Tuition,8661
+2020,Indiana,Public Out-of-State,4-year,Fees/Tuition,29533
+2020,Indiana,Public Out-of-State,4-year,Room/Board,10718
+2020,Iowa,Private,4-year,Fees/Tuition,35019
+2020,Iowa,Private,4-year,Room/Board,9831
+2020,Iowa,Public In-State,2-year,Fees/Tuition,5306
+2020,Iowa,Public In-State,4-year,Fees/Tuition,9373
+2020,Iowa,Public In-State,4-year,Room/Board,10436
+2020,Iowa,Public Out-of-State,2-year,Fees/Tuition,6664
+2020,Iowa,Public Out-of-State,4-year,Fees/Tuition,27346
+2020,Iowa,Public Out-of-State,4-year,Room/Board,10436
+2020,Kansas,Private,4-year,Fees/Tuition,24179
+2020,Kansas,Private,4-year,Room/Board,9632
+2020,Kansas,Public In-State,2-year,Fees/Tuition,3542
+2020,Kansas,Public In-State,4-year,Fees/Tuition,9088
+2020,Kansas,Public In-State,4-year,Room/Board,10013
+2020,Kansas,Public Out-of-State,2-year,Fees/Tuition,4695
+2020,Kansas,Public Out-of-State,4-year,Fees/Tuition,23745
+2020,Kansas,Public Out-of-State,4-year,Room/Board,10013
+2020,Kentucky,Private,4-year,Fees/Tuition,26928
+2020,Kentucky,Private,4-year,Room/Board,9354
+2020,Kentucky,Public In-State,2-year,Fees/Tuition,4395
+2020,Kentucky,Public In-State,4-year,Fees/Tuition,10888
+2020,Kentucky,Public In-State,4-year,Room/Board,10911
+2020,Kentucky,Public Out-of-State,2-year,Fees/Tuition,14826
+2020,Kentucky,Public Out-of-State,4-year,Fees/Tuition,26048
+2020,Kentucky,Public Out-of-State,4-year,Room/Board,10911
+2020,Louisiana,Private,4-year,Fees/Tuition,39482
+2020,Louisiana,Private,4-year,Room/Board,13544
+2020,Louisiana,Public In-State,2-year,Fees/Tuition,4166
+2020,Louisiana,Public In-State,4-year,Fees/Tuition,9571
+2020,Louisiana,Public In-State,4-year,Room/Board,9927
+2020,Louisiana,Public Out-of-State,2-year,Fees/Tuition,8282
+2020,Louisiana,Public Out-of-State,4-year,Fees/Tuition,22128
+2020,Louisiana,Public Out-of-State,4-year,Room/Board,9927
+2020,Maine,Private,4-year,Fees/Tuition,40353
+2020,Maine,Private,4-year,Room/Board,14022
+2020,Maine,Public In-State,2-year,Fees/Tuition,3778
+2020,Maine,Public In-State,4-year,Fees/Tuition,10103
+2020,Maine,Public In-State,4-year,Room/Board,10355
+2020,Maine,Public Out-of-State,2-year,Fees/Tuition,6642
+2020,Maine,Public Out-of-State,4-year,Fees/Tuition,28523
+2020,Maine,Public Out-of-State,4-year,Room/Board,10355
+2020,Maryland,Private,4-year,Fees/Tuition,44048
+2020,Maryland,Private,4-year,Room/Board,14689
+2020,Maryland,Public In-State,2-year,Fees/Tuition,4330
+2020,Maryland,Public In-State,4-year,Fees/Tuition,9714
+2020,Maryland,Public In-State,4-year,Room/Board,12790
+2020,Maryland,Public Out-of-State,2-year,Fees/Tuition,10308
+2020,Maryland,Public Out-of-State,4-year,Fees/Tuition,27984
+2020,Maryland,Public Out-of-State,4-year,Room/Board,12790
+2020,Massachusetts,Private,4-year,Fees/Tuition,47980
+2020,Massachusetts,Private,4-year,Room/Board,16217
+2020,Massachusetts,Public In-State,2-year,Fees/Tuition,5336
+2020,Massachusetts,Public In-State,4-year,Fees/Tuition,13729
+2020,Massachusetts,Public In-State,4-year,Room/Board,13889
+2020,Massachusetts,Public Out-of-State,2-year,Fees/Tuition,10690
+2020,Massachusetts,Public Out-of-State,4-year,Fees/Tuition,31894
+2020,Massachusetts,Public Out-of-State,4-year,Room/Board,13889
+2020,Michigan,Private,4-year,Fees/Tuition,29405
+2020,Michigan,Private,4-year,Room/Board,10381
+2020,Michigan,Public In-State,2-year,Fees/Tuition,3703
+2020,Michigan,Public In-State,4-year,Fees/Tuition,13315
+2020,Michigan,Public In-State,4-year,Room/Board,10772
+2020,Michigan,Public Out-of-State,2-year,Fees/Tuition,6564
+2020,Michigan,Public Out-of-State,4-year,Fees/Tuition,36832
+2020,Michigan,Public Out-of-State,4-year,Room/Board,10772
+2020,Minnesota,Private,4-year,Fees/Tuition,34321
+2020,Minnesota,Private,4-year,Room/Board,10877
+2020,Minnesota,Public In-State,2-year,Fees/Tuition,5566
+2020,Minnesota,Public In-State,4-year,Fees/Tuition,11748
+2020,Minnesota,Public In-State,4-year,Room/Board,9863
+2020,Minnesota,Public Out-of-State,2-year,Fees/Tuition,6151
+2020,Minnesota,Public Out-of-State,4-year,Fees/Tuition,24442
+2020,Minnesota,Public Out-of-State,4-year,Room/Board,9863
+2020,Mississippi,Private,4-year,Fees/Tuition,18612
+2020,Mississippi,Private,4-year,Room/Board,8607
+2020,Mississippi,Public In-State,2-year,Fees/Tuition,3432
+2020,Mississippi,Public In-State,4-year,Fees/Tuition,8604
+2020,Mississippi,Public In-State,4-year,Room/Board,10476
+2020,Mississippi,Public Out-of-State,2-year,Fees/Tuition,5835
+2020,Mississippi,Public Out-of-State,4-year,Fees/Tuition,19402
+2020,Mississippi,Public Out-of-State,4-year,Room/Board,10476
+2020,Missouri,Private,4-year,Fees/Tuition,26377
+2020,Missouri,Private,4-year,Room/Board,10705
+2020,Missouri,Public In-State,2-year,Fees/Tuition,3545
+2020,Missouri,Public In-State,4-year,Fees/Tuition,8992
+2020,Missouri,Public In-State,4-year,Room/Board,9742
+2020,Missouri,Public Out-of-State,2-year,Fees/Tuition,6797
+2020,Missouri,Public Out-of-State,4-year,Fees/Tuition,20877
+2020,Missouri,Public Out-of-State,4-year,Room/Board,9742
+2020,Montana,Private,4-year,Fees/Tuition,31724
+2020,Montana,Private,4-year,Room/Board,9817
+2020,Montana,Public In-State,2-year,Fees/Tuition,3871
+2020,Montana,Public In-State,4-year,Fees/Tuition,6967
+2020,Montana,Public In-State,4-year,Room/Board,9765
+2020,Montana,Public Out-of-State,2-year,Fees/Tuition,8596
+2020,Montana,Public Out-of-State,4-year,Fees/Tuition,25239
+2020,Montana,Public Out-of-State,4-year,Room/Board,9765
+2020,Nebraska,Private,4-year,Fees/Tuition,25313
+2020,Nebraska,Private,4-year,Room/Board,9797
+2020,Nebraska,Public In-State,2-year,Fees/Tuition,3103
+2020,Nebraska,Public In-State,4-year,Fees/Tuition,8582
+2020,Nebraska,Public In-State,4-year,Room/Board,10938
+2020,Nebraska,Public Out-of-State,2-year,Fees/Tuition,3969
+2020,Nebraska,Public Out-of-State,4-year,Fees/Tuition,22152
+2020,Nebraska,Public Out-of-State,4-year,Room/Board,10938
+2020,Nevada,Private,4-year,Fees/Tuition,26284
+2020,Nevada,Private,4-year,Room/Board,14187
+2020,Nevada,Public In-State,4-year,Fees/Tuition,6023
+2020,Nevada,Public In-State,4-year,Room/Board,11964
+2020,Nevada,Public Out-of-State,4-year,Fees/Tuition,21678
+2020,Nevada,Public Out-of-State,4-year,Room/Board,11964
+2020,New Hampshire,Private,4-year,Fees/Tuition,33446
+2020,New Hampshire,Private,4-year,Room/Board,14070
+2020,New Hampshire,Public In-State,2-year,Fees/Tuition,7130
+2020,New Hampshire,Public In-State,4-year,Fees/Tuition,16679
+2020,New Hampshire,Public In-State,4-year,Room/Board,12055
+2020,New Hampshire,Public Out-of-State,2-year,Fees/Tuition,15335
+2020,New Hampshire,Public Out-of-State,4-year,Fees/Tuition,30594
+2020,New Hampshire,Public Out-of-State,4-year,Room/Board,12055
+2020,New Jersey,Private,4-year,Fees/Tuition,38652
+2020,New Jersey,Private,4-year,Room/Board,13980
+2020,New Jersey,Public In-State,2-year,Fees/Tuition,4779
+2020,New Jersey,Public In-State,4-year,Fees/Tuition,14360
+2020,New Jersey,Public In-State,4-year,Room/Board,14012
+2020,New Jersey,Public Out-of-State,2-year,Fees/Tuition,8092
+2020,New Jersey,Public Out-of-State,4-year,Fees/Tuition,29435
+2020,New Jersey,Public Out-of-State,4-year,Room/Board,14012
+2020,New Mexico,Private,4-year,Fees/Tuition,25363
+2020,New Mexico,Private,4-year,Room/Board,11599
+2020,New Mexico,Public In-State,2-year,Fees/Tuition,1724
+2020,New Mexico,Public In-State,4-year,Fees/Tuition,7152
+2020,New Mexico,Public In-State,4-year,Room/Board,9041
+2020,New Mexico,Public Out-of-State,2-year,Fees/Tuition,6624
+2020,New Mexico,Public Out-of-State,4-year,Fees/Tuition,19181
+2020,New Mexico,Public Out-of-State,4-year,Room/Board,9041
+2020,New York,Private,4-year,Fees/Tuition,41404
+2020,New York,Private,4-year,Room/Board,15554
+2020,New York,Public In-State,2-year,Fees/Tuition,5476
+2020,New York,Public In-State,4-year,Fees/Tuition,8467
+2020,New York,Public In-State,4-year,Room/Board,15408
+2020,New York,Public Out-of-State,2-year,Fees/Tuition,9228
+2020,New York,Public Out-of-State,4-year,Fees/Tuition,22669
+2020,New York,Public Out-of-State,4-year,Room/Board,15408
+2020,North Carolina,Private,4-year,Fees/Tuition,35379
+2020,North Carolina,Private,4-year,Room/Board,12628
+2020,North Carolina,Public In-State,2-year,Fees/Tuition,2494
+2020,North Carolina,Public In-State,4-year,Fees/Tuition,7228
+2020,North Carolina,Public In-State,4-year,Room/Board,10342
+2020,North Carolina,Public Out-of-State,2-year,Fees/Tuition,8658
+2020,North Carolina,Public Out-of-State,4-year,Fees/Tuition,23357
+2020,North Carolina,Public Out-of-State,4-year,Room/Board,10342
+2020,North Dakota,Private,4-year,Fees/Tuition,15732
+2020,North Dakota,Private,4-year,Room/Board,7971
+2020,North Dakota,Public In-State,2-year,Fees/Tuition,5073
+2020,North Dakota,Public In-State,4-year,Fees/Tuition,8628
+2020,North Dakota,Public In-State,4-year,Room/Board,8821
+2020,North Dakota,Public Out-of-State,2-year,Fees/Tuition,6031
+2020,North Dakota,Public Out-of-State,4-year,Fees/Tuition,13936
+2020,North Dakota,Public Out-of-State,4-year,Room/Board,8821
+2020,Ohio,Private,4-year,Fees/Tuition,34008
+2020,Ohio,Private,4-year,Room/Board,11861
+2020,Ohio,Public In-State,2-year,Fees/Tuition,4330
+2020,Ohio,Public In-State,4-year,Fees/Tuition,9902
+2020,Ohio,Public In-State,4-year,Room/Board,12486
+2020,Ohio,Public Out-of-State,2-year,Fees/Tuition,7528
+2020,Ohio,Public Out-of-State,4-year,Fees/Tuition,24830
+2020,Ohio,Public Out-of-State,4-year,Room/Board,12486
+2020,Oklahoma,Private,4-year,Fees/Tuition,29429
+2020,Oklahoma,Private,4-year,Room/Board,9846
+2020,Oklahoma,Public In-State,2-year,Fees/Tuition,4150
+2020,Oklahoma,Public In-State,4-year,Fees/Tuition,8009
+2020,Oklahoma,Public In-State,4-year,Room/Board,8950
+2020,Oklahoma,Public Out-of-State,2-year,Fees/Tuition,9484
+2020,Oklahoma,Public Out-of-State,4-year,Fees/Tuition,21695
+2020,Oklahoma,Public Out-of-State,4-year,Room/Board,8950
+2020,Oregon,Private,4-year,Fees/Tuition,42202
+2020,Oregon,Private,4-year,Room/Board,12931
+2020,Oregon,Public In-State,2-year,Fees/Tuition,4881
+2020,Oregon,Public In-State,4-year,Fees/Tuition,10813
+2020,Oregon,Public In-State,4-year,Room/Board,12769
+2020,Oregon,Public Out-of-State,2-year,Fees/Tuition,8640
+2020,Oregon,Public Out-of-State,4-year,Fees/Tuition,32068
+2020,Oregon,Public Out-of-State,4-year,Room/Board,12769
+2020,Pennsylvania,Private,4-year,Fees/Tuition,42812
+2020,Pennsylvania,Private,4-year,Room/Board,13945
+2020,Pennsylvania,Public In-State,2-year,Fees/Tuition,5348
+2020,Pennsylvania,Public In-State,4-year,Fees/Tuition,15565
+2020,Pennsylvania,Public In-State,4-year,Room/Board,11839
+2020,Pennsylvania,Public Out-of-State,2-year,Fees/Tuition,13480
+2020,Pennsylvania,Public Out-of-State,4-year,Fees/Tuition,30222
+2020,Pennsylvania,Public Out-of-State,4-year,Room/Board,11839
+2020,Rhode Island,Private,4-year,Fees/Tuition,43919
+2020,Rhode Island,Private,4-year,Room/Board,15402
+2020,Rhode Island,Public In-State,2-year,Fees/Tuition,4700
+2020,Rhode Island,Public In-State,4-year,Fees/Tuition,13105
+2020,Rhode Island,Public In-State,4-year,Room/Board,12487
+2020,Rhode Island,Public Out-of-State,2-year,Fees/Tuition,12544
+2020,Rhode Island,Public Out-of-State,4-year,Fees/Tuition,30871
+2020,Rhode Island,Public Out-of-State,4-year,Room/Board,12487
+2020,South Carolina,Private,4-year,Fees/Tuition,26270
+2020,South Carolina,Private,4-year,Room/Board,9965
+2020,South Carolina,Public In-State,2-year,Fees/Tuition,4916
+2020,South Carolina,Public In-State,4-year,Fees/Tuition,12497
+2020,South Carolina,Public In-State,4-year,Room/Board,10293
+2020,South Carolina,Public Out-of-State,2-year,Fees/Tuition,10206
+2020,South Carolina,Public Out-of-State,4-year,Fees/Tuition,32853
+2020,South Carolina,Public Out-of-State,4-year,Room/Board,10293
+2020,South Dakota,Private,4-year,Fees/Tuition,25353
+2020,South Dakota,Private,4-year,Room/Board,8253
+2020,South Dakota,Public In-State,2-year,Fees/Tuition,6469
+2020,South Dakota,Public In-State,4-year,Fees/Tuition,8978
+2020,South Dakota,Public In-State,4-year,Room/Board,8320
+2020,South Dakota,Public Out-of-State,2-year,Fees/Tuition,6043
+2020,South Dakota,Public Out-of-State,4-year,Fees/Tuition,12866
+2020,South Dakota,Public Out-of-State,4-year,Room/Board,8320
+2020,Tennessee,Private,4-year,Fees/Tuition,29200
+2020,Tennessee,Private,4-year,Room/Board,10838
+2020,Tennessee,Public In-State,2-year,Fees/Tuition,4379
+2020,Tennessee,Public In-State,4-year,Fees/Tuition,10164
+2020,Tennessee,Public In-State,4-year,Room/Board,10196
+2020,Tennessee,Public Out-of-State,2-year,Fees/Tuition,16937
+2020,Tennessee,Public Out-of-State,4-year,Fees/Tuition,24786
+2020,Tennessee,Public Out-of-State,4-year,Room/Board,10196
+2020,Texas,Private,4-year,Fees/Tuition,36014
+2020,Texas,Private,4-year,Room/Board,12017
+2020,Texas,Public In-State,2-year,Fees/Tuition,2380
+2020,Texas,Public In-State,4-year,Fees/Tuition,8598
+2020,Texas,Public In-State,4-year,Room/Board,10113
+2020,Texas,Public Out-of-State,2-year,Fees/Tuition,6373
+2020,Texas,Public Out-of-State,4-year,Fees/Tuition,24889
+2020,Texas,Public Out-of-State,4-year,Room/Board,10113
+2020,Utah,Private,4-year,Fees/Tuition,7600
+2020,Utah,Private,4-year,Room/Board,8107
+2020,Utah,Public In-State,2-year,Fees/Tuition,3929
+2020,Utah,Public In-State,4-year,Fees/Tuition,6700
+2020,Utah,Public In-State,4-year,Room/Board,7919
+2020,Utah,Public Out-of-State,2-year,Fees/Tuition,12460
+2020,Utah,Public Out-of-State,4-year,Fees/Tuition,21273
+2020,Utah,Public Out-of-State,4-year,Room/Board,7919
+2020,Vermont,Private,4-year,Fees/Tuition,46445
+2020,Vermont,Private,4-year,Room/Board,14576
+2020,Vermont,Public In-State,2-year,Fees/Tuition,6654
+2020,Vermont,Public In-State,4-year,Fees/Tuition,17083
+2020,Vermont,Public In-State,4-year,Room/Board,12582
+2020,Vermont,Public Out-of-State,2-year,Fees/Tuition,13398
+2020,Vermont,Public Out-of-State,4-year,Fees/Tuition,41057
+2020,Vermont,Public Out-of-State,4-year,Room/Board,12582
+2020,Virginia,Private,4-year,Fees/Tuition,23493
+2020,Virginia,Private,4-year,Room/Board,11255
+2020,Virginia,Public In-State,2-year,Fees/Tuition,5237
+2020,Virginia,Public In-State,4-year,Fees/Tuition,13655
+2020,Virginia,Public In-State,4-year,Room/Board,11419
+2020,Virginia,Public Out-of-State,2-year,Fees/Tuition,11529
+2020,Virginia,Public Out-of-State,4-year,Fees/Tuition,35831
+2020,Virginia,Public Out-of-State,4-year,Room/Board,11419
+2020,Washington,Private,4-year,Fees/Tuition,39791
+2020,Washington,Private,4-year,Room/Board,12541
+2020,Washington,Public In-State,2-year,Fees/Tuition,4468
+2020,Washington,Public In-State,4-year,Fees/Tuition,7168
+2020,Washington,Public In-State,4-year,Room/Board,12678
+2020,Washington,Public Out-of-State,2-year,Fees/Tuition,6500
+2020,Washington,Public Out-of-State,4-year,Fees/Tuition,30154
+2020,Washington,Public Out-of-State,4-year,Room/Board,12678
+2020,West Virginia,Private,4-year,Fees/Tuition,12673
+2020,West Virginia,Private,4-year,Room/Board,9773
+2020,West Virginia,Public In-State,2-year,Fees/Tuition,4344
+2020,West Virginia,Public In-State,4-year,Fees/Tuition,8195
+2020,West Virginia,Public In-State,4-year,Room/Board,10839
+2020,West Virginia,Public Out-of-State,2-year,Fees/Tuition,9976
+2020,West Virginia,Public Out-of-State,4-year,Fees/Tuition,22242
+2020,West Virginia,Public Out-of-State,4-year,Room/Board,10839
+2020,Wisconsin,Private,4-year,Fees/Tuition,35554
+2020,Wisconsin,Private,4-year,Room/Board,11244
+2020,Wisconsin,Public In-State,2-year,Fees/Tuition,4476
+2020,Wisconsin,Public In-State,4-year,Fees/Tuition,8764
+2020,Wisconsin,Public In-State,4-year,Room/Board,9020
+2020,Wisconsin,Public Out-of-State,2-year,Fees/Tuition,6499
+2020,Wisconsin,Public Out-of-State,4-year,Fees/Tuition,25522
+2020,Wisconsin,Public Out-of-State,4-year,Room/Board,9020
+2020,Wyoming,Public In-State,2-year,Fees/Tuition,4136
+2020,Wyoming,Public In-State,4-year,Fees/Tuition,4747
+2020,Wyoming,Public In-State,4-year,Room/Board,10154
+2020,Wyoming,Public Out-of-State,2-year,Fees/Tuition,10101
+2020,Wyoming,Public Out-of-State,4-year,Fees/Tuition,14803
+2020,Wyoming,Public Out-of-State,4-year,Room/Board,10154
+2021,Alabama,Private,4-year,Fees/Tuition,17354
+2021,Alabama,Private,4-year,Room/Board,10613
+2021,Alabama,Public In-State,2-year,Fees/Tuition,5048
+2021,Alabama,Public In-State,4-year,Room/Board,10376
+2021,Alabama,Public Out-of-State,2-year,Fees/Tuition,10082
+2021,Alabama,Public Out-of-State,4-year,Fees/Tuition,27005
+2021,Alabama,Public Out-of-State,4-year,Room/Board,10376
+2021,Alaska,Private,4-year,Fees/Tuition,19575
+2021,Alaska,Private,4-year,Room/Board,8787
+2021,Alaska,Public In-State,4-year,Room/Board,13336
+2021,Alaska,Public Out-of-State,4-year,Fees/Tuition,25535
+2021,Alaska,Public Out-of-State,4-year,Room/Board,13336
+2021,Arizona,Private,4-year,Fees/Tuition,13108
+2021,Arizona,Private,4-year,Room/Board,9754
+2021,Arizona,Public In-State,2-year,Fees/Tuition,2160
+2021,Arizona,Public In-State,4-year,Room/Board,13272
+2021,Arizona,Public Out-of-State,2-year,Fees/Tuition,6927
+2021,Arizona,Public Out-of-State,4-year,Fees/Tuition,25426
+2021,Arizona,Public Out-of-State,4-year,Room/Board,13272
+2021,Arkansas,Private,4-year,Fees/Tuition,24998
+2021,Arkansas,Private,4-year,Room/Board,8616
+2021,Arkansas,Public In-State,2-year,Fees/Tuition,3484
+2021,Arkansas,Public In-State,4-year,Room/Board,9794
+2021,Arkansas,Public Out-of-State,2-year,Fees/Tuition,4845
+2021,Arkansas,Public Out-of-State,4-year,Fees/Tuition,21598
+2021,Arkansas,Public Out-of-State,4-year,Room/Board,9794
+2021,California,Private,4-year,Fees/Tuition,38477
+2021,California,Private,4-year,Room/Board,15203
+2021,California,Public In-State,2-year,Fees/Tuition,1285
+2021,California,Public In-State,4-year,Room/Board,15614
+2021,California,Public Out-of-State,2-year,Fees/Tuition,8491
+2021,California,Public Out-of-State,4-year,Fees/Tuition,34398
+2021,California,Public Out-of-State,4-year,Room/Board,15614
+2021,Colorado,Private,4-year,Fees/Tuition,23128
+2021,Colorado,Private,4-year,Room/Board,13750
+2021,Colorado,Public In-State,2-year,Fees/Tuition,3468
+2021,Colorado,Public In-State,4-year,Room/Board,13019
+2021,Colorado,Public Out-of-State,2-year,Fees/Tuition,8889
+2021,Colorado,Public Out-of-State,4-year,Fees/Tuition,30930
+2021,Colorado,Public Out-of-State,4-year,Room/Board,13019
+2021,Connecticut,Private,4-year,Fees/Tuition,43013
+2021,Connecticut,Private,4-year,Room/Board,15694
+2021,Connecticut,Public In-State,2-year,Fees/Tuition,4522
+2021,Connecticut,Public In-State,4-year,Room/Board,13938
+2021,Connecticut,Public Out-of-State,2-year,Fees/Tuition,13483
+2021,Connecticut,Public Out-of-State,4-year,Fees/Tuition,36881
+2021,Connecticut,Public Out-of-State,4-year,Room/Board,13938
+2021,Delaware,Private,4-year,Fees/Tuition,14501
+2021,Delaware,Private,4-year,Room/Board,11242
+2021,Delaware,Public In-State,4-year,Room/Board,13518
+2021,Delaware,Public Out-of-State,4-year,Fees/Tuition,31809
+2021,Delaware,Public Out-of-State,4-year,Room/Board,13518
+2021,District of Columbia,Private,4-year,Fees/Tuition,44692
+2021,District of Columbia,Private,4-year,Room/Board,17220
+2021,District of Columbia,Public Out-of-State,4-year,Fees/Tuition,13004
+2021,Florida,Private,4-year,Fees/Tuition,28860
+2021,Florida,Private,4-year,Room/Board,12983
+2021,Florida,Public In-State,2-year,Fees/Tuition,2506
+2021,Florida,Public In-State,4-year,Room/Board,11003
+2021,Florida,Public Out-of-State,2-year,Fees/Tuition,9111
+2021,Florida,Public Out-of-State,4-year,Fees/Tuition,18322
+2021,Florida,Public Out-of-State,4-year,Room/Board,11003
+2021,Georgia,Private,4-year,Fees/Tuition,30380
+2021,Georgia,Private,4-year,Room/Board,13247
+2021,Georgia,Public In-State,2-year,Fees/Tuition,3169
+2021,Georgia,Public In-State,4-year,Room/Board,11186
+2021,Georgia,Public Out-of-State,2-year,Fees/Tuition,8535
+2021,Georgia,Public Out-of-State,4-year,Fees/Tuition,23430
+2021,Georgia,Public Out-of-State,4-year,Room/Board,11186
+2021,Hawaii,Private,4-year,Fees/Tuition,19096
+2021,Hawaii,Private,4-year,Room/Board,13852
+2021,Hawaii,Public In-State,2-year,Fees/Tuition,3226
+2021,Hawaii,Public In-State,4-year,Room/Board,11815
+2021,Hawaii,Public Out-of-State,2-year,Fees/Tuition,8378
+2021,Hawaii,Public Out-of-State,4-year,Fees/Tuition,32043
+2021,Hawaii,Public Out-of-State,4-year,Room/Board,11815
+2021,Idaho,Private,4-year,Fees/Tuition,6452
+2021,Idaho,Private,4-year,Room/Board,8728
+2021,Idaho,Public In-State,2-year,Fees/Tuition,3332
+2021,Idaho,Public In-State,4-year,Room/Board,9036
+2021,Idaho,Public Out-of-State,2-year,Fees/Tuition,8235
+2021,Idaho,Public Out-of-State,4-year,Fees/Tuition,24700
+2021,Idaho,Public Out-of-State,4-year,Room/Board,9036
+2021,Illinois,Private,4-year,Fees/Tuition,35894
+2021,Illinois,Private,4-year,Room/Board,13889
+2021,Illinois,Public In-State,2-year,Fees/Tuition,4180
+2021,Illinois,Public In-State,4-year,Room/Board,11673
+2021,Illinois,Public Out-of-State,2-year,Fees/Tuition,11166
+2021,Illinois,Public Out-of-State,4-year,Fees/Tuition,28660
+2021,Illinois,Public Out-of-State,4-year,Room/Board,11673
+2021,Indiana,Private,4-year,Fees/Tuition,35447
+2021,Indiana,Private,4-year,Room/Board,12764
+2021,Indiana,Public In-State,2-year,Fees/Tuition,4637
+2021,Indiana,Public In-State,4-year,Room/Board,10915
+2021,Indiana,Public Out-of-State,2-year,Fees/Tuition,8927
+2021,Indiana,Public Out-of-State,4-year,Fees/Tuition,28972
+2021,Indiana,Public Out-of-State,4-year,Room/Board,10915
+2021,Iowa,Private,4-year,Fees/Tuition,35224
+2021,Iowa,Private,4-year,Room/Board,10158
+2021,Iowa,Public In-State,2-year,Fees/Tuition,5411
+2021,Iowa,Public In-State,4-year,Room/Board,10416
+2021,Iowa,Public Out-of-State,2-year,Fees/Tuition,6844
+2021,Iowa,Public Out-of-State,4-year,Fees/Tuition,27684
+2021,Iowa,Public Out-of-State,4-year,Room/Board,10416
+2021,Kansas,Private,4-year,Fees/Tuition,25523
+2021,Kansas,Private,4-year,Room/Board,9816
+2021,Kansas,Public In-State,2-year,Fees/Tuition,3648
+2021,Kansas,Public In-State,4-year,Room/Board,10001
+2021,Kansas,Public Out-of-State,2-year,Fees/Tuition,4828
+2021,Kansas,Public Out-of-State,4-year,Fees/Tuition,23945
+2021,Kansas,Public Out-of-State,4-year,Room/Board,10001
+2021,Kentucky,Private,4-year,Fees/Tuition,26996
+2021,Kentucky,Private,4-year,Room/Board,9279
+2021,Kentucky,Public In-State,2-year,Fees/Tuition,4517
+2021,Kentucky,Public In-State,4-year,Room/Board,11342
+2021,Kentucky,Public Out-of-State,2-year,Fees/Tuition,15262
+2021,Kentucky,Public Out-of-State,4-year,Fees/Tuition,25049
+2021,Kentucky,Public Out-of-State,4-year,Room/Board,11342
+2021,Louisiana,Private,4-year,Fees/Tuition,41393
+2021,Louisiana,Private,4-year,Room/Board,14133
+2021,Louisiana,Public In-State,2-year,Fees/Tuition,4219
+2021,Louisiana,Public In-State,4-year,Room/Board,10389
+2021,Louisiana,Public Out-of-State,2-year,Fees/Tuition,6770
+2021,Louisiana,Public Out-of-State,4-year,Fees/Tuition,23333
+2021,Louisiana,Public Out-of-State,4-year,Room/Board,10389
+2021,Maine,Private,4-year,Fees/Tuition,40007
+2021,Maine,Private,4-year,Room/Board,13948
+2021,Maine,Public In-State,2-year,Fees/Tuition,3857
+2021,Maine,Public In-State,4-year,Room/Board,10300
+2021,Maine,Public Out-of-State,2-year,Fees/Tuition,6746
+2021,Maine,Public Out-of-State,4-year,Fees/Tuition,29061
+2021,Maine,Public Out-of-State,4-year,Room/Board,10300
+2021,Maryland,Private,4-year,Fees/Tuition,44356
+2021,Maryland,Private,4-year,Room/Board,13778
+2021,Maryland,Public In-State,2-year,Fees/Tuition,4369
+2021,Maryland,Public In-State,4-year,Room/Board,12979
+2021,Maryland,Public Out-of-State,2-year,Fees/Tuition,10623
+2021,Maryland,Public Out-of-State,4-year,Fees/Tuition,26376
+2021,Maryland,Public Out-of-State,4-year,Room/Board,12979
+2021,Massachusetts,Private,4-year,Fees/Tuition,49152
+2021,Massachusetts,Private,4-year,Room/Board,16631
+2021,Massachusetts,Public In-State,2-year,Fees/Tuition,5529
+2021,Massachusetts,Public In-State,4-year,Room/Board,14378
+2021,Massachusetts,Public Out-of-State,2-year,Fees/Tuition,10680
+2021,Massachusetts,Public Out-of-State,4-year,Fees/Tuition,32019
+2021,Massachusetts,Public Out-of-State,4-year,Room/Board,14378
+2021,Michigan,Private,4-year,Fees/Tuition,31055
+2021,Michigan,Private,4-year,Room/Board,10735
+2021,Michigan,Public In-State,2-year,Fees/Tuition,3756
+2021,Michigan,Public In-State,4-year,Room/Board,11061
+2021,Michigan,Public Out-of-State,2-year,Fees/Tuition,7707
+2021,Michigan,Public Out-of-State,4-year,Fees/Tuition,39427
+2021,Michigan,Public Out-of-State,4-year,Room/Board,11061
+2021,Minnesota,Private,4-year,Fees/Tuition,34608
+2021,Minnesota,Private,4-year,Room/Board,11167
+2021,Minnesota,Public In-State,2-year,Fees/Tuition,5545
+2021,Minnesota,Public In-State,4-year,Room/Board,10021
+2021,Minnesota,Public Out-of-State,2-year,Fees/Tuition,6012
+2021,Minnesota,Public Out-of-State,4-year,Fees/Tuition,24620
+2021,Minnesota,Public Out-of-State,4-year,Room/Board,10021
+2021,Mississippi,Private,4-year,Fees/Tuition,19222
+2021,Mississippi,Private,4-year,Room/Board,9041
+2021,Mississippi,Public In-State,2-year,Fees/Tuition,3491
+2021,Mississippi,Public In-State,4-year,Room/Board,10579
+2021,Mississippi,Public Out-of-State,2-year,Fees/Tuition,5820
+2021,Mississippi,Public Out-of-State,4-year,Fees/Tuition,20160
+2021,Mississippi,Public Out-of-State,4-year,Room/Board,10579
+2021,Missouri,Private,4-year,Fees/Tuition,27723
+2021,Missouri,Private,4-year,Room/Board,11075
+2021,Missouri,Public In-State,2-year,Fees/Tuition,3676
+2021,Missouri,Public In-State,4-year,Room/Board,10084
+2021,Missouri,Public Out-of-State,2-year,Fees/Tuition,6783
+2021,Missouri,Public Out-of-State,4-year,Fees/Tuition,21880
+2021,Missouri,Public Out-of-State,4-year,Room/Board,10084
+2021,Montana,Private,4-year,Fees/Tuition,32064
+2021,Montana,Private,4-year,Room/Board,9844
+2021,Montana,Public In-State,2-year,Fees/Tuition,3981
+2021,Montana,Public In-State,4-year,Room/Board,9938
+2021,Montana,Public Out-of-State,2-year,Fees/Tuition,9038
+2021,Montana,Public Out-of-State,4-year,Fees/Tuition,26368
+2021,Montana,Public Out-of-State,4-year,Room/Board,9938
+2021,Nebraska,Private,4-year,Fees/Tuition,24985
+2021,Nebraska,Private,4-year,Room/Board,9999
+2021,Nebraska,Public In-State,2-year,Fees/Tuition,3179
+2021,Nebraska,Public In-State,4-year,Room/Board,10591
+2021,Nebraska,Public Out-of-State,2-year,Fees/Tuition,3956
+2021,Nebraska,Public Out-of-State,4-year,Fees/Tuition,22277
+2021,Nebraska,Public Out-of-State,4-year,Room/Board,10591
+2021,Nevada,Private,4-year,Fees/Tuition,26054
+2021,Nevada,Private,4-year,Room/Board,14187
+2021,Nevada,Public In-State,4-year,Room/Board,11631
+2021,Nevada,Public Out-of-State,4-year,Fees/Tuition,23010
+2021,Nevada,Public Out-of-State,4-year,Room/Board,11631
+2021,New Hampshire,Private,4-year,Fees/Tuition,14934
+2021,New Hampshire,Private,4-year,Room/Board,14169
+2021,New Hampshire,Public In-State,2-year,Fees/Tuition,7123
+2021,New Hampshire,Public In-State,4-year,Room/Board,12472
+2021,New Hampshire,Public Out-of-State,2-year,Fees/Tuition,15343
+2021,New Hampshire,Public Out-of-State,4-year,Fees/Tuition,31256
+2021,New Hampshire,Public Out-of-State,4-year,Room/Board,12472
+2021,New Jersey,Private,4-year,Fees/Tuition,38586
+2021,New Jersey,Private,4-year,Room/Board,13855
+2021,New Jersey,Public In-State,2-year,Fees/Tuition,4919
+2021,New Jersey,Public In-State,4-year,Room/Board,14151
+2021,New Jersey,Public Out-of-State,2-year,Fees/Tuition,8136
+2021,New Jersey,Public Out-of-State,4-year,Fees/Tuition,28682
+2021,New Jersey,Public Out-of-State,4-year,Room/Board,14151
+2021,New Mexico,Private,4-year,Fees/Tuition,24892
+2021,New Mexico,Private,4-year,Room/Board,11878
+2021,New Mexico,Public In-State,2-year,Fees/Tuition,1766
+2021,New Mexico,Public In-State,4-year,Room/Board,9719
+2021,New Mexico,Public Out-of-State,2-year,Fees/Tuition,6236
+2021,New Mexico,Public Out-of-State,4-year,Fees/Tuition,21645
+2021,New Mexico,Public Out-of-State,4-year,Room/Board,9719
+2021,New York,Private,4-year,Fees/Tuition,42631
+2021,New York,Private,4-year,Room/Board,15792
+2021,New York,Public In-State,2-year,Fees/Tuition,5576
+2021,New York,Public In-State,4-year,Room/Board,15815
+2021,New York,Public Out-of-State,2-year,Fees/Tuition,8874
+2021,New York,Public Out-of-State,4-year,Fees/Tuition,20113
+2021,New York,Public Out-of-State,4-year,Room/Board,15815
+2021,North Carolina,Private,4-year,Fees/Tuition,36772
+2021,North Carolina,Private,4-year,Room/Board,13122
+2021,North Carolina,Public In-State,2-year,Fees/Tuition,2474
+2021,North Carolina,Public In-State,4-year,Room/Board,10519
+2021,North Carolina,Public Out-of-State,2-year,Fees/Tuition,8511
+2021,North Carolina,Public Out-of-State,4-year,Fees/Tuition,23136
+2021,North Carolina,Public Out-of-State,4-year,Room/Board,10519
+2021,North Dakota,Private,4-year,Fees/Tuition,16408
+2021,North Dakota,Private,4-year,Room/Board,8216
+2021,North Dakota,Public In-State,2-year,Fees/Tuition,5233
+2021,North Dakota,Public In-State,4-year,Room/Board,8992
+2021,North Dakota,Public Out-of-State,2-year,Fees/Tuition,6186
+2021,North Dakota,Public Out-of-State,4-year,Fees/Tuition,13501
+2021,North Dakota,Public Out-of-State,4-year,Room/Board,8992
+2021,Ohio,Private,4-year,Fees/Tuition,35352
+2021,Ohio,Private,4-year,Room/Board,12184
+2021,Ohio,Public In-State,2-year,Fees/Tuition,4416
+2021,Ohio,Public In-State,4-year,Room/Board,12811
+2021,Ohio,Public Out-of-State,2-year,Fees/Tuition,7888
+2021,Ohio,Public Out-of-State,4-year,Fees/Tuition,26213
+2021,Ohio,Public Out-of-State,4-year,Room/Board,12811
+2021,Oklahoma,Private,4-year,Fees/Tuition,29905
+2021,Oklahoma,Private,4-year,Room/Board,9918
+2021,Oklahoma,Public In-State,2-year,Fees/Tuition,4194
+2021,Oklahoma,Public In-State,4-year,Room/Board,9219
+2021,Oklahoma,Public Out-of-State,2-year,Fees/Tuition,9320
+2021,Oklahoma,Public Out-of-State,4-year,Fees/Tuition,21737
+2021,Oklahoma,Public Out-of-State,4-year,Room/Board,9219
+2021,Oregon,Private,4-year,Fees/Tuition,45166
+2021,Oregon,Private,4-year,Room/Board,13545
+2021,Oregon,Public In-State,2-year,Fees/Tuition,5136
+2021,Oregon,Public In-State,4-year,Room/Board,12980
+2021,Oregon,Public Out-of-State,2-year,Fees/Tuition,8710
+2021,Oregon,Public Out-of-State,4-year,Fees/Tuition,33935
+2021,Oregon,Public Out-of-State,4-year,Room/Board,12980
+2021,Pennsylvania,Private,4-year,Fees/Tuition,43926
+2021,Pennsylvania,Private,4-year,Room/Board,14431
+2021,Pennsylvania,Public In-State,2-year,Fees/Tuition,5441
+2021,Pennsylvania,Public In-State,4-year,Room/Board,11508
+2021,Pennsylvania,Public Out-of-State,2-year,Fees/Tuition,12808
+2021,Pennsylvania,Public Out-of-State,4-year,Fees/Tuition,25697
+2021,Pennsylvania,Public Out-of-State,4-year,Room/Board,11508
+2021,Rhode Island,Private,4-year,Fees/Tuition,45927
+2021,Rhode Island,Private,4-year,Room/Board,15765
+2021,Rhode Island,Public In-State,2-year,Fees/Tuition,4806
+2021,Rhode Island,Public In-State,4-year,Room/Board,13249
+2021,Rhode Island,Public Out-of-State,2-year,Fees/Tuition,12884
+2021,Rhode Island,Public Out-of-State,4-year,Fees/Tuition,32111
+2021,Rhode Island,Public Out-of-State,4-year,Room/Board,13249
+2021,South Carolina,Private,4-year,Fees/Tuition,27317
+2021,South Carolina,Private,4-year,Room/Board,10312
+2021,South Carolina,Public In-State,2-year,Fees/Tuition,4964
+2021,South Carolina,Public In-State,4-year,Room/Board,10637
+2021,South Carolina,Public Out-of-State,2-year,Fees/Tuition,10313
+2021,South Carolina,Public Out-of-State,4-year,Fees/Tuition,33055
+2021,South Carolina,Public Out-of-State,4-year,Room/Board,10637
+2021,South Dakota,Private,4-year,Fees/Tuition,26740
+2021,South Dakota,Private,4-year,Room/Board,8489
+2021,South Dakota,Public In-State,2-year,Fees/Tuition,7326
+2021,South Dakota,Public In-State,4-year,Room/Board,8166
+2021,South Dakota,Public Out-of-State,2-year,Fees/Tuition,7224
+2021,South Dakota,Public Out-of-State,4-year,Fees/Tuition,12924
+2021,South Dakota,Public Out-of-State,4-year,Room/Board,8166
+2021,Tennessee,Private,4-year,Fees/Tuition,29862
+2021,Tennessee,Private,4-year,Room/Board,11549
+2021,Tennessee,Public In-State,2-year,Fees/Tuition,4361
+2021,Tennessee,Public In-State,4-year,Room/Board,10368
+2021,Tennessee,Public Out-of-State,2-year,Fees/Tuition,17013
+2021,Tennessee,Public Out-of-State,4-year,Fees/Tuition,25046
+2021,Tennessee,Public Out-of-State,4-year,Room/Board,10368
+2021,Texas,Private,4-year,Fees/Tuition,37450
+2021,Texas,Private,4-year,Room/Board,12434
+2021,Texas,Public In-State,2-year,Fees/Tuition,2828
+2021,Texas,Public In-State,4-year,Room/Board,10309
+2021,Texas,Public Out-of-State,2-year,Fees/Tuition,7764
+2021,Texas,Public Out-of-State,4-year,Fees/Tuition,25471
+2021,Texas,Public Out-of-State,4-year,Room/Board,10309
+2021,Utah,Private,4-year,Fees/Tuition,7753
+2021,Utah,Private,4-year,Room/Board,8158
+2021,Utah,Public In-State,2-year,Fees/Tuition,3989
+2021,Utah,Public In-State,4-year,Room/Board,7889
+2021,Utah,Public Out-of-State,2-year,Fees/Tuition,12709
+2021,Utah,Public Out-of-State,4-year,Fees/Tuition,21595
+2021,Utah,Public Out-of-State,4-year,Room/Board,7889
+2021,Vermont,Private,4-year,Fees/Tuition,48300
+2021,Vermont,Private,4-year,Room/Board,15071
+2021,Vermont,Public In-State,2-year,Fees/Tuition,6920
+2021,Vermont,Public In-State,4-year,Room/Board,13159
+2021,Vermont,Public Out-of-State,2-year,Fees/Tuition,13640
+2021,Vermont,Public Out-of-State,4-year,Fees/Tuition,41963
+2021,Vermont,Public Out-of-State,4-year,Room/Board,13159
+2021,Virginia,Private,4-year,Fees/Tuition,23220
+2021,Virginia,Private,4-year,Room/Board,12183
+2021,Virginia,Public In-State,2-year,Fees/Tuition,5228
+2021,Virginia,Public In-State,4-year,Room/Board,11830
+2021,Virginia,Public Out-of-State,2-year,Fees/Tuition,12059
+2021,Virginia,Public Out-of-State,4-year,Fees/Tuition,36193
+2021,Virginia,Public Out-of-State,4-year,Room/Board,11830
+2021,Washington,Private,4-year,Fees/Tuition,40830
+2021,Washington,Private,4-year,Room/Board,13217
+2021,Washington,Public In-State,2-year,Fees/Tuition,4564
+2021,Washington,Public In-State,4-year,Room/Board,13541
+2021,Washington,Public Out-of-State,2-year,Fees/Tuition,7186
+2021,Washington,Public Out-of-State,4-year,Fees/Tuition,30891
+2021,Washington,Public Out-of-State,4-year,Room/Board,13541
+2021,West Virginia,Private,4-year,Fees/Tuition,12413
+2021,West Virginia,Private,4-year,Room/Board,9890
+2021,West Virginia,Public In-State,2-year,Fees/Tuition,4470
+2021,West Virginia,Public In-State,4-year,Room/Board,11060
+2021,West Virginia,Public Out-of-State,2-year,Fees/Tuition,9781
+2021,West Virginia,Public Out-of-State,4-year,Fees/Tuition,22475
+2021,West Virginia,Public Out-of-State,4-year,Room/Board,11060
+2021,Wisconsin,Private,4-year,Fees/Tuition,35674
+2021,Wisconsin,Private,4-year,Room/Board,11389
+2021,Wisconsin,Public In-State,2-year,Fees/Tuition,4534
+2021,Wisconsin,Public In-State,4-year,Room/Board,9093
+2021,Wisconsin,Public Out-of-State,2-year,Fees/Tuition,6552
+2021,Wisconsin,Public Out-of-State,4-year,Fees/Tuition,26970
+2021,Wisconsin,Public Out-of-State,4-year,Room/Board,9093
+2021,Wyoming,Public In-State,2-year,Fees/Tuition,3987
+2021,Wyoming,Public In-State,4-year,Room/Board,9799
+2021,Wyoming,Public Out-of-State,2-year,Fees/Tuition,9820
+2021,Wyoming,Public Out-of-State,4-year,Fees/Tuition,14710
+2021,Wyoming,Public Out-of-State,4-year,Room/Board,9799
