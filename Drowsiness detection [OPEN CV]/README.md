@@ -2,85 +2,104 @@
 
 ## Introduction
 
-we will be using OpenCV for gathering the images from webcam and feed them into a Deep Learning model which will classify whether the person’s eyes are ‘Open’ or ‘Closed’. The approach we will be using for this Python project is as follows :
+This project focuses on building a Driver Drowsiness Detection System that monitors a driver's eye status using a webcam and alerts them if they appear drowsy. We utilize **OpenCV** for image capture and preprocessing, while a **Convolutional Neural Network (CNN)** model classifies whether the driver's eyes are 'Open' or 'Closed.' If drowsiness is detected, an alarm is triggered to alert the driver.
 
-- Step 1 – Take image as input from a camera.
+## Project Overview
 
-- Step 2 – Detect the face in the image and create a Region of Interest (ROI).
+### Steps in the Detection Process:
+1. **Image Capture**: Capture the image using a webcam.
+2. **Face Detection**: Detect the face in the captured image and create a Region of Interest (ROI).
+3. **Eye Detection**: Detect the eyes from the ROI and feed them into the classifier.
+4. **Eye Classification**: The classifier categorizes whether the eyes are open or closed.
+5. **Drowsiness Score Calculation**: Calculate a score to determine if the driver is drowsy based on how long their eyes remain closed.
 
-- Step 3 – Detect the eyes from ROI and feed it to the classifier.
+## CNN Model
 
-- Step 4 – Classifier will categorize whether eyes are open or closed.
+The **Convolutional Neural Network (CNN)** architecture consists of the following layers:
+- **Convolutional Layers**:
+  - 32 nodes, kernel size 3
+  - 32 nodes, kernel size 3
+  - 64 nodes, kernel size 3
+- **Fully Connected Layers**:
+  - 128 nodes
+  - Output layer: 2 nodes (with Softmax activation for classification)
 
-- Step 5 – Calculate score to check whether the person is drowsy.
-
-
-The model we used is built with Keras using Convolutional Neural Networks (CNN). A convolutional neural network is a special type of deep neural network which performs extremely well for image classification purposes. A CNN basically consists of an input layer, an output layer and a hidden layer which can have multiple layers. A convolution operation is performed on these layers using a filter that performs 2D matrix multiplication on the layer and filter.
-
-The CNN model architecture consists of the following layers:
-
-    Convolutional layer; 32 nodes, kernel size 3
-    Convolutional layer; 32 nodes, kernel size 3
-    Convolutional layer; 64 nodes, kernel size 3
-    Fully connected layer; 128 nodes
-
-The final layer is also a fully connected layer with 2 nodes. A Relu activation function is used in all the layers except the output layer in which we used Softmax.
-
+### Activation Function:
+- **ReLU**: Used in all layers except the output layer.
+- **Softmax**: Used in the output layer to classify the eyes as either 'Open' or 'Closed.'
 
 ## Project Prerequisites
 
-The requirement for this Python project is a webcam through which we will capture images. You need to have Python (3.6 version recommended) installed on your system, then using pip, you can install the necessary packages.
+### Required Hardware:
+- A webcam for image capture.
 
-```OpenCV – pip install opencv-python (face and eye detection).
-    TensorFlow – pip install tensorflow (keras uses TensorFlow as backend).
-    Keras – pip install keras (to build our classification model).
-    Pygame – pip install pygame (to play alarm sound).
+### Required Libraries:
+Ensure Python (version 3.6 recommended) is installed on your system. Then, install the following libraries using `pip`:
+
+```bash
+pip install opencv-python
+pip install tensorflow
+pip install keras
+pip install pygame
 ```
 
-The “haar cascade files” folder consists of the xml files that are needed to detect objects from the image. In our case, we are detecting the face and eyes of the person.
-The models folder contains our model file “cnnCat2.h5” which was trained on convolutional neural networks.
-We have an audio clip “alarm.wav” which is played when the person is feeling drowsy.
-“Model.py” file contains the program through which we built our classification model by training on our dataset. You could see the implementation of convolutional neural network in this file.
-“Drowsiness detection.py” is the main file of our project. To start the detection procedure, we have to run this file.
+### Other Project Files:
+- **Haar Cascade Files**: Located in the "haar cascade files" folder, these XML files are necessary for detecting faces and eyes.
+- **Model File**: The "models" folder contains the pre-trained CNN model `cnnCat2.h5`.
+- **Alarm Sound**: The audio clip `alarm.wav` will play when drowsiness is detected.
+- **Python Files**:
+  - `Model.py`: The file used to build and train the CNN model.
+  - `Drowsiness detection.py`: The main file that executes the driver drowsiness detection system.
 
-Let’s now understand how our algorithm works step by step.
+## How the Algorithm Works
 
-#### Step 1 – Take Image as Input from a Camera
+### Step 1 – Image Capture
+The webcam captures images in real-time using `cv2.VideoCapture(0)` and processes each frame. The frames are stored in a variable `frame`.
 
-With a webcam, we will take images as input. So to access the webcam, we made an infinite loop that will capture each frame. We use the method provided by OpenCV, cv2.VideoCapture(0) to access the camera and set the capture object (cap). cap.read() will read each frame and we store the image in a frame variable.
+### Step 2 – Face Detection
+The image is converted to grayscale for face detection using a **Haar Cascade Classifier**. The faces are detected using `detectMultiScale()`, and boundary boxes are drawn around the detected faces.
 
-#### Step 2 – Detect Face in the Image and Create a Region of Interest (ROI)
+### Step 3 – Eye Detection
+Similar to face detection, eyes are detected within the ROI using another cascade classifier. The eye images are extracted and passed to the CNN model for classification.
 
-To detect the face in the image, we need to first convert the image into grayscale as the OpenCV algorithm for object detection takes gray images in the input. We don’t need color information to detect the objects. We will be using haar cascade classifier to detect faces. This line is used to set our classifier face = cv2.CascadeClassifier(‘ path to our haar cascade xml file’). Then we perform the detection using faces = face.detectMultiScale(gray). It returns an array of detections with x,y coordinates, and height, the width of the boundary box of the object. Now we can iterate over the faces and draw boundary boxes for each face.
-for (x,y,w,h) in faces:
+### Step 4 – Eye Classification
+The extracted eye images are preprocessed by resizing to 24x24 pixels, normalizing the values, and then passed into the CNN model (`cnnCat2.h5`). The model predicts whether the eyes are open or closed.
 
-```cv2.rectangle(frame, (x,y), (x+w, y+h(100, 100,100), 1 )```
+### Step 5 – Drowsiness Detection
+A score is calculated based on the status of both eyes. If both eyes are closed for an extended period, the score increases, indicating drowsiness. If the score exceeds a threshold, an alarm is triggered using the **Pygame** library.
 
-#### Step 3 – Detect the eyes from ROI and feed it to the classifier
+## Execution Instructions
 
-The same procedure to detect faces is used to detect eyes. First, we set the cascade classifier for eyes in leye and reye respectively then detect the eyes using left_eye = leye.detectMultiScale(gray). Now we need to extract only the eyes data from the full image. This can be achieved by extracting the boundary box of the eye and then we can pull out the eye image from the frame with this code.
+### Running the Detection System
 
-```l_eye = frame[ y : y+h, x : x+w ]```
+1. Open the command prompt and navigate to the directory where the main file `drowsiness detection.py` is located.
+2. Run the script using the following command:
 
-l_eye only contains the image data of the eye. This will be fed into our CNN classifier which will predict if eyes are open or closed. Similarly, we will be extracting the right eye into r_eye.
+```bash
+python drowsiness detection.py
+```
 
-#### Step 4 – Classifier will Categorize whether Eyes are Open or Closed
+The system will access the webcam and start detecting drowsiness. The real-time status will be displayed on the screen.
 
-We are using CNN classifier for predicting the eye status. To feed our image into the model, we need to perform certain operations because the model needs the correct dimensions to start with. First, we convert the color image into grayscale using r_eye = cv2.cvtColor(r_eye, cv2.COLOR_BGR2GRAY). Then, we resize the image to 24*24 pixels as our model was trained on 24*24 pixel images cv2.resize(r_eye, (24,24)). We normalize our data for better convergence r_eye = r_eye/255 (All values will be between 0-1). Expand the dimensions to feed into our classifier. We loaded our model using model = load_model(‘models/cnnCat2.h5’) . Now we predict each eye with our model
-lpred = model.predict_classes(l_eye). If the value of lpred[0] = 1, it states that eyes are open, if value of lpred[0] = 0 then, it states that eyes are closed.
+## Summary
 
-#### Step 5 – Calculate Score to Check whether Person is Drowsy
+This Python project implements a **Driver Drowsiness Detection System** using **OpenCV** and a **CNN model** to detect whether the driver’s eyes are open or closed. When the eyes are detected as closed for a prolonged time, an alert sound is played to prevent potential accidents. This system can be implemented in vehicles or other applications to enhance driver safety.
 
-The score is basically a value we will use to determine how long the person has closed his eyes. So if both eyes are closed, we will keep on increasing score and when eyes are open, we decrease the score. We are drawing the result on the screen using cv2.putText() function which will display real time status of the person.
+## Future Enhancements
 
-### Driver Drowsiness Detection Execution
+- Improve the detection accuracy by training on a larger dataset.
+- Implement real-time monitoring for multiple people.
+- Add functionalities to detect other signs of drowsiness like head tilting or yawning.
+  
+## Contributing
 
-Let’s execute drive drowsiness detection system and see the working of our ml project. To start the project, you need to open a command prompt, go to the directory where our main file “drowsiness detection.py” exists. Run the script with this command.
+Feel free to contribute by submitting issues or pull requests. For major changes, please open an issue to discuss the proposed changes before submitting a PR.
 
-```python “drowsiness detection.py”```
 
-It may take a few seconds to open the webcam and start detection.
+## Acknowledgments
 
-### Summary
+- [OpenCV Documentation](https://opencv.org/)
+- [Keras Documentation](https://keras.io/)
+- [TensorFlow Documentation](https://www.tensorflow.org/)
 
-In this Python project, we have built a drowsy driver alert system that you can implement in numerous ways. We used OpenCV to detect faces and eyes using a haar cascade classifier and then we used a CNN model to predict the status.
+---

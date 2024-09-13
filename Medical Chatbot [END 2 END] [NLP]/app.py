@@ -11,7 +11,7 @@ from nnet import NeuralNet
 from nltk_utils import bag_of_words
 from flask import Flask, render_template, url_for, request, jsonify
 
-random.seed(datetime.now())
+random.seed(datetime.now().timestamp())
 
 device = torch.device('cpu')
 FILE = "models/data.pth"
@@ -41,7 +41,7 @@ symptom_severity = symptom_severity.applymap(lambda s: s.lower().strip(" ").repl
 with open('data/list_of_symptoms.pickle', 'rb') as data_file:
     symptoms_list = pickle.load(data_file)
 
-with open('models/fitted_model.pickle', 'rb') as modelFile:
+with open('models/fitted_model.pickle2', 'rb') as modelFile:
     prediction_model = pickle.load(modelFile)
 
 user_symptoms = set()
