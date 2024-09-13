@@ -1,6 +1,6 @@
 <div align="center">
   <h1><a href="https://shsarv.github.io/Machine-Learning-Projects/">Machine Learning Projects</a></h1>
-  <img alt="GIF" src="01%20Start/resources/banner.png" />
+  <img alt="GIF" src="Resources/banner.gif" />
 </div>
 
 <p align="center">
