@@ -1,81 +1,114 @@
-## Diabetes Prediction using Machine Learning.
+# Diabetes Prediction
 
+This repository contains an end-to-end machine learning project aimed at predicting the likelihood of diabetes based on user-provided health data. The project demonstrates the full machine learning pipeline from data gathering to model deployment using a Flask web application hosted on Heroku.
 
-### Table of Content
-  * [Overview](#overview)
-  * [Motivation](#motivation)
-  * [Demo](#demo)
-  * [Learning Objective](#Learning-Objective)
-  * [Technical Aspect](#technical-aspect)
-  * [Technologies Used](#technologies-used)
-  * [To Do](#to-do)
-  * [Installation](#installation)
-  * [Run](#run)
-  * [Bug / Feature Request](#bug-feature-request)
-  * [Team](#team)
-  * [License](#license)
-  * [Credits](#credits)
+## Project Overview
 
+The goal of this project is to create a seamless process for predicting diabetes by building a machine learning model that analyzes various health parameters. The web application takes user input, processes the data through the model, and provides the prediction result on a new page.
 
-### Overview 
-In this project, the objective is to predict whether the person has Diabetes or not based on various features like Number of Pregnancies, Insulin Level, Age, BMI.The data set that has used in this project has taken from the [kaggle](https://www.kaggle.com/) . "This dataset is originally from the National Institute of Diabetes and Digestive and Kidney Diseases. The objective of the dataset is to diagnostically predict whether or not a patient has diabetes, based on certain diagnostic measurements included in the dataset. Several constraints were placed on the selection of these instances from a larger database. In particular, all patients here are females at least 21 years old of Pima Indian heritage." and used a simple [random forest classifier](https://en.wikipedia.org/wiki/Random_forest). 
+## Project Objectives
 
-![live](https://github.com/shsarv/Diabetes-prediction/blob/master/Resource/live1.gif)
+The project follows these key steps:
 
+1. **Data Gathering**: Collected relevant medical data from various sources, including public datasets.
+2. **Descriptive Analysis**: Explored the dataset to understand the underlying patterns and trends.
+3. **Data Visualizations**: Created insightful visualizations to represent key relationships in the data.
+4. **Data Preprocessing**: Cleaned and transformed the data for use in the machine learning model.
+5. **Data Modelling**: Trained a machine learning model using scikit-learn to predict diabetes.
+6. **Model Evaluation**: Assessed the model's performance using various metrics to ensure accuracy.
+7. **Model Deployment**: Deployed the model as a web application using Flask, hosted on Heroku.
 
-### Motivation
-The motivation was to experiment  with end to end machine learning project and get some idea about deployment platform like [Heroku]() and offcourse this "
-Diabetes is an increasingly growing health issue due to our inactive lifestyle. If it is detected in time then through proper medical treatment, adverse effects can be prevented. To help in early detection, technology can be used very reliably and efficiently. Using machine learning we have built a predictive model that can predict whether the patient is diabetes positive or not." 
+## Technical Aspects
 
-### Demo
-[Visit this link for live demo](https://sarvdiabetes-predictions.herokuapp.com/)
+### Machine Learning Model
+- **Library**: scikit-learn
+- **Algorithms Used**: Logistic Regression, Decision Trees, Random Forests (or any chosen algorithms based on your project)
+- **Input Features**: The following fields are taken from the user:
+  - Number of Pregnancies
+  - Insulin Level
+  - Age
+  - Body Mass Index (BMI)
+  - Blood Pressure
+  - Glucose Level
+  - Skin Thickness
+  - Diabetes Pedigree Function
+- **Output**: The model predicts whether the person is likely to have diabetes (Yes/No).
 
-### Learning Objective
-The following points were the objective of the project (The main intention was to create an end-to-end ML project.)  
-- Data gathering 
-- Descriptive Analysis 
-- Data Visualizations 
-- Data Preprocessing 
-- Data Modelling 
-- Model Evaluation 
-- Model Deployment 
+### Web Application
+- **Framework**: Flask
+- **Deployment**: Hosted on Heroku for easy access.
+- **Functionality**: 
+  - The user provides health-related data via a form.
+  - After submitting the form, the model processes the data and presents the prediction on a new page.
+  
+## How to Use
 
-### Technical Aspect 
+### Prerequisites
+- Python 3.x
+- Flask
+- scikit-learn
+- Pandas
+- Heroku CLI (for deployment)
 
-- Training a machine learning model using scikit-learn. 
-- Building and hosting a Flask web app on Heroku. 
-- A user has to put details like Number of Pregnancies, Insulin Level, Age, BMI etc . 
-- Once it get all the fields information , the prediction is displyed on a new page . 
-### Technologies Used  
-![](https://forthebadge.com/images/badges/made-with-python.svg) 
+### Installation
 
-[<img target="_blank" src="https://github.com/scikit-learn/scikit-learn/blob/master/doc/logos/scikit-learn-logo-small.png">](https://github.com/scikit-learn/)
-<img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=170>
-<img target="_blank" src="https://raw.githubusercontent.com/shsarv/Diabetes-prediction/master/Resource/heroku.png" width=170>
-<img target="_blank" src="https://raw.githubusercontent.com/shsarv/Diabetes-prediction/master/Resource/numpy.png" width=170>
-<img target="_blank" src="https://raw.githubusercontent.com/shsarv/Diabetes-prediction/master/Resource/pandas.jpeg" width=170>
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/shsarv/Machine-learning-projects.git
+   cd diabetes-prediction-[End-2-END]/Diabetes-prediction-deployed
+   ```
 
+2. Install the required dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
 
-### Installation 
-- Clone this repository and unzip it.
-- After downloading, cd into the flask directory.
-- Begin a new virtual environment with Python 3 and activate it.
-- Install the required packages using pip install -r requirements.txt
+3. Run the Flask app:
+   ```bash
+   python app.py
+   ```
 
-### RUN
-- Execute the command: python app.py
+4. Open your browser and go to `http://localhost:5000` to access the web app.
 
+### Deployment on Heroku
 
-### Bug Feature Request
-If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/shsarv/Diabetes-prediction/issues) by including your search query and the expected result.
+To deploy the app on Heroku, follow these steps:
 
-If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/shsarv/Diabetes-prediction/issues/new/choose). Please include sample queries and their corresponding results.
+1. Login to Heroku:
+   ```bash
+   heroku login
+   ```
 
-### owner
-**Sarvesh Kumar Sharma**
+2. Create a new Heroku app:
+   ```bash
+   heroku create your-app-name
+   ```
 
+3. Push your code to Heroku:
+   ```bash
+   git push heroku main
+   ```
 
-### LICENSE
--GNU GENERAL PUBLIC LICENSE Version 3
+4. Open the app in your browser:
+   ```bash
+   heroku open
+   ```
 
+## Future Enhancements
 
+- Add more advanced machine learning models for improved prediction accuracy.
+- Implement user authentication for a more personalized experience.
+- Improve UI/UX for better usability.
+- Integrate more health-related data for broader insights.
+
+## Contributing
+
+Feel free to contribute by submitting issues or pull requests. For major changes, please open an issue first to discuss what you'd like to change.
+
+## Acknowledgments
+
+- [Scikit-learn Documentation](https://scikit-learn.org/stable/documentation.html)
+- [Flask Documentation](https://flask.palletsprojects.com/)
+- [Heroku Documentation](https://devcenter.heroku.com/)
+
+---

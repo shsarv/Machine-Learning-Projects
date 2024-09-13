@@ -27,7 +27,8 @@
       function getSymptomsData(data) {
         symptoms = data;
       }
-      getSymptomsData({{ data | tojson }});
+      getSymptomsData({{data | tojson }});
+      // getSymptomsData('{{ data | tojson }}');
     </script>
     <title>Medical Chatbot</title>
   </head>

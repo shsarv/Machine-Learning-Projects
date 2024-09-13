@@ -384,14 +384,3 @@ root.mainloop()
 </div>
 
 </div>
-
-<div class="cell markdown" id="siqSAr_aOrf0">
-
-## Summary:
-
-This Notebook build a deep learning project to colorize black and white
-images. It first introduces us to Lab color space and why it is
-favorable for our problem statement. Then step by step it describes how
-to implement black and white image colorizer.
-
-</div>
