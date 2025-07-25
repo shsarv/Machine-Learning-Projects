@@ -14,7 +14,7 @@ def main(args):
     msg['Subject']="Booking request"
     phone = args.get("phone")
     date = args.get("date")
-    time = args.get("time")
+    timer = args.get("time")
     message = f"Hello team, \nThis is your AI Chatbot. We got a room booking request at {date} {time}. Phone number is {phone}. \n\nThanks and Regards,\nyour AI Chatbot."
     msg.attach(MIMEText(message, 'plain'))
     s.send_message(msg)
