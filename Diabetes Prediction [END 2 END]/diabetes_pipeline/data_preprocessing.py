@@ -17,11 +17,11 @@ def load_and_preprocess(csv_path='dataset/kaggle_diabetes.csv', test_size=0.2, r
     df[cols_with_zero] = df[cols_with_zero].replace(0, np.nan)
     
     # Fill NaNs
-    df['Glucose'].fillna(df['Glucose'].mean(), inplace=True)
-    df['BloodPressure'].fillna(df['BloodPressure'].mean(), inplace=True)
-    df['SkinThickness'].fillna(df['SkinThickness'].median(), inplace=True)
-    df['Insulin'].fillna(df['Insulin'].median(), inplace=True)
-    df['BMI'].fillna(df['BMI'].median(), inplace=True)
+    df['Glucose'] = df['Glucose'].fillna(df['Glucose'].mean())
+    df['BloodPressure'] = df['BloodPressure'].fillna(df['BloodPressure'].mean())
+    df['SkinThickness'] = df['SkinThickness'].fillna(df['SkinThickness'].median())
+    df['Insulin'] = df['Insulin'].fillna(df['Insulin'].median())
+    df['BMI'] = df['BMI'].fillna(df['BMI'].median())
     
     # Features & Target
     X = df.drop(columns='Outcome')
