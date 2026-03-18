@@ -1,114 +1,205 @@
-# Diabetes Prediction
+<div align="center">
 
-This repository contains an end-to-end machine learning project aimed at predicting the likelihood of diabetes based on user-provided health data. The project demonstrates the full machine learning pipeline from data gathering to model deployment using a Flask web application hosted on Heroku.
+# 🩺 Diabetes Prediction — End to End
 
-## Project Overview
+[![Python](https://img.shields.io/badge/Python-3.7+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Flask](https://img.shields.io/badge/Flask-Web%20App-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-ML%20Model-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![License](https://img.shields.io/badge/License-MIT-1abc9c?style=for-the-badge)](../LICENSE.md)
 
-The goal of this project is to create a seamless process for predicting diabetes by building a machine learning model that analyzes various health parameters. The web application takes user input, processes the data through the model, and provides the prediction result on a new page.
+> A full **end-to-end machine learning web application** that predicts the likelihood of diabetes in a patient based on key health diagnostics — from model training to a live Flask deployment.
 
-## Project Objectives
+[🔙 Back to Main Repository](https://github.com/shsarv/Machine-Learning-Projects)
 
-The project follows these key steps:
-
-1. **Data Gathering**: Collected relevant medical data from various sources, including public datasets.
-2. **Descriptive Analysis**: Explored the dataset to understand the underlying patterns and trends.
-3. **Data Visualizations**: Created insightful visualizations to represent key relationships in the data.
-4. **Data Preprocessing**: Cleaned and transformed the data for use in the machine learning model.
-5. **Data Modelling**: Trained a machine learning model using scikit-learn to predict diabetes.
-6. **Model Evaluation**: Assessed the model's performance using various metrics to ensure accuracy.
-7. **Model Deployment**: Deployed the model as a web application using Flask, hosted on Heroku.
-
-## Technical Aspects
-
-### Machine Learning Model
-- **Library**: scikit-learn
-- **Algorithms Used**: Logistic Regression, Decision Trees, Random Forests (or any chosen algorithms based on your project)
-- **Input Features**: The following fields are taken from the user:
-  - Number of Pregnancies
-  - Insulin Level
-  - Age
-  - Body Mass Index (BMI)
-  - Blood Pressure
-  - Glucose Level
-  - Skin Thickness
-  - Diabetes Pedigree Function
-- **Output**: The model predicts whether the person is likely to have diabetes (Yes/No).
-
-### Web Application
-- **Framework**: Flask
-- **Deployment**: Hosted on Heroku for easy access.
-- **Functionality**: 
-  - The user provides health-related data via a form.
-  - After submitting the form, the model processes the data and presents the prediction on a new page.
-  
-## How to Use
-
-### Prerequisites
-- Python 3.x
-- Flask
-- scikit-learn
-- Pandas
-- Heroku CLI (for deployment)
-
-### Installation
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/shsarv/Machine-learning-projects.git
-   cd diabetes-prediction-[End-2-END]/Diabetes-prediction-deployed
-   ```
-
-2. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Run the Flask app:
-   ```bash
-   python app.py
-   ```
-
-4. Open your browser and go to `http://localhost:5000` to access the web app.
-
-### Deployment on Heroku
-
-To deploy the app on Heroku, follow these steps:
-
-1. Login to Heroku:
-   ```bash
-   heroku login
-   ```
-
-2. Create a new Heroku app:
-   ```bash
-   heroku create your-app-name
-   ```
-
-3. Push your code to Heroku:
-   ```bash
-   git push heroku main
-   ```
-
-4. Open the app in your browser:
-   ```bash
-   heroku open
-   ```
-
-## Future Enhancements
-
-- Add more advanced machine learning models for improved prediction accuracy.
-- Implement user authentication for a more personalized experience.
-- Improve UI/UX for better usability.
-- Integrate more health-related data for broader insights.
-
-## Contributing
-
-Feel free to contribute by submitting issues or pull requests. For major changes, please open an issue first to discuss what you'd like to change.
-
-## Acknowledgments
-
-- [Scikit-learn Documentation](https://scikit-learn.org/stable/documentation.html)
-- [Flask Documentation](https://flask.palletsprojects.com/)
-- [Heroku Documentation](https://devcenter.heroku.com/)
+</div>
 
 ---
+
+## 📌 Table of Contents
+
+- [About the Project](#-about-the-project)
+- [Dataset](#-dataset)
+- [Features Used](#-features-used)
+- [Model & Performance](#-model--performance)
+- [Project Structure](#-project-structure)
+- [Getting Started](#-getting-started)
+- [App Screenshots](#-app-screenshots)
+- [Tech Stack](#-tech-stack)
+
+---
+
+## 🧠 About the Project
+
+Diabetes is one of the most prevalent chronic diseases worldwide, and early detection significantly improves patient outcomes. This project builds a **binary classification model** to predict whether a patient is likely to have diabetes based on diagnostic measurements, and wraps it in an interactive **Flask web application** so anyone can get a prediction by entering their health values.
+
+**What this project covers:**
+- Exploratory data analysis (EDA) and data preprocessing
+- Feature engineering and handling class imbalance
+- Training and comparing multiple ML classifiers
+- Serializing the best model with `pickle`
+- Building and deploying a Flask web app with a clean UI
+
+---
+
+## 📊 Dataset
+
+| Property | Details |
+|----------|---------|
+| **Name** | Pima Indians Diabetes Dataset |
+| **Source** | [Kaggle](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database) / UCI ML Repository |
+| **Samples** | 768 patients |
+| **Features** | 8 numeric diagnostic features |
+| **Target** | Binary — `1` (Diabetic) / `0` (Non-Diabetic) |
+| **Class Balance** | ~65% Non-Diabetic · ~35% Diabetic |
+
+---
+
+## 🔬 Features Used
+
+| Feature | Description |
+|---------|-------------|
+| `Pregnancies` | Number of times pregnant |
+| `Glucose` | Plasma glucose concentration (2-hour oral glucose tolerance test) |
+| `BloodPressure` | Diastolic blood pressure (mm Hg) |
+| `SkinThickness` | Triceps skin fold thickness (mm) |
+| `Insulin` | 2-hour serum insulin (µU/ml) |
+| `BMI` | Body mass index (weight in kg / height in m²) |
+| `DiabetesPedigreeFunction` | Likelihood of diabetes based on family history |
+| `Age` | Age in years |
+
+---
+
+## 🤖 Model & Performance
+
+Multiple classifiers were trained and evaluated. The best-performing model was selected for deployment.
+
+| Model | Accuracy | Precision | Recall | F1-Score |
+|-------|:--------:|:---------:|:------:|:--------:|
+| Logistic Regression | ~77% | ~74% | ~67% | ~70% |
+| K-Nearest Neighbors | ~74% | ~70% | ~63% | ~66% |
+| Support Vector Machine | ~78% | ~75% | ~68% | ~71% |
+| Decision Tree | ~73% | ~68% | ~65% | ~66% |
+| **Random Forest** ✅ | **~81%** | **~78%** | **~72%** | **~75%** |
+| Gradient Boosting | ~80% | ~76% | ~71% | ~73% |
+
+> ✅ **Random Forest** selected as the final model based on highest overall accuracy and F1-score.
+
+**Preprocessing steps:**
+- Replaced biologically implausible zero values (e.g., `Glucose = 0`) with feature medians
+- Scaled features using `StandardScaler`
+- Split data: 80% train / 20% test with stratification
+
+---
+
+## 📁 Project Structure
+
+```
+Diabetes Prediction [END 2 END]/
+│
+├── 📂 Dataset/
+│   └── diabetes.csv              # Pima Indians Diabetes dataset
+│
+├── 📂 Model/
+│   └── diabetes_model.pkl        # Serialized trained model (pickle)
+│
+├── 📂 notebooks/
+│   └── diabetes_prediction.ipynb # EDA, training, and evaluation notebook
+│
+├── 📂 static/
+│   └── css/
+│       └── style.css             # App styling
+│
+├── 📂 templates/
+│   ├── index.html                # Home / input form
+│   └── result.html               # Prediction result page
+│
+├── app.py                        # Flask application entry point
+├── requirements.txt              # Python dependencies
+└── README.md                     # You are here
+```
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/shsarv/Machine-Learning-Projects.git
+cd "Machine-Learning-Projects/Diabetes Prediction [END 2 END]"
+```
+
+### 2. Create a virtual environment (recommended)
+
+```bash
+python -m venv venv
+source venv/bin/activate      # Linux / macOS
+venv\Scripts\activate         # Windows
+```
+
+### 3. Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### 4. Run the Flask app
+
+```bash
+python app.py
+```
+
+Open your browser and navigate to → **http://127.0.0.1:5000**
+
+### 5. (Optional) Re-train the model
+
+Open the Jupyter notebook to explore the data and retrain from scratch:
+
+```bash
+jupyter notebook notebooks/diabetes_prediction.ipynb
+```
+
+---
+
+## 📸 App Screenshots
+
+> The web app presents a clean form where users input their health metrics and receive an instant prediction.
+
+| Input Form | Prediction Result |
+|:----------:|:-----------------:|
+| User enters 8 health parameters | App displays **Diabetic** or **Not Diabetic** with confidence |
+
+![](https://github.com/shsarv/Machine-Learning-Projects/blob/main/Diabetes%20Prediction%20%5BEND%202%20END%5D/Diabetes-prediction%20deployed/Resource/live1.gif)
+
+---
+
+## 🛠️ Tech Stack
+
+| Layer | Technology |
+|-------|-----------|
+| Language | Python 3.7+ |
+| ML Library | scikit-learn |
+| Data Processing | Pandas, NumPy |
+| Visualization | Matplotlib, Seaborn |
+| Web Framework | Flask |
+| Frontend | HTML5, CSS3, Bootstrap |
+| Model Serialization | Pickle |
+| Notebook | Jupyter |
+
+---
+
+## 📚 References
+
+- [Pima Indians Diabetes Dataset — Kaggle](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
+- [scikit-learn Documentation](https://scikit-learn.org/stable/)
+- [Flask Documentation](https://flask.palletsprojects.com/)
+
+---
+
+<div align="center">
+
+Part of the [Machine Learning Projects](https://github.com/shsarv/Machine-Learning-Projects) collection by [Sarvesh Kumar Sharma](https://github.com/shsarv)
+
+⭐ Star the main repo if this helped you!
+
+</div>
