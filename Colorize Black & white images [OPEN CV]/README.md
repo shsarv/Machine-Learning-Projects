@@ -1,386 +1,282 @@
-<div class="cell markdown" id="ONf1qRd1K7J7">
+<div align="center">
 
-# Colorize Black white Image
+# 🎨 Colorize Black & White Images — OpenCV Deep Learning
 
-This Deep Learning Project aims to provide colorizing black & white
-images with Python.
+[![Python](https://img.shields.io/badge/Python-3.7+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![OpenCV](https://img.shields.io/badge/OpenCV-DNN-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
+[![Caffe](https://img.shields.io/badge/Caffe-Pre--trained%20Model-red?style=for-the-badge)](http://caffe.berkeleyvision.org/)
+[![Tkinter](https://img.shields.io/badge/Tkinter-GUI%20App-blue?style=for-the-badge)](https://docs.python.org/3/library/tkinter.html)
+[![License](https://img.shields.io/badge/License-MIT-1abc9c?style=for-the-badge)](../LICENSE.md)
 
-In image colorization, we take a black and white image as input and
-produce a colored image. We will solve this project with OpenCV deep
-neural network.
+> Automatically colorizes **black & white images** using a pre-trained deep learning model loaded via **OpenCV DNN** — wrapped in a clean **Tkinter desktop GUI** where you upload an image and get a colorized result instantly.
 
-</div>
-
-<div class="cell markdown" id="pasjVk5WRXMM">
-
-<img src="Animation.gif" />
+[🔙 Back to Main Repository](https://github.com/shsarv/Machine-Learning-Projects)
 
 </div>
 
-<div class="cell markdown" id="Tb-GeIj8Nl6Y">
+---
 
-### Lab Color Space:
+## 📌 Table of Contents
 
-Like RGB, Lab is another color space. It is also three channel color
-space like RGB where the channels are:
+- [About the Project](#-about-the-project)
+- [How It Works](#-how-it-works)
+- [The Science — Lab Color Space](#-the-science--lab-color-space)
+- [The Model — Zhang et al. 2016](#-the-model--zhang-et-al-2016)
+- [Model Files](#-model-files)
+- [Project Structure](#-project-structure)
+- [Getting Started](#-getting-started)
+- [App Preview](#-app-preview)
+- [Tech Stack](#-tech-stack)
+- [References & Citation](#-references--citation)
 
-    L channel: This channel represents the Lightness
-    a channel: This channel represents green-red
-    b channel: This channel represents blue-yellow
+---
 
-In this color space, the grayscale part of the image is only encoded in
-L channel. Therefore Lab color space is more favorable for our project.
+## 🔬 About the Project
 
-</div>
+Manually colorizing historical black & white photographs is an extremely time-consuming artistic process. This project automates it entirely using a **Convolutional Neural Network** trained to "hallucinate" plausible colors for any grayscale input — from old family photos to historical images.
 
-<div class="cell markdown" id="t25jOjTGNpQf">
+Rather than training a model from scratch, the project loads **Richard Zhang et al.'s 2016 pre-trained Caffe model** directly through **OpenCV's DNN module**, making inference fast and dependency-light. The entire experience is wrapped in a **Tkinter GUI** where users upload a grayscale image and receive a colorized version with a single click.
 
-### Problem Statement:
+**What this project covers:**
+- Understanding Lab color space and why it is ideal for colorization
+- Loading and running a pre-trained Caffe model via OpenCV DNN
+- Image preprocessing: RGB → Lab, extracting the L channel as input
+- Post-processing: merging predicted `ab` channels back with `L`, converting Lab → BGR
+- Building a desktop GUI with Tkinter for real-time image upload and display
 
-deep learning project colorize black white images with python
+---
 
-We can formulate our problem statement as to predict a and b channels,
-given an input grayscale image.
+## ⚙️ How It Works
 
-In this deep learning project, we will use OpenCV DNN architecture which
-is trained on ImageNet dataset. The neural net is trained with the L
-channel of images as input data and a,b channels as target data.
-
-</div>
-
-<div class="cell markdown" id="JF04ygEWN1Dg">
-
-#### Steps to implement Image Colorization Project:
-
-For colorizing black and white images we will be using a pre-trained
-caffe model, a prototxt file, and a NumPy file.
-
-The prototxt file defines the network and the numpy file stores the
-cluster center points in numpy format.
-
-1.  Make a directory with name models.
-
-</div>
-
-<div class="cell code" data-execution_count="1" id="iyWZYzh65gX2">
-
-``` python
-!mkdir models
+```
+Input: Grayscale / B&W Image
+              │
+              ▼
+   Convert: BGR → RGB → Lab
+              │
+              ▼
+   Extract L channel (lightness only)
+   Resize to 224 × 224
+              │
+              ▼
+   OpenCV DNN Forward Pass
+   (Zhang et al. Caffe model)
+              │
+              ▼
+   Predict ab channels
+   (313 quantized color bins → soft-decoded to ab)
+              │
+              ▼
+   Resize predicted ab → original image size
+              │
+              ▼
+   Concatenate: L (original) + ab (predicted)
+              │
+              ▼
+   Convert: Lab → BGR
+   Clip values to [0, 1], scale to [0, 255]
+              │
+              ▼
+   Output: Colorized Image → Display in GUI / Save
 ```
 
-</div>
+---
 
-<div class="cell markdown" id="aTQIFk1MN8-U">
+## 🎨 The Science — Lab Color Space
 
-download the caffemodel, prototxt file and the NumPy file.
+This project uses the **Lab color space** rather than the familiar RGB. Here's why it matters:
 
-</div>
+| Channel | Represents | Role in This Project |
+|---------|-----------|---------------------|
+| **L** | Lightness (0 = black, 100 = white) | Input to the model — this IS the grayscale image |
+| **a** | Green ↔ Red axis | Predicted by the neural network |
+| **b** | Blue ↔ Yellow axis | Predicted by the neural network |
 
-<div class="cell code" data-execution_count="3" data-colab="{&quot;base_uri&quot;:&quot;https://localhost:8080/&quot;}" id="lE0XfKuP5kZd" data-outputId="4d70b345-f785-43b1-9d29-88f4c482f8ed">
+**The key insight:** In Lab, grayscale information is *entirely* encoded in the `L` channel. Color information lives only in `a` and `b`. This means the model only needs to learn to predict two channels from one — a much cleaner problem than mapping RGB to RGB.
 
-``` python
-!wget https://github.com/richzhang/colorization/blob/caffe/colorization/resources/pts_in_hull.npy?raw=true -O ./pts_in_hull.npy
+```
+Grayscale Image = L channel
+                  │
+         ┌────────┴────────┐
+         ▼                 ▼
+  Neural Network      (kept as-is)
+  predicts: a, b          L
+         │                 │
+         └────────┬────────┘
+                  ▼
+           Lab image → BGR
+           = Colorized Output
 ```
 
-</div>
+---
 
-<div class="cell code" data-execution_count="4" data-colab="{&quot;base_uri&quot;:&quot;https://localhost:8080/&quot;}" id="fLpvCltE5u72" data-outputId="567f403e-e26c-4bfd-9c06-c938b5ba4743">
+## 🧠 The Model — Zhang et al. 2016
 
-``` python
-!wget https://raw.githubusercontent.com/richzhang/colorization/caffe/colorization/models/colorization_deploy_v2.prototxt -O ./models/colorization_deploy_v2.prototxt
+The colorization model is from the landmark 2016 ECCV paper **"Colorful Image Colorization"** by Richard Zhang, Phillip Isola, and Alexei A. Efros (UC Berkeley).
+
+**Key design choices in the paper:**
+
+| Aspect | Detail |
+|--------|--------|
+| **Training data** | 1.3M images from ImageNet (Lab converted) |
+| **Input** | L channel (grayscale), resized to 224×224 |
+| **Output** | Predicted `ab` channels over 313 quantized color bins |
+| **Loss function** | Multinomial cross-entropy with rebalanced class weights (to prevent desaturated outputs) |
+| **Architecture** | Deep CNN with 8 conv blocks, no pooling — uses dilated convolutions to preserve spatial resolution |
+| **Color decoding** | Annealed-mean of the 313 bin distribution (avoids washed-out grays from using the mean) |
+
+> **Why 313 bins?** The `ab` color space is quantized into 313 bins with a grid size of 10. The model predicts a probability distribution over all 313 possible colors for each pixel, then decodes to a single `ab` value.
+
+---
+
+## 📦 Model Files
+
+Three files are required to run inference. They are **not included** in the repository due to size and must be downloaded separately:
+
+| File | Description | Download |
+|------|-------------|---------|
+| `colorization_release_v2.caffemodel` | Pre-trained model weights (~125 MB) | [Berkeley EECS](http://eecs.berkeley.edu/~rich.zhang/projects/2016_colorization/files/demo_v2/colorization_release_v2.caffemodel) |
+| `colorization_deploy_v2.prototxt` | Network architecture definition | [richzhang/colorization](https://raw.githubusercontent.com/richzhang/colorization/master/colorization/models/colorization_deploy_v2.prototxt) |
+| `pts_in_hull.npy` | 313 cluster center points in ab space | [richzhang/colorization](https://github.com/richzhang/colorization/blob/caffe/colorization/resources/pts_in_hull.npy?raw=true) |
+
+Download all three with:
+
+```bash
+mkdir -p models
+
+# Caffe model weights (~125 MB)
+wget http://eecs.berkeley.edu/~rich.zhang/projects/2016_colorization/files/demo_v2/colorization_release_v2.caffemodel \
+     -O ./models/colorization_release_v2.caffemodel
+
+# Network prototxt definition
+wget https://raw.githubusercontent.com/richzhang/colorization/master/colorization/models/colorization_deploy_v2.prototxt \
+     -O ./models/colorization_deploy_v2.prototxt
+
+# Cluster centers (ab quantization bins)
+wget https://github.com/richzhang/colorization/blob/caffe/colorization/resources/pts_in_hull.npy?raw=true \
+     -O ./pts_in_hull.npy
 ```
 
+---
 
+## 📁 Project Structure
 
-</div>
-
-<div class="cell code" data-execution_count="5" data-colab="{&quot;base_uri&quot;:&quot;https://localhost:8080/&quot;}" id="OmIJf0BI7acl" data-outputId="ad130ef0-f3bf-4730-c9af-415d9831c25f">
-
-``` python
-!wget http://eecs.berkeley.edu/~rich.zhang/projects/2016_colorization/files/demo_v2/colorization_release_v2.caffemodel -O ./models/colorization_release_v2.caffemodel
+```
+Colorize Black & white images [OPEN CV]/
+│
+├── 📂 models/
+│   ├── colorization_release_v2.caffemodel    # Pre-trained weights (download separately)
+│   └── colorization_deploy_v2.prototxt       # Network architecture
+│
+├── pts_in_hull.npy                           # 313 ab color bin cluster centers
+├── colorize.py                               # Core colorization logic (OpenCV DNN pipeline)
+├── gui.py                                    # Tkinter GUI application
+├── new.jpg                                   # Sample test image
+├── result.png                                # Sample colorized output
+├── requirements.txt                          # Python dependencies
+└── README.md                                 # You are here
 ```
 
-</div>
+---
 
-<div class="cell markdown" id="hu-I5bAeOCHp">
+## 🚀 Getting Started
 
-### Import Essential Library
+### 1. Clone the repository
 
-</div>
-
-<div class="cell code" data-execution_count="12" id="RUWZq8Sq7g4m">
-
-``` python
-import numpy as np
-import cv2 as cv
-from matplotlib import pyplot as plt
-import os.path
+```bash
+git clone https://github.com/shsarv/Machine-Learning-Projects.git
+cd "Machine-Learning-Projects/Colorize Black & white images [OPEN CV]"
 ```
 
-</div>
+### 2. Set up environment
 
-<div class="cell markdown" id="lwURjJ_IOFyk">
+```bash
+python -m venv venv
+source venv/bin/activate        # Linux / macOS
+venv\Scripts\activate           # Windows
 
-### Read B\&W image and load the caffemodel:
-
-</div>
-
-<div class="cell code" data-execution_count="14" data-colab="{&quot;height&quot;:269,&quot;base_uri&quot;:&quot;https://localhost:8080/&quot;}" id="qm-fStTe7ybo" data-outputId="a2542c6b-f748-4ad1-9313-149c8b3cf28c">
-
-``` python
-frame = cv.imread("new.jpg")
-
-numpy_file = np.load('./pts_in_hull.npy')
-Caffe_net = cv.dnn.readNetFromCaffe("./models/colorization_deploy_v2.prototxt", "./models/colorization_release_v2.caffemodel")
-
-
-
-rgb_img = cv.cvtColor(frame, cv.COLOR_BGR2RGB)		# this converts it into RGB
-plt.imshow(rgb_img)
-plt.show()
+pip install -r requirements.txt
 ```
 
-<div class="output display_data">
+### 3. Download model files
 
-![](input.png)
+Run the wget commands from the [Model Files](#-model-files) section above, or download manually and place them in `./models/`.
 
-</div>
+### 4. Run the GUI app
 
-</div>
-
-<div class="cell markdown" id="qgVEsYfxONnb">
-
-### Add layers to the caffe model:
-
-</div>
-
-<div class="cell code" data-execution_count="9" id="f-UAR2AS72yi">
-
-``` python
-numpy_file = numpy_file.transpose().reshape(2, 313, 1, 1)
-Caffe_net.getLayer(Caffe_net.getLayerId('class8_ab')).blobs = [numpy_file.astype(np.float32)]
-Caffe_net.getLayer(Caffe_net.getLayerId('conv8_313_rh')).blobs = [np.full([1, 313], 2.606, np.float32)]
+```bash
+python gui.py
 ```
 
-</div>
+This opens the Tkinter desktop window:
+- **File → Upload Image** — select any grayscale or black & white `.jpg` / `.png`
+- **File → Color Image** — run the colorization model and display the result
 
-<div class="cell markdown" id="jxty2X4BORrv">
+### 5. Run colorization directly (no GUI)
 
-### Extract L channel and resize it:
-
-</div>
-
-<div class="cell code" data-execution_count="10" id="r4UdVyYx8l8N">
-
-``` python
-input_width = 224
-input_height = 224
-
-rgb_img = (frame[:,:,[2, 1, 0]] * 1.0 / 255).astype(np.float32)
-lab_img = cv.cvtColor(rgb_img, cv.COLOR_RGB2Lab)
-l_channel = lab_img[:,:,0] 
-
-l_channel_resize = cv.resize(l_channel, (input_width, input_height)) 
-l_channel_resize -= 50
+```bash
+python colorize.py --image new.jpg
+# Outputs: result.png in the current directory
 ```
 
-</div>
+---
 
-<div class="cell markdown" id="KhrO4zrIOWPA">
+## 🖥️ App Preview
 
-### Predict the ab channel and save the result:
-
-</div>
-
-<div class="cell code" data-execution_count="11" data-colab="{&quot;base_uri&quot;:&quot;https://localhost:8080/&quot;}" id="Quh9YGtL8oR5" data-outputId="450a4077-e0cb-4f13-e308-68977d7073e9">
-
-``` python
-Caffe_net.setInput(cv.dnn.blobFromImage(l_channel_resize))
-ab_channel = Caffe_net.forward()[0,:,:,:].transpose((1,2,0)) 
-
-(original_height,original_width) = rgb_img.shape[:2] 
-ab_channel_us = cv.resize(ab_channel, (original_width, original_height))
-lab_output = np.concatenate((l_channel[:,:,np.newaxis],ab_channel_us),axis=2) 
-bgr_output = np.clip(cv.cvtColor(lab_output, cv.COLOR_Lab2BGR), 0, 1)
-
-cv.imwrite("./result.png", (bgr_output*255).astype(np.uint8))
+```
+┌──────────────────────────────────────────────────┐
+│           B&W Image Colorization                 │
+│  File ▾                                          │
+│  ├── Upload Image                                │
+│  └── Color Image                                 │
+│                                                  │
+│  ┌───────────────────┐  ┌───────────────────┐    │
+│  │                   │  │                   │    │
+│  │   [B&W Input]     │  │  [Colorized Out]  │    │
+│  │                   │  │                   │    │
+│  └───────────────────┘  └───────────────────┘    │
+└──────────────────────────────────────────────────┘
 ```
 
-<div class="output execute_result" data-execution_count="11">
+---
 
-    True
+## 🛠️ Tech Stack
 
-</div>
+| Layer | Technology |
+|-------|-----------|
+| Language | Python 3.7+ |
+| Computer Vision | OpenCV (`cv2.dnn`) |
+| Pre-trained Model | Caffe (Zhang et al. 2016) |
+| GUI Framework | Tkinter |
+| Numerical Computing | NumPy |
+| Visualization | Matplotlib |
 
-</div>
+---
 
-<div class="cell markdown" id="QP2B9ifWOY_o">
+## 📚 References & Citation
 
-### Output
+**Paper behind the model:**
 
-</div>
-
-<div class="cell code" data-execution_count="15" data-colab="{&quot;height&quot;:269,&quot;base_uri&quot;:&quot;https://localhost:8080/&quot;}" id="l59rGCbJ8sk3" data-outputId="ae2952af-376b-40d3-e49d-832853706fb2">
-
-``` python
-frame1 = cv.imread("result.png")
-rgb_img = cv.cvtColor(frame1, cv.COLOR_BGR2RGB)		# this converts it into RGB
-plt.imshow(rgb_img)
-plt.show()
+```bibtex
+@inproceedings{zhang2016colorful,
+  title     = {Colorful Image Colorization},
+  author    = {Zhang, Richard and Isola, Phillip and Efros, Alexei A},
+  booktitle = {ECCV},
+  year      = {2016}
+}
 ```
 
-<div class="output display_data">
+- [Colorful Image Colorization — Zhang et al. (2016)](https://arxiv.org/abs/1603.08511)
+- [Official Demo & Model — richzhang/colorization](https://github.com/richzhang/colorization)
+- [OpenCV DNN colorization sample](https://github.com/opencv/opencv/blob/master/samples/dnn/colorization.py)
+- [PyImageSearch Tutorial — Adrian Rosebrock](https://pyimagesearch.com/2019/02/25/black-and-white-image-colorization-with-opencv-and-deep-learning/)
 
-![](output.png)
+---
 
-</div>
+<div align="center">
 
-</div>
+Part of the [Machine Learning Projects](https://github.com/shsarv/Machine-Learning-Projects) collection by [Sarvesh Kumar Sharma](https://github.com/shsarv)
 
-<div class="cell markdown" id="deB9kvi3OgAI">
-
-## Code for GUI:
-
-</div>
-
-<div class="cell code" data-execution_count="22" data-colab="{&quot;base_uri&quot;:&quot;https://localhost:8080/&quot;}" id="d4IxXTo-Akzj" data-outputId="f4d92e86-eab0-4066-e157-4ec730618d5d">
-
-``` python
-%%writefile gui.py
-
-import tkinter as tk
-from tkinter import *
-from tkinter import filedialog
-from PIL import Image, ImageTk
-import os
-import numpy as np
-import cv2 as cv
-import os.path
-import matplotlib
-matplotlib.use('Agg')
-
-import sys
-import os
-
-if os.environ.get('DISPLAY','') == '':
-    print('no display found. Using :0.0')
-    os.environ.__setitem__('DISPLAY', ':0.0')
-    
-numpy_file = np.load('./pts_in_hull.npy')
-Caffe_net = cv.dnn.readNetFromCaffe("./models/colorization_deploy_v2.prototxt", "./models/colorization_release_v2.caffemodel")
-numpy_file = numpy_file.transpose().reshape(2, 313, 1, 1)
-
-class Window(Frame):
-    def __init__(self, master=None):
-        Frame.__init__(self, master)
-
-        self.master = master
-        self.pos = []
-        self.master.title("B&W Image Colorization")
-        self.pack(fill=BOTH, expand=1)
-
-        menu = Menu(self.master)
-        self.master.config(menu=menu)
-
-        file = Menu(menu)
-        file.add_command(label="Upload Image", command=self.uploadImage)
-        file.add_command(label="Color Image", command=self.color)
-        menu.add_cascade(label="File", menu=file)
-
-        self.canvas = tk.Canvas(self)
-        self.canvas.pack(fill=tk.BOTH, expand=True)
-        self.image = None
-        self.image2 = None
-
-        label1=Label(self,image=img)
-        label1.image=img
-        label1.place(x=400,y=370)
-
-
-
-
-    def uploadImage(self):
-        filename = filedialog.askopenfilename(initialdir=os.getcwd())
-        if not filename:
-            return
-        load = Image.open(filename)
-
-        load = load.resize((480, 360), Image.ANTIALIAS)
-
-        if self.image is None:
-            w, h = load.size
-            width, height = root.winfo_width(), root.winfo_height()
-            self.render = ImageTk.PhotoImage(load)
-            self.image = self.canvas.create_image((w / 2, h / 2), image=self.render)
-           
-        else:
-            self.canvas.delete(self.image3)
-            w, h = load.size
-            width, height = root.winfo_screenmmwidth(), root.winfo_screenheight()
-           
-            self.render2 = ImageTk.PhotoImage(load)
-            self.image2 = self.canvas.create_image((w / 2, h / 2), image=self.render2)
-
-
-        frame = cv.imread(filename)
-    
-        Caffe_net.getLayer(Caffe_net.getLayerId('class8_ab')).blobs = [numpy_file.astype(np.float32)]
-        Caffe_net.getLayer(Caffe_net.getLayerId('conv8_313_rh')).blobs = [np.full([1, 313], 2.606, np.float32)]
-
-        input_width = 224
-        input_height = 224
-
-        rgb_img = (frame[:,:,[2, 1, 0]] * 1.0 / 255).astype(np.float32)
-        lab_img = cv.cvtColor(rgb_img, cv.COLOR_RGB2Lab)
-        l_channel = lab_img[:,:,0] 
-
-        l_channel_resize = cv.resize(l_channel, (input_width, input_height)) 
-        l_channel_resize -= 50 
-
-        Caffe_net.setInput(cv.dnn.blobFromImage(l_channel_resize))
-        ab_channel = Caffe_net.forward()[0,:,:,:].transpose((1,2,0)) 
-
-        (original_height,original_width) = rgb_img.shape[:2] 
-        ab_channel_us = cv.resize(ab_channel, (original_width, original_height))
-        lab_output = np.concatenate((l_channel[:,:,np.newaxis],ab_channel_us),axis=2) 
-        bgr_output = np.clip(cv.cvtColor(lab_output, cv.COLOR_Lab2BGR), 0, 1)
-
-  
-        cv.imwrite("./result.png", (bgr_output*255).astype(np.uint8))
-
-    def color(self):
-
-        load = Image.open("./result.png")
-        load = load.resize((480, 360), Image.ANTIALIAS)
-
-        if self.image is None:
-            w, h = load.size
-            self.render = ImageTk.PhotoImage(load)
-            self.image = self.canvas.create_image((w / 2, h/2), image=self.render)
-            root.geometry("%dx%d" % (w, h))
-        else:
-            w, h = load.size
-            width, height = root.winfo_screenmmwidth(), root.winfo_screenheight()
-
-            self.render3 = ImageTk.PhotoImage(load)
-            self.image3 = self.canvas.create_image((w / 2, h / 2), image=self.render3)
-            self.canvas.move(self.image3, 500, 0)
- 
-
-root = tk.Tk()
-root.geometry("%dx%d" % (980, 600))
-root.title("B&W Image Colorization GUI")
-img = ImageTk.PhotoImage(Image.open("logo2.png"))
-
-app = Window(root)
-app.pack(fill=tk.BOTH, expand=1)
-root.mainloop()
-```
-
-<div class="output stream stdout">
-
-    Overwriting gui.py
-
-</div>
+⭐ Star the main repo if this helped you!
 
 </div>
