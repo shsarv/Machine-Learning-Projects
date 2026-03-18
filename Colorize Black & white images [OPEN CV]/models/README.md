@@ -1,1 +1,1 @@
-# download the model file from [here](https://drive.google.com/file/d/14YmdCfcMOgfJEBNJEl6Xj1SB-RccgJBO/view?usp=sharing) and add them to this folder in order to run this project.
+# download the model file from [https://huggingface.co/spaces/BilalSardar/Black-N-White-To-Color/blob/main/colorization_release_v2.caffemodel](https://huggingface.co/spaces/BilalSardar/Black-N-White-To-Color/blob/main/colorization_release_v2.caffemodel) and add them to this folder in order to run this project.

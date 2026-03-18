@@ -1,105 +1,314 @@
-# Driver Drowsiness Detection System
+<div align="center">
 
-## Introduction
+# 😴 Driver Drowsiness Detection — OpenCV + Keras CNN
 
-This project focuses on building a Driver Drowsiness Detection System that monitors a driver's eye status using a webcam and alerts them if they appear drowsy. We utilize **OpenCV** for image capture and preprocessing, while a **Convolutional Neural Network (CNN)** model classifies whether the driver's eyes are 'Open' or 'Closed.' If drowsiness is detected, an alarm is triggered to alert the driver.
+[![Python](https://img.shields.io/badge/Python-3.7+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
+[![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)](https://keras.io/)
+[![Pygame](https://img.shields.io/badge/Pygame-Alarm-green?style=for-the-badge)](https://www.pygame.org/)
+[![Real-Time](https://img.shields.io/badge/Real--Time-Webcam-brightgreen?style=for-the-badge)]()
+[![License](https://img.shields.io/badge/License-MIT-1abc9c?style=for-the-badge)](../LICENSE.md)
 
-## Project Overview
+> A **real-time driver drowsiness detection system** that uses **Haar Cascade classifiers** to locate the driver's eyes in every webcam frame and a **custom-trained CNN** (`cnnCat2.h5`) to classify each eye as **Open** or **Closed** — sounding a `pygame` alarm when drowsiness is detected.
 
-### Steps in the Detection Process:
-1. **Image Capture**: Capture the image using a webcam.
-2. **Face Detection**: Detect the face in the captured image and create a Region of Interest (ROI).
-3. **Eye Detection**: Detect the eyes from the ROI and feed them into the classifier.
-4. **Eye Classification**: The classifier categorizes whether the eyes are open or closed.
-5. **Drowsiness Score Calculation**: Calculate a score to determine if the driver is drowsy based on how long their eyes remain closed.
+[🔙 Back to Main Repository](https://github.com/shsarv/Machine-Learning-Projects)
 
-## CNN Model
-
-The **Convolutional Neural Network (CNN)** architecture consists of the following layers:
-- **Convolutional Layers**:
-  - 32 nodes, kernel size 3
-  - 32 nodes, kernel size 3
-  - 64 nodes, kernel size 3
-- **Fully Connected Layers**:
-  - 128 nodes
-  - Output layer: 2 nodes (with Softmax activation for classification)
-
-### Activation Function:
-- **ReLU**: Used in all layers except the output layer.
-- **Softmax**: Used in the output layer to classify the eyes as either 'Open' or 'Closed.'
-
-## Project Prerequisites
-
-### Required Hardware:
-- A webcam for image capture.
-
-### Required Libraries:
-Ensure Python (version 3.6 recommended) is installed on your system. Then, install the following libraries using `pip`:
-
-```bash
-pip install opencv-python
-pip install tensorflow
-pip install keras
-pip install pygame
-```
-
-### Other Project Files:
-- **Haar Cascade Files**: Located in the "haar cascade files" folder, these XML files are necessary for detecting faces and eyes.
-- **Model File**: The "models" folder contains the pre-trained CNN model `cnnCat2.h5`.
-- **Alarm Sound**: The audio clip `alarm.wav` will play when drowsiness is detected.
-- **Python Files**:
-  - `Model.py`: The file used to build and train the CNN model.
-  - `Drowsiness detection.py`: The main file that executes the driver drowsiness detection system.
-
-## How the Algorithm Works
-
-### Step 1 – Image Capture
-The webcam captures images in real-time using `cv2.VideoCapture(0)` and processes each frame. The frames are stored in a variable `frame`.
-
-### Step 2 – Face Detection
-The image is converted to grayscale for face detection using a **Haar Cascade Classifier**. The faces are detected using `detectMultiScale()`, and boundary boxes are drawn around the detected faces.
-
-### Step 3 – Eye Detection
-Similar to face detection, eyes are detected within the ROI using another cascade classifier. The eye images are extracted and passed to the CNN model for classification.
-
-### Step 4 – Eye Classification
-The extracted eye images are preprocessed by resizing to 24x24 pixels, normalizing the values, and then passed into the CNN model (`cnnCat2.h5`). The model predicts whether the eyes are open or closed.
-
-### Step 5 – Drowsiness Detection
-A score is calculated based on the status of both eyes. If both eyes are closed for an extended period, the score increases, indicating drowsiness. If the score exceeds a threshold, an alarm is triggered using the **Pygame** library.
-
-## Execution Instructions
-
-### Running the Detection System
-
-1. Open the command prompt and navigate to the directory where the main file `drowsiness detection.py` is located.
-2. Run the script using the following command:
-
-```bash
-python drowsiness detection.py
-```
-
-The system will access the webcam and start detecting drowsiness. The real-time status will be displayed on the screen.
-
-## Summary
-
-This Python project implements a **Driver Drowsiness Detection System** using **OpenCV** and a **CNN model** to detect whether the driver’s eyes are open or closed. When the eyes are detected as closed for a prolonged time, an alert sound is played to prevent potential accidents. This system can be implemented in vehicles or other applications to enhance driver safety.
-
-## Future Enhancements
-
-- Improve the detection accuracy by training on a larger dataset.
-- Implement real-time monitoring for multiple people.
-- Add functionalities to detect other signs of drowsiness like head tilting or yawning.
-  
-## Contributing
-
-Feel free to contribute by submitting issues or pull requests. For major changes, please open an issue to discuss the proposed changes before submitting a PR.
-
-
-## Acknowledgments
-
-- [OpenCV Documentation](https://opencv.org/)
-- [Keras Documentation](https://keras.io/)
-- [TensorFlow Documentation](https://www.tensorflow.org/)
+</div>
 
 ---
+
+## ⚠️ Safety Context
+
+> Drowsy driving causes thousands of road fatalities annually. This system provides a real-time, automated alert to combat driver fatigue using a lightweight CNN that runs entirely on a standard webcam feed.
+
+---
+
+## 📌 Table of Contents
+
+- [About the Project](#-about-the-project)
+- [How It Works](#-how-it-works)
+- [CNN Model Architecture](#-cnn-model-architecture)
+- [Dataset](#-dataset)
+- [Haar Cascade Files](#-haar-cascade-files)
+- [Scoring & Alert Logic](#-scoring--alert-logic)
+- [Project Structure](#-project-structure)
+- [Getting Started](#-getting-started)
+- [Tech Stack](#-tech-stack)
+- [Known Limitations](#-known-limitations)
+- [References](#-references)
+
+---
+
+## 🔬 About the Project
+
+This project detects driver drowsiness through a two-stage pipeline:
+
+1. **Detection** — OpenCV Haar Cascade classifiers locate the face and each eye (left, right) in every frame
+2. **Classification** — A custom-trained Keras CNN (`cnnCat2.h5`) classifies each eye ROI as **Open** or **Closed**
+
+A running score is incremented each frame when eyes are detected as closed. When the score crosses a threshold, `pygame` plays `alarm.wav` and a "**DROWSY**" warning is overlaid on the video feed.
+
+**What this project covers:**
+- Training a binary CNN classifier on a custom ~7,000-image eye dataset
+- Real-time face and eye detection with OpenCV Haar cascades
+- Score-based drowsiness logic (accumulate → threshold → alarm)
+- Alarm playback with `pygame.mixer`
+
+---
+
+## ⚙️ How It Works
+
+```
+Webcam Frame (live stream)
+         │
+         ▼
+  Convert BGR → Grayscale
+         │
+         ▼
+  Haar Cascade: Detect Face
+  (haarcascade_frontalface_alt.xml)
+         │
+         ▼
+  Haar Cascade: Detect Eyes from frame
+  ├── Left Eye  (haarcascade_lefteye_2splits.xml)
+  └── Right Eye (haarcascade_righteye_2splits.xml)
+         │
+         ▼
+  Crop Eye ROI → Resize → Normalize
+         │
+         ▼
+  CNN Forward Pass (cnnCat2.h5)
+  → Predict: ['Close', 'Open']
+  → rpred / lpred updated per frame
+         │
+         ├── Both eyes Open  → score decremented (min 0)
+         │
+         └── Eye(s) Closed   → score incremented
+                   │
+                   └── score > threshold
+                             │
+                             ▼
+                      🔔 pygame alarm.wav
+                      📺 "DROWSY" on screen
+                      🟥 Red border on frame
+```
+
+---
+
+## 🧠 CNN Model Architecture
+
+`model.py` defines and trains the CNN classifier. The trained weights are saved as `models/cnnCat2.h5`.
+
+```
+Input: Eye ROI image (24 × 24 × 1, grayscale)
+         │
+         ▼
+Conv2D(32, 3×3) → ReLU → MaxPool(1,1)
+Conv2D(32, 3×3) → ReLU → MaxPool(1,1)
+Conv2D(64, 3×3) → ReLU → MaxPool(1,1)
+         │
+         ▼
+Flatten
+Dense(128) → ReLU
+Dropout(0.5)
+Dense(2) → Softmax
+         │
+         ▼
+Output: ['Close', 'Open']
+```
+
+**Training configuration:**
+
+| Parameter | Value |
+|-----------|-------|
+| Classes | 2 — `Close` / `Open` |
+| Input Size | 24 × 24 × 1 (grayscale) |
+| Optimizer | Adam |
+| Loss | Categorical Cross-Entropy |
+| Activation (hidden) | ReLU |
+| Activation (output) | Softmax |
+| Regularization | Dropout (0.5) |
+
+---
+
+## 📊 Dataset
+
+| Property | Details |
+|----------|---------|
+| **Type** | Custom — captured via webcam script |
+| **Total Images** | ~7,000 eye images |
+| **Classes** | `Open` / `Close` |
+| **Conditions** | Various lighting conditions |
+| **Cleaning** | Manually cleaned to remove unusable frames |
+
+The dataset was created by writing a capture script that crops eye regions frame by frame and saves them to disk, labeled by folder (`Open/` or `Closed/`). It was then manually reviewed to remove noisy or ambiguous images.
+
+> **Want to train on your own data?** Run `model.py` against your own captured eye dataset following the same `Open/Close` folder structure.
+
+---
+
+## 📂 Haar Cascade Files
+
+Three XML classifiers are used from the `haar cascade files/` folder:
+
+| File | Purpose |
+|------|---------|
+| `haarcascade_frontalface_alt.xml` | Detects the driver's face bounding box |
+| `haarcascade_lefteye_2splits.xml` | Detects the left eye region within the frame |
+| `haarcascade_righteye_2splits.xml` | Detects the right eye region within the frame |
+
+These are pre-trained OpenCV Haar cascades — no training required. They are loaded in `drowsinessdetection.py` as:
+
+```python
+face  = cv2.CascadeClassifier('haar cascade files/haarcascade_frontalface_alt.xml')
+leye  = cv2.CascadeClassifier('haar cascade files/haarcascade_lefteye_2splits.xml')
+reye  = cv2.CascadeClassifier('haar cascade files/haarcascade_righteye_2splits.xml')
+```
+
+---
+
+## 🎯 Scoring & Alert Logic
+
+The system uses a **running score counter** rather than a fixed-frame threshold:
+
+```python
+lbl = ['Close', 'Open']   # CNN output labels
+
+# Per frame:
+if rpred[0] == 0 and lpred[0] == 0:   # Both eyes closed
+    score += 1
+    cv2.putText(frame, "Closed", ...)
+else:                                  # Eyes open
+    score -= 1
+    cv2.putText(frame, "Open", ...)
+
+score = max(score, 0)                  # Score never goes negative
+
+if score > 15:                         # Drowsiness threshold
+    # Sound alarm
+    mixer.Sound('alarm.wav').play()
+    # Draw red border on frame
+    thicc = min(thicc + 2, 16)
+    cv2.rectangle(frame, (0,0), (width,height), (0,0,255), thicc)
+```
+
+| Variable | Value | Meaning |
+|----------|:-----:|---------|
+| `score` threshold | **15** | Frames of closed eyes before alarm |
+| `rpred` / `lpred` | `0` = Closed, `1` = Open | CNN prediction per eye |
+| Border thickness `thicc` | Grows up to 16px | Visual urgency indicator |
+
+---
+
+## 📁 Project Structure
+
+```
+Drowsiness detection [OPEN CV]/
+│
+├── 📂 haar cascade files/
+│   ├── haarcascade_frontalface_alt.xml     # Face detector
+│   ├── haarcascade_lefteye_2splits.xml     # Left eye detector
+│   └── haarcascade_righteye_2splits.xml    # Right eye detector
+│
+├── 📂 models/
+│   └── cnnCat2.h5                          # Trained CNN weights (download separately)
+│
+├── drowsinessdetection.py                  # Main script — webcam loop + detection + alarm
+├── model.py                                # CNN model definition + training script
+├── alarm.wav                               # Alert sound file
+└── README.md                               # You are here
+```
+
+> **Note:** `models/cnnCat2.h5` is not included in the repo due to GitHub file size limits. Download it from the Google Drive link in the project or train your own by running `model.py`.
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/shsarv/Machine-Learning-Projects.git
+cd "Machine-Learning-Projects/Drowsiness detection [OPEN CV]"
+```
+
+### 2. Set up environment
+
+```bash
+python -m venv venv
+source venv/bin/activate        # Linux / macOS
+venv\Scripts\activate           # Windows
+
+pip install -r requirements.txt
+```
+
+### 3. Download the trained model
+
+The `cnnCat2.h5` model file must be placed in the `models/` folder. Download it from the link provided in the repository issues/releases, then:
+
+```bash
+mkdir models
+# Place cnnCat2.h5 inside models/
+```
+
+Or train your own model from scratch:
+
+```bash
+python model.py
+# Saves models/cnnCat2.h5 automatically
+```
+
+### 4. Run the detector
+
+```bash
+python drowsinessdetection.py
+```
+
+- The webcam opens automatically
+- Eyes detected as closed → score increments
+- Score exceeds threshold → **alarm sounds + red border appears**
+- Press **`q`** to quit
+
+---
+
+## 🛠️ Tech Stack
+
+| Layer | Technology |
+|-------|-----------|
+| Language | Python 3.7+ |
+| Computer Vision | OpenCV (`cv2`) |
+| Eye Detection | Haar Cascade Classifiers |
+| Deep Learning | Keras + TensorFlow backend |
+| Model | Custom CNN (`cnnCat2.h5`) |
+| Audio Alarm | Pygame (`pygame.mixer`) |
+| Numerical Processing | NumPy |
+
+---
+
+## ⚠️ Known Limitations
+
+| Limitation | Detail |
+|-----------|--------|
+| **Lighting sensitivity** | Haar cascades and CNN accuracy drop under poor or uneven lighting |
+| **Glasses / sunglasses** | Frames and tinted lenses obstruct eye detection |
+| **Head pose** | Extreme angles may cause Haar cascade face/eye detection to fail |
+| **Single eye closure** | If only one eye closes (winking), score increments only partially |
+| **No yawn detection** | Fatigue from yawning is not measured — only eye closure |
+
+---
+
+## 📚 References
+
+- [OpenCV Haar Cascade Documentation](https://docs.opencv.org/4.x/db/d28/tutorial_cascade_classifier.html)
+- [Keras Documentation](https://keras.io/)
+- [Pygame mixer Documentation](https://www.pygame.org/docs/ref/mixer.html)
+
+---
+
+<div align="center">
+
+Part of the [Machine Learning Projects](https://github.com/shsarv/Machine-Learning-Projects) collection by [Sarvesh Kumar Sharma](https://github.com/shsarv)
+
+⭐ Star the main repo if this helped you!
+
+</div>
